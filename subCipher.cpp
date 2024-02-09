@@ -44,17 +44,37 @@ string decrypt(string message, const string& key) {
     return decrypted_message;
 }
 
-int main() {
-    string key = "VIMJ"; // Example key
-    string message = "HELLO WORLD"; // Example message
+int main(int argc, char *argv[]) {
+    if (argc != 2) {
+        cerr << "Usage: " << argv[0] << " [encrypt/decrypt]" << endl;
+        return 1;
+    }
 
-    // Encrypt the message
-    string encrypted_message = encrypt(message, key);
-    cout << "Encrypted message: " << encrypted_message << endl;
+    string operation = argv[1];
 
-    // Decrypt the encrypted message
-    string decrypted_message = decrypt(encrypted_message, key);
-    cout << "Decrypted message: " << decrypted_message << endl;
+    if (operation != "encrypt" && operation != "decrypt") {
+        cerr << "Invalid operation. Please specify 'encrypt' or 'decrypt'." << endl;
+        return 1;
+    }
+
+    string key, message;
+
+    cout << "Enter the key: ";
+    cin >> key;
+
+    cout << "Enter the message: ";
+    cin.ignore(); // Clear the input buffer
+    getline(cin, message);
+
+    if (operation == "encrypt") {
+        // Encrypt the message
+        string encrypted_message = encrypt(message, key);
+        cout << "Encrypted message: " << encrypted_message << endl;
+    } else {
+        // Decrypt the message
+        string decrypted_message = decrypt(message, key);
+        cout << "Decrypted message: " << decrypted_message << endl;
+    }
 
     return 0;
 }
