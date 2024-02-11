@@ -25,12 +25,17 @@
     cursor: pointer;
     position: absolute;
     bottom: 10px; /* Adjust as needed */
+    z-index: 2; /* Ensure buttons are above images */
   }
   #rotateLeft {
     left: 25%;
     transform: translateX(-50%);
   }
   #rotateRight {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  #rotateMoons {
     left: 75%;
     transform: translateX(-50%);
   }
@@ -40,32 +45,42 @@
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: -1; /* Place behind other elements */
   }
-  #zodiacImage, #animalsImage {
+  #zodiacImage, #animalsImage, #moonsImage {
     width: 100%; /* Ensure image fills the container */
     height: auto; /* Maintain aspect ratio */
     transition: transform 0.5s ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  #moonsImage {
+    z-index: 1; /* Ensure moons image is on top of other images */
   }
 </style>
 </head>
 <body>
 
 <div id="container">
-  <img id="animalsImage" class="image-overlay" src="animals.jpg" alt="Animals">
+  <img id="animalsImage" class="image-overlay" src="animals1.jpg" alt="Animals">
   <img id="zodiacImage" src="zodiac.png" alt="Zodiac">
+  <img id="moonsImage" src="moons.png" alt="Moons">
   <br>
   <button id="rotateLeft" class="rotateButton">Rotate Left</button>
   <button id="rotateRight" class="rotateButton">Rotate Right</button>
+  <button id="rotateMoons" class="rotateButton">Rotate Moons</button>
 </div>
 
 <script>
   const rotateLeftButton = document.getElementById('rotateLeft');
   const rotateRightButton = document.getElementById('rotateRight');
+  const rotateMoonsButton = document.getElementById('rotateMoons');
   const zodiacImage = document.getElementById('zodiacImage');
   const animalsImage = document.getElementById('animalsImage');
+  const moonsImage = document.getElementById('moonsImage');
   let zodiacRotation = 0;
   let animalsRotation = 0;
+  let moonsRotation = 0;
 
   rotateLeftButton.addEventListener('click', () => {
     animalsRotation -= 30; // Change rotation increment
@@ -77,6 +92,12 @@
     zodiacRotation += 30; // Change rotation increment
     zodiacImage.style.transform = `rotate(${zodiacRotation}deg)`; // Apply rotation to zodiac image
     rotateRightButton.blur(); // Remove focus from the button after clicking
+  });
+
+  rotateMoonsButton.addEventListener('click', () => {
+    moonsRotation += 60; // Change rotation increment
+    moonsImage.style.transform = `rotate(${moonsRotation}deg)`; // Apply rotation to moons image
+    rotateMoonsButton.blur(); // Remove focus from the button after clicking
   });
 </script>
 
