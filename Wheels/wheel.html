@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rotate Image</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  #container {
+    text-align: center;
+    position: relative;
+    width: 800px; /* Set a fixed width */
+    height: 800px; /* Set a fixed height */
+    overflow: hidden; /* Hide overflow if image rotates outside container */
+  }
+  .rotateButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10px; /* Adjust as needed */
+  }
+  #rotateLeft {
+    left: 25%;
+    transform: translateX(-50%);
+  }
+  #rotateRight {
+    left: 75%;
+    transform: translateX(-50%);
+  }
+  .image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Place behind other elements */
+  }
+  #zodiacImage, #animalsImage {
+    width: 100%; /* Ensure image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    transition: transform 0.5s ease;
+  }
+</style>
+</head>
+<body>
+
+<div id="container">
+  <img id="animalsImage" class="image-overlay" src="animals.jpg" alt="Animals">
+  <img id="zodiacImage" src="zodiac.png" alt="Zodiac">
+  <br>
+  <button id="rotateLeft" class="rotateButton">Rotate Left</button>
+  <button id="rotateRight" class="rotateButton">Rotate Right</button>
+</div>
+
+<script>
+  const rotateLeftButton = document.getElementById('rotateLeft');
+  const rotateRightButton = document.getElementById('rotateRight');
+  const zodiacImage = document.getElementById('zodiacImage');
+  const animalsImage = document.getElementById('animalsImage');
+  let zodiacRotation = 0;
+  let animalsRotation = 0;
+
+  rotateLeftButton.addEventListener('click', () => {
+    animalsRotation -= 30; // Change rotation increment
+    animalsImage.style.transform = `rotate(${animalsRotation}deg)`; // Apply rotation to animals image
+    rotateLeftButton.blur(); // Remove focus from the button after clicking
+  });
+
+  rotateRightButton.addEventListener('click', () => {
+    zodiacRotation += 30; // Change rotation increment
+    zodiacImage.style.transform = `rotate(${zodiacRotation}deg)`; // Apply rotation to zodiac image
+    rotateRightButton.blur(); // Remove focus from the button after clicking
+  });
+</script>
+
+</body>
+</html>
