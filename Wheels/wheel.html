@@ -11,6 +11,7 @@
     align-items: center;
     height: 100vh;
     margin: 0;
+    position: relative; /* Ensure body acts as reference for absolute positioning */
   }
   #container {
     text-align: center;
@@ -18,6 +19,7 @@
     width: 800px; /* Set a fixed width */
     height: 800px; /* Set a fixed height */
     overflow: hidden; /* Hide overflow if image rotates outside container */
+    margin-top: 100px; /* Adjust as needed to create space for the arrow */
   }
   .rotateButton {
     padding: 10px 20px;
@@ -57,6 +59,17 @@
   #moonsImage {
     z-index: 1; /* Ensure moons image is on top of other images */
   }
+  #successMessage {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    display: none; /* Hide the message by default */
+  }
 </style>
 </head>
 <body>
@@ -71,6 +84,8 @@
   <button id="rotateRight" class="rotateButton">→</button>
 </div>
 
+<div id="successMessage">Images rotated successfully!</div>
+
 <script>
   const rotateLeftButton = document.getElementById('rotateLeft');
   const rotateRightButton = document.getElementById('rotateRight');
@@ -78,6 +93,7 @@
   const zodiacImage = document.getElementById('zodiacImage');
   const animalsImage = document.getElementById('animalsImage');
   const moonsImage = document.getElementById('moonsImage');
+  const successMessage = document.getElementById('successMessage');
   let zodiacRotation = 0;
   let animalsRotation = 0;
   let moonsRotation = 0;
@@ -85,20 +101,32 @@
   rotateLeftButton.addEventListener('click', () => {
     animalsRotation -= 30; // Change rotation increment
     animalsImage.style.transform = `rotate(${animalsRotation}deg)`; // Apply rotation to animals image
+    checkRotation();
     rotateLeftButton.blur(); // Remove focus from the button after clicking
   });
 
   rotateRightButton.addEventListener('click', () => {
     zodiacRotation += 30; // Change rotation increment
     zodiacImage.style.transform = `rotate(${zodiacRotation}deg)`; // Apply rotation to zodiac image
+    checkRotation();
     rotateRightButton.blur(); // Remove focus from the button after clicking
   });
 
   rotateMoonsButton.addEventListener('click', () => {
-    moonsRotation += 60; // Change rotation increment
+    moonsRotation += 45; // Change rotation increment
     moonsImage.style.transform = `rotate(${moonsRotation}deg)`; // Apply rotation to moons image
+    checkRotation();
     rotateMoonsButton.blur(); // Remove focus from the button after clicking
   });
+
+  function checkRotation() {
+    if (zodiacRotation === 180 && animalsRotation === 0 && moonsRotation === 90) {
+      // If all images are rotated to the proper positions
+      successMessage.style.display = 'block'; // Show the success message
+    } else {
+      successMessage.style.display = 'none'; // Hide the success message
+    }
+  }
 </script>
 
 </body>
