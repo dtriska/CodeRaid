@@ -31,7 +31,7 @@ void pillar(){
         std::cout << "Please input a valid choice between 1 and 8 \n";
         std::cin >> selection;
     }
-    std::cout << selection << std::endl;
+    std::cout << "cat, dog, dragon" << std::endl;
 }
 
 int main() {
