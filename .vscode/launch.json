@@ -1,6 +1,8 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +10,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dtris/CodeRaid/CodeRaid",
-      "program": "c:/Users/dtris/CodeRaid/CodeRaid/build/Debug/outDebug",
+      "cwd": "c:/Users/dtris/CodeRaid/CodeRaid/Start",
+      "program": "c:/Users/dtris/CodeRaid/CodeRaid/Start/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
