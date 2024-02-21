@@ -45,7 +45,7 @@ int main() {
     std::cin >> password;
 
     // Put a password
-    if (password != "secret") {
+    if (password != "542632") {
         std::cout << "Incorrect password. Exiting...\n";
         return 1; // Terminate the program with an error code
     }
