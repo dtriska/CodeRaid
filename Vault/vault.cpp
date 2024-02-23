@@ -3,7 +3,6 @@
 #include <map>
 #include <cctype>
 #include <thread> // For std::this_thread::sleep_for
-#include <chrono> // For std::chrono::milliseconds
 #include <vector>
 #include <random>
 
@@ -63,8 +62,6 @@ int main() {
 
     if (choice == "terminal") {
         accessTerminal(color);
-        // Add a delay to allow the user to see the message before returning to the main menu
-        std::this_thread::sleep_for(std::chrono::seconds(2)); // Adjust the duration as needed
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
