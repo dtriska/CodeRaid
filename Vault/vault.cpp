@@ -108,6 +108,36 @@ void sky() {
     }
 }
 
+void rooms() {
+    std::cout << "Welcome to the rooms!" << std::endl;
+
+    // Prompt the user to select a room
+    int roomNumber;
+    std::cout << "Please select a room between 1 and 12: ";
+    std::cin >> roomNumber;
+
+    // Validate the room number
+    if (roomNumber < 1 || roomNumber > 12) {
+        std::cout << "Invalid room number!" << std::endl;
+        return;
+    }
+
+    // Prompt the user to enter the passkey
+    std::string passkey;
+    std::cout << "Please enter the passkey to enter room " << roomNumber << ": ";
+    std::cin >> passkey;
+
+    // Check if the passkey is correct
+    std::string correctPasskey = "password"; // Change this to your desired passkey
+    if (passkey == correctPasskey) {
+        std::cout << "Access granted to room " << roomNumber << "!" << std::endl;
+        // Perform actions for accessing the room
+    } else {
+        std::cout << "Incorrect passkey! Access denied to room " << roomNumber << "." << std::endl;
+    }
+}
+
+
 int main() {
     std::string color = selectRandomColor();
     std::cout << color;
@@ -119,17 +149,19 @@ int main() {
     std::string choice;
     std::cin >> choice;
 
-    bool termKey = false;
+    bool termKey = false; // if terminal has successfully received correct input key
 
     if (choice == "terminal") {
         if (accessTerminal(color) == true) {
-            termKey = true;
-            pillar(termKey);
+            termKey = true; // correct input key 
+            pillar(termKey); // REMOVE AFTER TESTING IS COMPLETED
         }
     } else if (choice == "pillar") {
         pillar(termKey);
     } else if (choice == "sky") {
         sky(); 
+    } else if (choice == "rooms") {
+        rooms(); 
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
