@@ -136,6 +136,8 @@ int main() {
     displayHelp();
 
     std::string constellationKey = sky();
+
+    bool pillarPass = false;
     std::vector<std::string> pillarKey;
 
     std::string choice;
@@ -147,10 +149,15 @@ int main() {
             for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
             std::cout << pillarKey[i] << std::endl;
             }
+            pillarPass = true;
         }
     } else if (choice == "pillar") {
-        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-        std::cout << pillarKey[i] << std::endl;
+        if (pillarPass == true){
+            for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+            std::cout << pillarKey[i] << std::endl;
+            }
+        } else {
+            std::cout << "Access Denied" << std::endl;
         }
     } else if (choice == "sky") {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
