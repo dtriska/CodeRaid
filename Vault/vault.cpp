@@ -5,6 +5,7 @@
 #include <thread> // For std::this_thread::sleep_for
 #include <vector>
 #include <random>
+#include <algorithm>
 
 std::string selectRandomColor() {
     std::vector<std::string> colors = {"red", "orange", "yellow", "green", "blue", "purple"};
@@ -14,7 +15,7 @@ std::string selectRandomColor() {
     return colors[dis(gen)];
 }
 
-void accessTerminal(const std::string& color) {
+bool accessTerminal(const std::string& color) {
     std::map<std::string, std::string> colorPasswords = {
         {"red", "red"}, {"orange", "orange"}, {"yellow", "yellow"},
         {"green", "green"}, {"blue", "blue"}, {"purple", "purple"}
@@ -27,8 +28,10 @@ void accessTerminal(const std::string& color) {
 
     if (input == password) {
         std::cout << "Success" << std::endl;
+        return true;
     } else {
         std::cout << "Failure" << std::endl;
+        return false;
     }
 }
 
@@ -49,6 +52,37 @@ void displayHelp() {
               << "vault - Access Vault\n";
 }
 
+void pillar(bool terminalKey) {
+    if (terminalKey == true){
+    // Define the list of choices
+    std::vector<std::string> choices = {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
+                                         "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"};
+    // Define a static variable to keep track of whether pillar has been called before
+    static bool calledBefore = false;
+
+    // If pillar has not been called before
+    if (!calledBefore) {
+        std::cout << "Random choices:" << std::endl;
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::shuffle(choices.begin(), choices.end(), gen); // Shuffle the choices
+        // Display the first 4 choices
+        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+            std::cout << choices[i] << std::endl;
+        }
+        calledBefore = true; // Update calledBefore to true
+    } else {
+        std::cout << "Previous choices:" << std::endl;
+        // Display the previous 4 choices
+        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+            std::cout << choices[i] << std::endl;
+        }
+    }
+    } else {
+        std::cout << "Term Key == False" << std::endl;
+    }
+}
+
 int main() {
     std::string color = selectRandomColor();
     std::cout << color;
@@ -60,8 +94,15 @@ int main() {
     std::string choice;
     std::cin >> choice;
 
+    bool termKey = false;
+
     if (choice == "terminal") {
-        accessTerminal(color);
+        if (accessTerminal(color) == true) {
+            termKey = true;
+            pillar(termKey);
+        }
+    } else if (choice == "pillar") {
+        pillar(termKey);
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
