@@ -83,6 +83,31 @@ void pillar(bool terminalKey) {
     }
 }
 
+void sky() {
+    std::vector<std::string> star_constellations = {
+        "Ursa Major", "Orion", "Cassiopeia", "Scorpius", "Taurus", "Gemini", 
+        "Canis Major", "Leo", "Virgo", "Pegasus", "Draco", "Aquarius", 
+        "Lyra", "Cygnus", "Sagittarius"
+    };
+    // Define a static variable to keep track of whether sky has been called before
+    static bool calledBefore = false;
+
+    // If sky has not been called before
+    if (!calledBefore) {
+        std::cout << "Random choice:" << std::endl;
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::shuffle(star_constellations.begin(), star_constellations.end(), gen); // Shuffle the constellations
+        // Display the chosen constellation
+        std::cout << star_constellations[0] << std::endl; // Display the first (random) constellation
+        calledBefore = true; // Update calledBefore to true
+    } else {
+        std::cout << "Previous choice:" << std::endl;
+        // Display the first constellation as the previous choice since the list is shuffled each time
+        std::cout << star_constellations[0] << std::endl;
+    }
+}
+
 int main() {
     std::string color = selectRandomColor();
     std::cout << color;
@@ -103,6 +128,8 @@ int main() {
         }
     } else if (choice == "pillar") {
         pillar(termKey);
+    } else if (choice == "sky") {
+        sky(); 
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
