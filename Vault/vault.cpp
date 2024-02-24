@@ -83,7 +83,7 @@ void pillar(bool terminalKey) {
     }
 }
 
-void sky() {
+std::string sky() {
     std::vector<std::string> star_constellations = {
         "Ursa Major", "Orion", "Cassiopeia", "Scorpius", "Taurus", "Gemini", 
         "Canis Major", "Leo", "Virgo", "Pegasus", "Draco", "Aquarius", 
@@ -101,10 +101,12 @@ void sky() {
         // Display the chosen constellation
         std::cout << star_constellations[0] << std::endl; // Display the first (random) constellation
         calledBefore = true; // Update calledBefore to true
+        return star_constellations[0];
     } else {
         std::cout << "Previous choice:" << std::endl;
         // Display the first constellation as the previous choice since the list is shuffled each time
         std::cout << star_constellations[0] << std::endl;
+        return star_constellations[0];
     }
 }
 
@@ -146,6 +148,8 @@ int main() {
     typeText(welcomeMessage);
     displayHelp();
 
+    std::string constellationKey = sky();
+
     std::string choice;
     std::cin >> choice;
 
@@ -159,7 +163,7 @@ int main() {
     } else if (choice == "pillar") {
         pillar(termKey);
     } else if (choice == "sky") {
-        sky(); 
+        std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
         rooms(); 
     } else if (choice == "exit") {
