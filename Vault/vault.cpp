@@ -52,36 +52,23 @@ void displayHelp() {
               << "vault - Access Vault\n";
 }
 
-void pillar(bool terminalKey) {
-    if (terminalKey == true){
-    // Define the list of choices
+std::vector<std::string> pillar() {
     std::vector<std::string> choices = {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
                                          "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"};
-    // Define a static variable to keep track of whether pillar has been called before
-    static bool calledBefore = false;
+    // Shuffle the choices
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::shuffle(choices.begin(), choices.end(), gen);
 
-    // If pillar has not been called before
-    if (!calledBefore) {
-        std::cout << "Random choices:" << std::endl;
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::shuffle(choices.begin(), choices.end(), gen); // Shuffle the choices
-        // Display the first 4 choices
-        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-            std::cout << choices[i] << std::endl;
-        }
-        calledBefore = true; // Update calledBefore to true
-    } else {
-        std::cout << "Previous choices:" << std::endl;
-        // Display the previous 4 choices
-        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-            std::cout << choices[i] << std::endl;
-        }
+    // Display the choices
+    std::cout << "Random choices:" << std::endl;
+    for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+        std::cout << choices[i] << std::endl;
     }
-    } else {
-        std::cout << "Term Key == False" << std::endl;
-    }
+
+    return choices;
 }
+
 
 std::string sky() {
     std::vector<std::string> star_constellations = {
@@ -149,19 +136,22 @@ int main() {
     displayHelp();
 
     std::string constellationKey = sky();
+    std::vector<std::string> pillarKey;
 
     std::string choice;
     std::cin >> choice;
 
-    bool termKey = false; // if terminal has successfully received correct input key
-
     if (choice == "terminal") {
         if (accessTerminal(color) == true) {
-            termKey = true; // correct input key 
-            pillar(termKey); // REMOVE AFTER TESTING IS COMPLETED
+            pillarKey = pillar(); // REMOVE AFTER TESTING IS COMPLETED
+            for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+            std::cout << pillarKey[i] << std::endl;
+            }
         }
     } else if (choice == "pillar") {
-        pillar(termKey);
+        for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+        std::cout << pillarKey[i] << std::endl;
+        }
     } else if (choice == "sky") {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
