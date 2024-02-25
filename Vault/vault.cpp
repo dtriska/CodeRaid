@@ -228,7 +228,12 @@ int main() {
 
     // Call populateRooms to get the symbols for each room
     std::vector<std::vector<std::string>> roomsSymbols = populateRooms(pillarKey);
-    // std::cout << pillarKey[3] << pillarKey[4] << std::endl;
+    
+    // Shuffle the rooms
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::shuffle(roomsSymbols.begin(), roomsSymbols.end(), gen);
+
     // Print the symbols for each room
     printRooms(roomsSymbols);
 
@@ -238,14 +243,14 @@ int main() {
     if (choice == "terminal") {
         if (accessTerminal(color) == true) {
             for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-            std::cout << pillarKey[i] << std::endl;
+                std::cout << pillarKey[i] << std::endl;
             }
             pillarPass = true;
         }
     } else if (choice == "pillar") {
         if (pillarPass == true){
             for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-            std::cout << pillarKey[i] << std::endl;
+                std::cout << pillarKey[i] << std::endl;
             }
         } else {
             std::cout << "Access Denied" << std::endl;
@@ -261,4 +266,4 @@ int main() {
     }
 
     return 0;
-} 
+}
