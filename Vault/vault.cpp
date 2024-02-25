@@ -112,7 +112,7 @@ std::string sky() {
     }
 }
 
-void rooms() {
+void rooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     std::cout << "Welcome to the rooms!" << std::endl;
 
     // Prompt the user to select a room
@@ -135,7 +135,11 @@ void rooms() {
     std::string correctPasskey = "password"; // Change this to your desired passkey
     if (passkey == correctPasskey) {
         std::cout << "Access granted to room " << roomNumber << "!" << std::endl;
-        // Perform actions for accessing the room
+        // Display the contents of the specified room
+        std::cout << "Contents of room " << roomNumber << ":" << std::endl;
+        for (const std::string& symbol : roomsSymbols[roomNumber - 1]) {
+            std::cout << symbol << std::endl;
+        }
     } else {
         std::cout << "Incorrect passkey! Access denied to room " << roomNumber << "." << std::endl;
     }
@@ -258,7 +262,7 @@ int main() {
     } else if (choice == "sky") {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
-        rooms(); 
+        rooms(roomsSymbols); // Pass roomsSymbols to the rooms function
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
