@@ -15,6 +15,15 @@ std::string selectRandomColor() {
     return colors[dis(gen)];
 }
 
+std::string selectRandomAnimal() {
+    std::vector<std::string> animal = {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
+                                         "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"};
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<std::vector<std::string>::size_type> dis(0, animal.size() - 1);
+    return animal[dis(gen)];
+}
+
 bool accessTerminal(const std::string& color) {
     std::map<std::string, std::string> colorPasswords = {
         {"red", "red"}, {"orange", "orange"}, {"yellow", "yellow"},
@@ -55,19 +64,25 @@ void displayHelp() {
 std::vector<std::string> pillar() {
     std::vector<std::string> choices = {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
                                          "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"};
-    // Shuffle the choices
     std::random_device rd;
     std::mt19937 gen(rd());
+
+    // Shuffle the choices
     std::shuffle(choices.begin(), choices.end(), gen);
+
+    // Create a vector to store the first 4 shuffled choices
+    std::vector<std::string> selectedChoices(choices.begin(), choices.begin() + 4);
 
     // Display the choices
     std::cout << "Random choices:" << std::endl;
-    for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-        std::cout << choices[i] << std::endl;
+    for (const auto& choice : selectedChoices) {
+        std::cout << choice << std::endl;
     }
 
-    return choices;
+    return selectedChoices;
 }
+
+
 
 
 std::string sky() {
@@ -127,6 +142,77 @@ void rooms() {
 }
 
 
+std::vector<std::vector<std::string>> populateRooms(const std::vector<std::string>& pillarKey) {
+    std::random_device rd;
+    std::mt19937 gen(rd());
+
+    std::vector<std::vector<std::string>> roomsSymbols(12, std::vector<std::string>(4));
+    std::cout << "HERE" << std::endl;
+
+    // Create a list of all animal symbols except those in pillarKey
+    std::vector<std::string> availableSymbols;
+    for (const auto symbol : {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
+                          "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"}) {
+    std::cout << "Checking symbol: " << symbol << std::endl;
+    if (std::find(pillarKey.begin(), pillarKey.end(), std::string(symbol)) == pillarKey.end()) {
+        std::cout << "Symbol " << symbol << " is not in pillarKey. Adding to availableSymbols." << std::endl;
+        availableSymbols.push_back(symbol);
+    } else {
+        std::cout << "Symbol " << symbol << " is in pillarKey. Skipping." << std::endl;
+    }
+}
+
+    // Print the size of availableSymbols
+    std::cout << "Size of availableSymbols: " << availableSymbols.size() << std::endl;
+
+    // Shuffle the list of available symbols
+    std::shuffle(availableSymbols.begin(), availableSymbols.end(), gen);
+
+    // Populate the first 9 rooms with symbols from pillarKey and availableSymbols
+    for (std::vector<std::vector<std::string>>::size_type roomNumber = 0; roomNumber < 9; ++roomNumber) {
+        // First symbol from pillarKey
+        roomsSymbols[roomNumber][0] = pillarKey[roomNumber % pillarKey.size()];
+
+        // Remaining symbols from availableSymbols
+        for (std::vector<std::vector<std::string>>::size_type j = 1; j < 4; ++j) {
+            if (j - 1 < availableSymbols.size()) {
+                roomsSymbols[roomNumber][j] = availableSymbols[j - 1];
+            } else {
+                // Handle case where j - 1 is out of bounds
+                // For example, set the symbol to an empty string
+                roomsSymbols[roomNumber][j] = ""; // Or any appropriate handling
+            }
+        }
+    }
+
+    // Populate the remaining 3 rooms with symbols from availableSymbols
+    for (std::vector<std::vector<std::string>>::size_type roomNumber = 9; roomNumber < 12; ++roomNumber) {
+        // Debug print statement to verify if the loop is being executed
+        std::cout << "Entering loop for room " << roomNumber << std::endl;
+
+        for (std::vector<std::vector<std::string>>::size_type j = 0; j < 4; ++j) {
+            // Choose a random symbol from availableSymbols
+            std::uniform_int_distribution<std::size_t> distribution(0, availableSymbols.size() - 1);
+            roomsSymbols[roomNumber][j] = availableSymbols[distribution(gen)];
+        }
+    }
+    return roomsSymbols;
+}
+
+
+
+
+void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
+    for (size_t i = 0; i < roomsSymbols.size(); ++i) {
+        std::cout << "Room " << (i + 1) << " symbols:" << std::endl;
+        for (const std::string& symbol : roomsSymbols[i]) {
+            std::cout << symbol << std::endl;
+        }
+        std::cout << std::endl;
+    }
+}
+
+
 int main() {
     std::string color = selectRandomColor();
     std::cout << color;
@@ -138,14 +224,19 @@ int main() {
     std::string constellationKey = sky();
 
     bool pillarPass = false;
-    std::vector<std::string> pillarKey;
+    std::vector<std::string> pillarKey = pillar();
+
+    // Call populateRooms to get the symbols for each room
+    std::vector<std::vector<std::string>> roomsSymbols = populateRooms(pillarKey);
+    // std::cout << pillarKey[3] << pillarKey[4] << std::endl;
+    // Print the symbols for each room
+    printRooms(roomsSymbols);
 
     std::string choice;
     std::cin >> choice;
 
     if (choice == "terminal") {
         if (accessTerminal(color) == true) {
-            pillarKey = pillar(); // REMOVE AFTER TESTING IS COMPLETED
             for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
             std::cout << pillarKey[i] << std::endl;
             }
@@ -170,4 +261,4 @@ int main() {
     }
 
     return 0;
-}
+} 
