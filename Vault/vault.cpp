@@ -203,9 +203,6 @@ std::vector<std::vector<std::string>> populateRooms(const std::vector<std::strin
     return roomsSymbols;
 }
 
-
-
-
 void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     for (size_t i = 0; i < roomsSymbols.size(); ++i) {
         std::cout << "Room " << (i + 1) << " symbols:" << std::endl;
@@ -213,6 +210,85 @@ void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
             std::cout << symbol << std::endl;
         }
         std::cout << std::endl;
+    }
+}
+
+
+void beacons(const std::string& message) {
+    // Implement the beacons functionality here
+    std::cout << "Beacons: " << message << std::endl;
+}
+
+std::map<char, std::string> morseCode = {
+    {'A', ".-"}, {'B', "-..."}, {'C', "-.-."}, {'D', "-.."}, {'E', "."}, {'F', "..-."},
+    {'G', "--."}, {'H', "...."}, {'I', ".."}, {'J', ".---"}, {'K', "-.-"}, {'L', ".-.."},
+    {'M', "--"}, {'N', "-."}, {'O', "---"}, {'P', ".--."}, {'Q', "--.-"}, {'R', ".-."},
+    {'S', "..."}, {'T', "-"}, {'U', "..-"}, {'V', "...-"}, {'W', ".--"}, {'X', "-..-"},
+    {'Y', "-.--"}, {'Z', "--.."}, {'1', ".----"}, {'2', "..---"}, {'3', "...--"},
+    {'4', "....-"}, {'5', "....."}, {'6', "-...."}, {'7', "--..."}, {'8', "---.."},
+    {'9', "----."}, {'0', "-----"}, {' ', " "}
+};
+
+std::string toMorse(const std::string &text){
+    std::string morse;
+    for (char c: text){
+        c = toupper(c);
+        if (morseCode.find(c) != morseCode.end()){
+            morse += morseCode[c] + " ";
+        } else {
+            morse += "? "; // Question mark for unknown characters
+        }
+    }
+    return morse;
+}
+
+void type_text(const std::string &text, int delay = 200) {
+    for (char c : text) {
+        std::cout << c;
+        std::cout.flush();
+        std::this_thread::sleep_for(std::chrono::milliseconds(delay));
+    }
+}
+
+
+// Function to generate a random choice between "CW" and "CCW"
+std::string getRandomDirection() {
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(0, 1);
+    return (dis(gen) == 0) ? "CW" : "CCW";
+}
+
+// Function to generate a random number between 1 and 11
+int getRandomNumber() {
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<int> dis(1, 11);
+    return dis(gen);
+}
+
+// Function to generate the Morse string
+std::string genMorse() {
+    std::string direction = getRandomDirection();
+    int number = getRandomNumber();
+    return direction + " " + std::to_string(number);
+}
+
+void vault(const std::string& message) {
+    std::string input;
+    std::cout << "Welcome to the vault. What would you like to do?\n"
+                 "telegraph\n"
+                 "beacons\n"
+                 "Enter your choice: ";
+    std::cin >> input;
+
+    if (input == "telegraph") {
+        std::string morse = toMorse(message);
+        type_text(morse);
+    } else if (input == "beacons") {
+        beacons(message);
+    } else {
+        std::cout << "Invalid choice!" << std::endl;
     }
 }
 
@@ -241,6 +317,9 @@ int main() {
     // Print the symbols for each room
     printRooms(roomsSymbols);
 
+    // generate morse code
+    std::string morse = genMorse();
+
     std::string choice;
     std::cin >> choice;
 
@@ -263,6 +342,9 @@ int main() {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
         rooms(roomsSymbols); // Pass roomsSymbols to the rooms function
+    } else if (choice == "vault") {
+    // Call the vault function with the Morse message
+        vault(morse); // Replace "Your message" with the actual message
     } else if (choice == "exit") {
         // Do nothing, program will exit
     } else {
