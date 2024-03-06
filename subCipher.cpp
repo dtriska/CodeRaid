@@ -34,7 +34,7 @@ string decrypt(string message, const string& key) {
         if (isalpha(ch)) { // Check if the character is alphabetic
             char original_char;
             char offset = isupper(ch) ? 'A' : 'a';
-            original_char = (ch - offset + 26 - (key[key_index % key_length] - 'A')) % 26 + offset;
+            original_char = (ch - offset + 26 - (key[key_index % key_length] - 'A') + 26) % 26 + offset;
             decrypted_message += original_char;
             key_index = (key_index + 1) % key_length; // Move to the next character in the key
         } else {

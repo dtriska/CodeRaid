@@ -82,9 +82,6 @@ std::vector<std::string> pillar() {
     return selectedChoices;
 }
 
-
-
-
 std::string sky() {
     std::vector<std::string> star_constellations = {
         "Ursa Major", "Orion", "Cassiopeia", "Scorpius", "Taurus", "Gemini", 
@@ -144,7 +141,6 @@ void rooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
         std::cout << "Incorrect passkey! Access denied to room " << roomNumber << "." << std::endl;
     }
 }
-
 
 std::vector<std::vector<std::string>> populateRooms(const std::vector<std::string>& pillarKey) {
     std::random_device rd;
@@ -213,7 +209,6 @@ void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     }
 }
 
-
 void beacons(const std::string& message) {
     // Implement the beacons functionality here
     std::cout << "Beacons: " << message << std::endl;
@@ -249,7 +244,6 @@ void type_text(const std::string &text, int delay = 200) {
         std::this_thread::sleep_for(std::chrono::milliseconds(delay));
     }
 }
-
 
 // Function to generate a random choice between "CW" and "CCW"
 std::string getRandomDirection() {
@@ -291,7 +285,6 @@ void vault(const std::string& message) {
         std::cout << "Invalid choice!" << std::endl;
     }
 }
-
 
 int main() {
     std::string color = selectRandomColor();
