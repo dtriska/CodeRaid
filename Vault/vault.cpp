@@ -109,7 +109,7 @@ std::string sky() {
     }
 }
 
-void rooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
+void rooms(const std::vector<std::vector<std::string>>& roomsSymbols, const std::string constellationKey) {
     std::cout << "Welcome to the rooms!" << std::endl;
 
     // Prompt the user to select a room
@@ -129,7 +129,7 @@ void rooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     std::cin >> passkey;
 
     // Check if the passkey is correct
-    std::string correctPasskey = "password"; // Change this to your desired passkey
+    std::string correctPasskey = constellationKey; // Change this to your desired passkey
     if (passkey == correctPasskey) {
         std::cout << "Access granted to room " << roomNumber << "!" << std::endl;
         // Display the contents of the specified room
@@ -334,7 +334,7 @@ int main() {
     } else if (choice == "sky") {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
-        rooms(roomsSymbols); // Pass roomsSymbols to the rooms function
+        rooms(roomsSymbols, constellationKey); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
     // Call the vault function with the Morse message
         vault(morse); // Replace "Your message" with the actual message
