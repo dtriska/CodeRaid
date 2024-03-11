@@ -286,6 +286,19 @@ void vault(const std::string& message) {
     }
 }
 
+std::vector<std::vector<std::string>> vault_beacons(std::vector<std::vector<std::string>> roomsSymbols){
+    std::vector<std::vector<std::string>> beacons;
+    for (std::vector<std::vector<std::string>>::size_type roomNumber = 9; roomNumber < 12; ++roomNumber) {
+        std::vector<std::string> beacon;
+        for (std::vector<std::vector<std::string>>::size_type j = 0; j < 4; ++j) {
+            beacon.push_back(roomsSymbols[roomNumber][j]);
+        }
+        beacons.push_back(beacon);
+    }
+    return beacons;
+}
+
+
 int main() {
     std::string color = selectRandomColor();
     std::cout << color;
@@ -301,6 +314,9 @@ int main() {
 
     // Call populateRooms to get the symbols for each room
     std::vector<std::vector<std::string>> roomsSymbols = populateRooms(pillarKey);
+
+    // Beacons will store the 3 rooms which are about to be randomized. Needed for vault
+    std::vector<std::vector<std::string>> beacon_nums = vault_beacons(roomsSymbols); 
     
     // Shuffle the rooms
     std::random_device rd;
