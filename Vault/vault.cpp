@@ -212,6 +212,14 @@ void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
 void beacons(const std::string& message) {
     // Implement the beacons functionality here
     std::cout << "Beacons: " << message << std::endl;
+    std::cout << "How many beacons would you like to ignite? " << std::endl;
+    int beacon_count;
+    std::cin >> beacon_count;
+    for (int i = 0; i < beacon_count; i++){
+        std::cout << "Enter the beacon number you'd like to ignite " << std::endl;
+        std::cout << "Input " << i << ": " << std::endl;
+    }
+
 }
 
 std::map<char, std::string> morseCode = {
@@ -298,6 +306,23 @@ std::vector<std::vector<std::string>> vault_beacons(std::vector<std::vector<std:
     return beacons;
 }
 
+std::vector<int> target_rooms(const std::vector<std::vector<std::string>>& roomsSymbols, const std::vector<std::vector<std::string>>& beacon_nums) {
+    std::vector<int> locations;
+
+    for (const auto& beacon : beacon_nums) {
+        auto it = std::find(roomsSymbols.begin(), roomsSymbols.end(), beacon);
+        if (it != roomsSymbols.end()) {
+            // Calculate the index using iterator arithmetic
+            locations.push_back(std::distance(roomsSymbols.begin(), it));
+        } else {
+            // If the beacon vector is not found, mark it as -1
+            locations.push_back(-1);
+        }
+    }
+
+    return locations;
+}
+
 
 int main() {
     std::string color = selectRandomColor();
@@ -326,10 +351,23 @@ int main() {
     // Print the symbols for each room
     printRooms(roomsSymbols);
 
+    // Find the target rooms
+    std::vector<int> locations = target_rooms(roomsSymbols, beacon_nums);
+    for (int i = 0; i < locations.size(); ++i) {
+        if (locations[i] != -1) {
+            std::cout << "Beacon " << i + 1 << " found in room " << locations[i] + 1 << std::endl;
+        } else {
+            std::cout << "Beacon " << i + 1 << " not found in any room" << std::endl;
+        }
+    }
+
     // generate morse code
     std::string morse = genMorse();
 
     std::string choice;
+    bool exit = false;
+
+    while (exit == false){
     std::cin >> choice;
 
     if (choice == "terminal") {
@@ -355,9 +393,10 @@ int main() {
     // Call the vault function with the Morse message
         vault(morse); // Replace "Your message" with the actual message
     } else if (choice == "exit") {
-        // Do nothing, program will exit
+        exit = true;
     } else {
         std::cout << "Invalid choice!" << std::endl;
+    }
     }
 
     return 0;
