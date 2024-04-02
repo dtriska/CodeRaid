@@ -209,15 +209,17 @@ void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     }
 }
 
-void beacons(const std::string& message) {
+void beacons(const std::string& message, std::vector<int> targets) {
     // Implement the beacons functionality here
+    std::vector<int> input_beacons;
     std::cout << "Beacons: " << message << std::endl;
     std::cout << "How many beacons would you like to ignite? " << std::endl;
     int beacon_count;
     std::cin >> beacon_count;
     for (int i = 0; i < beacon_count; i++){
         std::cout << "Enter the beacon number you'd like to ignite " << std::endl;
-        std::cout << "Input " << i << ": " << std::endl;
+        std::cout << "Input " << i + 1 << ": " << std::endl;
+        std::cin >> input_beacons[i];
     }
 
 }
@@ -276,7 +278,7 @@ std::string genMorse() {
     return direction + " " + std::to_string(number);
 }
 
-void vault(const std::string& message) {
+void vault(const std::string& message, std::vector<int> targets) {
     std::string input;
     std::cout << "Welcome to the vault. What would you like to do?\n"
                  "telegraph\n"
@@ -288,7 +290,7 @@ void vault(const std::string& message) {
         std::string morse = toMorse(message);
         type_text(morse);
     } else if (input == "beacons") {
-        beacons(message);
+        beacons(message, targets);
     } else {
         std::cout << "Invalid choice!" << std::endl;
     }
@@ -352,10 +354,13 @@ int main() {
     printRooms(roomsSymbols);
 
     // Find the target rooms
+    std::vector<int> targets;
+    int c = 0;
     std::vector<int> locations = target_rooms(roomsSymbols, beacon_nums);
     for (int i = 0; i < locations.size(); ++i) {
         if (locations[i] != -1) {
             std::cout << "Beacon " << i + 1 << " found in room " << locations[i] + 1 << std::endl;
+            targets[c] = i + 1;
         } else {
             std::cout << "Beacon " << i + 1 << " not found in any room" << std::endl;
         }
@@ -391,7 +396,7 @@ int main() {
         rooms(roomsSymbols, constellationKey); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
     // Call the vault function with the Morse message
-        vault(morse); // Replace "Your message" with the actual message
+        vault(morse, targets); // Replace "Your message" with the actual message
     } else if (choice == "exit") {
         exit = true;
     } else {
