@@ -209,19 +209,39 @@ void printRooms(const std::vector<std::vector<std::string>>& roomsSymbols) {
     }
 }
 
+bool areSame(const std::vector<int>& vec1, const std::vector<int>& vec2) {
+    if (vec1.size() != vec2.size()) {
+        return false;
+    }
+
+    std::vector<int> sorted1 = vec1;
+    std::vector<int> sorted2 = vec2;
+    std::sort(sorted1.begin(), sorted1.end());
+    std::sort(sorted2.begin(), sorted2.end());
+
+    return sorted1 == sorted2;
+}
+
 void beacons(const std::string& message, std::vector<int> targets) {
-    // Implement the beacons functionality here
     std::vector<int> input_beacons;
     std::cout << "Beacons: " << message << std::endl;
     std::cout << "How many beacons would you like to ignite? " << std::endl;
     int beacon_count;
     std::cin >> beacon_count;
+
     for (int i = 0; i < beacon_count; i++){
+        int input;
         std::cout << "Enter the beacon number you'd like to ignite " << std::endl;
         std::cout << "Input " << i + 1 << ": " << std::endl;
-        std::cin >> input_beacons[i];
+        std::cin >> input;
+        input_beacons.push_back(input);
     }
 
+    if (areSame(targets, input_beacons)) {
+        std::cout << "Same values!" << std::endl;
+    } else {
+        std::cout << "Different values!" << std::endl;
+    }
 }
 
 std::map<char, std::string> morseCode = {
@@ -272,9 +292,7 @@ int getRandomNumber() {
 }
 
 // Function to generate the Morse string
-std::string genMorse() {
-    std::string direction = getRandomDirection();
-    int number = getRandomNumber();
+std::string genMorse(std::string direction, int number) {
     return direction + " " + std::to_string(number);
 }
 
@@ -354,20 +372,41 @@ int main() {
     printRooms(roomsSymbols);
 
     // Find the target rooms
-    std::vector<int> targets;
-    int c = 0;
     std::vector<int> locations = target_rooms(roomsSymbols, beacon_nums);
+    std::vector<int> targets; // Create an empty vector to store the targets
     for (int i = 0; i < locations.size(); ++i) {
         if (locations[i] != -1) {
             std::cout << "Beacon " << i + 1 << " found in room " << locations[i] + 1 << std::endl;
-            targets[c] = i + 1;
+            targets.push_back(locations[i] + 1); // Add the found beacon index to the targets vector
         } else {
             std::cout << "Beacon " << i + 1 << " not found in any room" << std::endl;
         }
     }
 
     // generate morse code
-    std::string morse = genMorse();
+    std::string direction = getRandomDirection();
+    int number_rotations = getRandomNumber();
+    std::string morse = genMorse(direction, number_rotations);
+
+    // applies rotation amount
+    for (int i = 0; i < targets.size(); ++i) {
+    if (direction == "CW") {
+        std::cout << targets[i] << std::endl;
+        targets[i] += number_rotations;
+        // Adjust the value to wrap around if it exceeds the number of rooms
+        targets[i] = (targets[i] - 1) % roomsSymbols.size() + 1;
+        std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
+    } else {
+        std::cout << targets[i] << std::endl;
+        // Subtracting the rotations for CCW direction
+        targets[i] -= number_rotations;
+        // Ensure the value is within the range of room indices
+        while (targets[i] <= 0) {
+            targets[i] += roomsSymbols.size();
+        }
+        std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
+    }
+}
 
     std::string choice;
     bool exit = false;
