@@ -58,7 +58,8 @@ void displayHelp() {
               << "pillar - Access Pillar\n"
               << "rooms - Access Rooms\n"
               << "terminal - Access Terminal\n"
-              << "vault - Access Vault\n";
+              << "vault - Access Vault\n"
+              << "help - View this menu\n";
 }
 
 std::vector<std::string> pillar() {
@@ -438,6 +439,8 @@ int main() {
         vault(morse, targets); // Replace "Your message" with the actual message
     } else if (choice == "exit") {
         exit = true;
+    } else if (choice == "help") {
+        displayHelp();
     } else {
         std::cout << "Invalid choice!" << std::endl;
     }
