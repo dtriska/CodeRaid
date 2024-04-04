@@ -539,7 +539,7 @@ for (int i = 0; i < roomsSymbols.size(); i++){
             std::cout << "Access Denied" << std::endl;
         }
     } else if (choice == "sky") {
-        std::cout << "Selected constellation: " << constellationView(constellationKey) << std::endl;
+        std::cout << "Navigate to the sky directory and view: " << constellationView(constellationKey) << std::endl;
     } else if (choice == "rooms") {
         rooms(roomsSymbols, constellationPassword); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
