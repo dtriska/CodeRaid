@@ -395,6 +395,57 @@ std::string constellationPass(std::string key){
     }
 }
 
+std::string constellationView(std::string key){
+    if (key == "Ursa Major"){
+        return "2010-12-18";
+    }
+    else if (key == "Orion"){
+        return "2010-12-23";
+    }
+    else if (key == "Cassiopeia"){
+        return "2010-12-26";
+    }
+    else if (key == "Scorpius"){
+        return "2010-12-20";
+    }
+    else if (key == "Taurus"){
+        return "2010-12-11";
+    }
+    else if (key == "Gemini"){
+        return "2010-12-04";
+    }
+    else if (key == "Canis Major"){
+        return "2010-12-17";
+    }
+    else if (key == "Leo"){
+        return "2010-12-14";
+    }
+    else if (key == "Virgo"){
+        return "2010-12-21";
+    }
+    else if (key == "Pegasus"){
+        return "2010-12-29";
+    }
+    else if (key == "Draco"){
+        return "2010-12-31";
+    }
+    else if (key == "Aquarius"){
+        return "2010-12-06";
+    }
+    else if (key == "Lyra"){
+        return "2010-12-16";
+    }
+    else if (key == "Cygnus"){
+        return "2010-12-30";
+    }
+    else if (key == "Sagittarius"){
+        return "2010-12-13";
+    }
+    else {
+        return "Invalid constellation";
+    }
+}
+
 
 
 int main() {
@@ -488,7 +539,7 @@ for (int i = 0; i < roomsSymbols.size(); i++){
             std::cout << "Access Denied" << std::endl;
         }
     } else if (choice == "sky") {
-        std::cout << "Selected constellation: " << constellationKey << std::endl;
+        std::cout << "Selected constellation: " << constellationView(constellationKey) << std::endl;
     } else if (choice == "rooms") {
         rooms(roomsSymbols, constellationPassword); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
