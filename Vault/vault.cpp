@@ -26,8 +26,8 @@ std::string selectRandomAnimal() {
 
 bool accessTerminal(const std::string& color) {
     std::map<std::string, std::string> colorPasswords = {
-        {"red", "red"}, {"orange", "orange"}, {"yellow", "yellow"},
-        {"green", "green"}, {"blue", "blue"}, {"purple", "purple"}
+        {"red", "a1b2c3"}, {"orange", "d4e5f6"}, {"yellow", "0a1b2c"},
+        {"green", "3d4e5f"}, {"blue", "7f8e9d"}, {"purple", "a0b1c2"}
     };
 
     std::string password = colorPasswords[color];
@@ -54,6 +54,7 @@ void typeText(const std::string& text, int delay = 50) {
 
 void displayHelp() {
     std::cout << "Available commands:\n"
+              << "tablet - Access Tablet\n"
               << "pillar - Access Pillar\n"
               << "rooms - Access Rooms\n"
               << "terminal - Access Terminal\n"

@@ -120,13 +120,34 @@
   });
 
   function checkRotation() {
-    if (zodiacRotation === 180 && animalsRotation === 0 && moonsRotation === 90) {
-      // If all images are rotated to the proper positions
-      successMessage.style.display = 'block'; // Show the success message
+    let zodiacMod = zodiacRotation >= 0 ? zodiacRotation % 360 : (zodiacRotation % 360 + 360) % 360;
+    let animalsMod = animalsRotation >= 0 ? animalsRotation % 360 : (animalsRotation % 360 + 360) % 360;
+    let moonsMod = moonsRotation >= 0 ? moonsRotation % 360 : (moonsRotation % 360 + 360) % 360;
+
+    if (zodiacMod === 30 && animalsMod === 300 && moonsMod === 45) {
+        successMessage.textContent = "red - a1b2c3";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 180 && animalsMod === 300 && moonsMod === 45) {
+        successMessage.textContent = "orange - d4e5f6";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 90 && animalsMod === 300 && moonsMod === 90) {
+        successMessage.textContent = "yellow - 0a1b2c";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 90 && animalsMod === 300 && moonsMod === 270) {
+        successMessage.textContent = "green - 3d4e5f";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 330 && animalsMod === 300 && moonsMod === 225) {
+        successMessage.textContent = "blue - 7f8e9d";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 210 && animalsMod === 300 && moonsMod === 0) {
+        successMessage.textContent = "purple - a0b1c2";
+        successMessage.style.display = 'block'; // Show the success message
     } else {
-      successMessage.style.display = 'none'; // Hide the success message
+        successMessage.style.display = 'none'; // Hide the success message if none of the conditions are met
     }
-  }
+}
+
+
 </script>
 
 </body>
