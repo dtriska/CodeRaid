@@ -409,6 +409,10 @@ int main() {
     }
 }
 
+// Shuffle rooms themselves
+for (int i = 0; i < roomsSymbols.size(); i++){
+    std::shuffle(roomsSymbols[i].begin(), roomsSymbols[i].end(), gen);
+}
     std::string choice;
     bool exit = false;
 
