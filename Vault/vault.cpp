@@ -344,6 +344,58 @@ std::vector<int> target_rooms(const std::vector<std::vector<std::string>>& rooms
     return locations;
 }
 
+std::string constellationPass(std::string key){
+    if (key == "Ursa Major"){
+        return "1";
+    }
+    else if (key == "Orion"){
+        return "2";
+    }
+    else if (key == "Cassiopeia"){
+        return "3";
+    }
+    else if (key == "Scorpius"){
+        return "4";
+    }
+    else if (key == "Taurus"){
+        return "5";
+    }
+    else if (key == "Gemini"){
+        return "6";
+    }
+    else if (key == "Canis Major"){
+        return "7";
+    }
+    else if (key == "Leo"){
+        return "8";
+    }
+    else if (key == "Virgo"){
+        return "9";
+    }
+    else if (key == "Pegasus"){
+        return "10";
+    }
+    else if (key == "Draco"){
+        return "11";
+    }
+    else if (key == "Aquarius"){
+        return "12";
+    }
+    else if (key == "Lyra"){
+        return "13";
+    }
+    else if (key == "Cygnus"){
+        return "14";
+    }
+    else if (key == "Sagittarius"){
+        return "15";
+    }
+    else {
+        return "Invalid constellation";
+    }
+}
+
+
 
 int main() {
     std::string color = selectRandomColor();
@@ -354,6 +406,7 @@ int main() {
     displayHelp();
 
     std::string constellationKey = sky();
+    std::string constellationPassword = constellationPass(constellationKey);
 
     bool pillarPass = false;
     std::vector<std::string> pillarKey = pillar();
@@ -437,7 +490,7 @@ for (int i = 0; i < roomsSymbols.size(); i++){
     } else if (choice == "sky") {
         std::cout << "Selected constellation: " << constellationKey << std::endl;
     } else if (choice == "rooms") {
-        rooms(roomsSymbols, constellationKey); // Pass roomsSymbols to the rooms function
+        rooms(roomsSymbols, constellationPassword); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
     // Call the vault function with the Morse message
         vault(morse, targets); // Replace "Your message" with the actual message
