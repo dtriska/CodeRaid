@@ -450,7 +450,6 @@ std::string constellationView(std::string key){
 
 int main() {
     std::string color = selectRandomColor();
-    std::cout << color;
 
     std::string welcomeMessage = "Welcome to the vault. To progress you will need to know the following: ";
     typeText(welcomeMessage);
@@ -530,6 +529,8 @@ for (int i = 0; i < roomsSymbols.size(); i++){
             }
             pillarPass = true;
         }
+    } else if (choice == "tablet"){
+        std::cout << color << std::endl;
     } else if (choice == "pillar") {
         if (pillarPass == true){
             for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
