@@ -346,49 +346,49 @@ std::vector<int> target_rooms(const std::vector<std::vector<std::string>>& rooms
 
 std::string constellationPass(std::string key){
     if (key == "Ursa Major"){
-        return "1";
+        return "cJbM7ME2";
     }
     else if (key == "Orion"){
-        return "2";
+        return "WSjBdc2@";
     }
     else if (key == "Cassiopeia"){
-        return "3";
+        return "Cg*s0iPp";
     }
     else if (key == "Scorpius"){
-        return "4";
+        return "Oc_17ac^";
     }
     else if (key == "Taurus"){
-        return "5";
+        return "XYtYaLkX";
     }
     else if (key == "Gemini"){
-        return "6";
+        return "sjLcF5E%";
     }
     else if (key == "Canis Major"){
-        return "7";
+        return "OGFBU8tV";
     }
     else if (key == "Leo"){
-        return "8";
+        return "$6gGoq5I";
     }
     else if (key == "Virgo"){
-        return "9";
+        return ")ywCq3yf";
     }
     else if (key == "Pegasus"){
-        return "10";
+        return "3@Y$KC(Q";
     }
     else if (key == "Draco"){
-        return "11";
+        return "7OZBNc#*";
     }
     else if (key == "Aquarius"){
-        return "12";
+        return "D!2zqA(w";
     }
     else if (key == "Lyra"){
-        return "13";
+        return "dpXiMvD6";
     }
     else if (key == "Cygnus"){
-        return "14";
+        return "5rGA51wN";
     }
     else if (key == "Sagittarius"){
-        return "15";
+        return "sDqy)(Ou";
     }
     else {
         return "Invalid constellation";
@@ -539,7 +539,7 @@ for (int i = 0; i < roomsSymbols.size(); i++){
             std::cout << "Access Denied" << std::endl;
         }
     } else if (choice == "sky") {
-        std::cout << "Navigate to the sky directory and view: " << constellationView(constellationKey) << std::endl;
+        std::cout << "Navigate to the sky directory and view (Have your partner do so, or in a separate terminal): " << constellationView(constellationKey) << std::endl;
     } else if (choice == "rooms") {
         rooms(roomsSymbols, constellationPassword); // Pass roomsSymbols to the rooms function
     } else if (choice == "vault") {
