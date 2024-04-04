@@ -54,7 +54,6 @@ void typeText(const std::string& text, int delay = 50) {
 
 void displayHelp() {
     std::cout << "Available commands:\n"
-              << "tablet - Access Tablet\n"
               << "pillar - Access Pillar\n"
               << "rooms - Access Rooms\n"
               << "terminal - Access Terminal\n"
