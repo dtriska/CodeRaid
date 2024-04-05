@@ -1,0 +1,921 @@
+2010-11-13, Volans, i68(Ipa3
+2010-11-04, Andromeda, yv%1I_p%
+2010-11-19, Camelopardalis, 0tf^!klI
+2010-11-25, Cygnus, 1hA1ur9r
+2010-11-21, Carina, rEA))V&r
+2010-11-29, Circinus, +jIY@Sch
+2010-11-16, Volans, roJ1kaPH
+2010-11-10, Mensa, Z9PQ8yw#
+2010-11-25, Cygnus, +IHtI!T!
+2010-11-27, Antlia, dpUN8h$z
+2010-11-02, Centaurus, C24kjfBW
+2010-11-03, Cygnus, tR9qxWob
+2010-11-15, Columba, Z7V#VsyI
+2010-11-30, Pavo, dXLCDnc$
+2010-11-28, Capricornus, MJMtqXnY
+2010-11-13, Perseus, N8@Y)ItR
+2010-11-03, Triangulum, umF+*nus
+2010-11-12, Taurus, 0OIZ*S1^
+2010-11-08, Virgo, GddN!A85
+2010-11-19, Corvus, 3KU@DD)N
+2010-11-18, Vela, asvLX5lM
+2010-11-12, Scutum, cufEQe6S
+2010-11-17, Musca, vI53l5P^
+2010-11-08, Cetus, !kXKDD*u
+2010-11-16, Pictor, JAJ%UtEi
+2010-11-15, Scutum, UME3tV^l
+2010-11-06, Cetus, c6#kv!IQ
+2010-11-09, Columba, RQh0q2kG
+2010-11-29, Reticulum, JZ@%zMI(
+2010-11-03, Crux, 33tRhswh
+2010-11-27, Ophiuchus, TmugM!2z
+2010-11-11, Ursa Minor, 5iu2YbG8
+2010-11-06, Sagitta, T713d#%9
+2010-11-13, Corona Australis, gXw#Q%oo
+2010-11-12, Tucana, x$V&+BKG
+2010-11-08, Pyxis, F#_Uzlet
+2010-11-11, Grus, HMlJ4A+p
+2010-11-02, Gemini, yw09_wHj
+2010-11-18, Hercules, jiWbzsaa
+2010-11-29, Andromeda, d8^^Yl6G
+2010-11-24, Delphinus, r(ZkFNjv
+2010-11-13, Corona Borealis, ^YrwgQ5Y
+2010-11-11, Scorpius, +yThk^*C
+2010-11-08, Apus, M1YHdt*i
+2010-11-24, Leo, h+aG14&T
+2010-11-30, Octans, XRsz1Z45
+2010-11-12, Indus, Bx6IRDE@
+2010-11-28, Hercules, ObU%fEH$
+2010-11-28, Camelopardalis, _po(PxG+
+2010-11-18, Chamaeleon, uU4saiof
+2010-11-11, Hercules, &XUASrCU
+2010-11-11, Columba, V!xM7A!b
+2010-11-13, Ara, 6T1wp560
+2010-11-15, Delphinus, U_bPGp^m
+2010-11-13, Lyra, O@N32FmU
+2010-11-17, Andromeda, tKY7O^T@
+2010-11-25, Pictor, p4dDE@tk
+2010-11-10, Capricornus, c5ro@Uj9
+2010-11-16, Lyra, 8MsvlyGJ
+2010-11-30, Sagitta, bOtusvgg
+2010-11-12, Grus, BI3LrOFN
+2010-11-04, Chamaeleon, dQIkFf@X
+2010-11-03, Coma Berenices, (7QfpDh4
+2010-11-13, Volans, w++zKk44
+2010-11-22, Telescopium, )^O^KcKb
+2010-11-25, Draco, fhNrAi5Y
+2010-11-05, Vela, pvH*eEEF
+2010-11-16, Puppis, Fon02^HY
+2010-11-23, Capricornus, rXkOn)8O
+2010-11-19, Lupus, AE@Fb%tl
+2010-11-04, Hercules, TMj_$%d*
+2010-11-03, Scutum, VYhCGoEo
+2010-11-27, Sextans, T%1!ovDD
+2010-11-28, Dorado, BjUE9UO%
+2010-11-17, Ara, #7cmQlAf
+2010-11-10, Triangulum, 8(WO*yK&
+2010-11-11, Aries, yh_#_Okq
+2010-11-14, Microscopium, eQ^_8@Z1
+2010-11-03, Scutum, xN&152Y8
+2010-11-24, Volans, ^BoO7CaI
+2010-11-04, Pictor, ^yR^HMGS
+2010-11-16, Pavo, @+GZ6bmm
+2010-11-15, Perseus, UWU4L^%&
+2010-11-23, Camelopardalis, t*&8*Qe+
+2010-11-10, Capricornus, kwd%3uLt
+2010-11-27, Lepus, P4T3)Kfx
+2010-11-04, Phoenix, Vq%8lg2J
+2010-11-01, Pyxis, JnEbU*b@
+2010-11-06, Musca, 4*m6*0Hh
+2010-11-09, Crux, a)(&)*6f
+2010-11-21, Dorado, EYWMnGqZ
+2010-11-02, Fornax, xX1#FS%k
+2010-11-13, Capricornus, zG#f$yM*
+2010-11-03, Musca, EcC+p+7T
+2010-11-10, Leo, u_$a*UtM
+2010-11-27, Antlia, W@Z69112
+2010-11-21, Cassiopeia, %*CWl$yt
+2010-11-01, Pavo, KE*QFZTo
+2010-11-03, Monoceros, ^OPMhyJ_
+2010-11-16, Canis Minor, *jwrsJEk
+2010-11-10, Crux, 8*sz+Sv$
+2010-11-11, Crater, 648#LGjQ
+2010-11-30, Hydrus, PJ#WLyJF
+2010-11-08, Centaurus, KvO*MAa2
+2010-11-18, Virgo, J^YHbf1R
+2010-11-13, Andromeda, %CB(O^jb
+2010-11-17, Serpens, j7UOA2T1
+2010-11-21, Camelopardalis, $5)@9Ldn
+2010-11-12, Canis Major, H*1DY81d
+2010-11-04, Scutum, wecYjY98
+2010-11-17, Crux, 6B+jJPNq
+2010-11-02, Cassiopeia, V8hwuy3W
+2010-11-12, Antlia, ERKKGE&m
+2010-11-15, Corona Borealis, q5JGMQ)k
+2010-11-15, Capricornus, ri7fc$)O
+2010-11-03, Volans, h1Qr*JNY
+2010-11-30, Ara, JEvu!2D8
+2010-11-16, Horologium, %vP_Hg1A
+2010-11-02, Leo Minor, StwiPioc
+2010-11-03, Cancer, wz%CLhHd
+2010-11-10, Camelopardalis, $pk)YVgF
+2010-11-24, Sagitta, L(C(aqSA
+2010-11-14, Ursa Major, D!tyfkBP
+2010-11-02, Cancer, bhg%uyIp
+2010-11-01, Cancer, +)2Nwi(Z
+2010-11-10, Lynx, SJ)UwbXz
+2010-11-02, Virgo, 9B&ang7D
+2010-11-17, Cygnus, 5SV4IS!G
+2010-11-11, Telescopium, 1d+W#GB)
+2010-11-28, Ursa Minor, A0asx%ic
+2010-11-08, Auriga, NJWIiWzD
+2010-11-28, Cassiopeia, e(hQy07z
+2010-11-08, Cancer, J3BR4%#M
+2010-11-16, Ursa Major, TZn5FIBM
+2010-11-09, Lacerta, %FPVaPaZ
+2010-11-07, Taurus, 8q^_a)R^
+2010-11-09, Aries, H7o0w@QA
+2010-11-10, Mensa, Ms1CUJ(N
+2010-11-29, Andromeda, 9iDIY9dH
+2010-11-10, Canis Major, GCJ7$tcF
+2010-11-07, Tucana, l*B#cEuw
+2010-11-17, Coma Berenices, +#1T^sE_
+2010-11-07, Cetus, b5RnDKfT
+2010-11-04, Phoenix, P^cFc#13
+2010-11-17, Virgo, YUDhb(FB
+2010-11-08, Gemini, &Se(bI6M
+2010-11-08, Aries, 29FAFS!T
+2010-11-14, Carina, &aa^1+17
+2010-11-19, Delphinus, NspkTk&K
+2010-11-03, Apus, mLXqKpwn
+2010-11-21, Eridanus, 0s(@Roxu
+2010-11-23, Centaurus, a72PgeZa
+2010-11-18, Columba, 2_L$X!2A
+2010-11-19, Capricornus, Rm3Q%63Y
+2010-11-30, Cassiopeia, XXmCOk7#
+2010-11-13, Orion, %7fw4ZfO
+2010-11-25, Puppis, S!H@Cagg
+2010-11-07, Pictor, 3X#HSAiw
+2010-11-15, Columba, gaFBv*jr
+2010-11-01, Corona Australis, SQEVtPm%
+2010-11-01, Triangulum Australe, @TElTI3l
+2010-11-21, Caelum, EPB1Wtif
+2010-11-05, Antlia, !fr4ndK(
+2010-11-27, Fornax, MP6a%Kf4
+2010-11-27, Horologium, R(8z!AVl
+2010-11-09, Libra, F_j@R!!a
+2010-11-25, Lyra, ^FOqMTV!
+2010-11-10, Gemini, 4X89vO)4
+2010-11-23, Triangulum Australe, YgV*bIbD
+2010-11-12, Lynx, 8dKXBG3r
+2010-11-28, Vulpecula, BB5%B#Gk
+2010-11-02, Andromeda, lr2ROKaQ
+2010-11-24, Aries, Yj9r%%qN
+2010-11-24, Sagittarius, I0*_Ktit
+2010-11-14, Cancer, u@Lrav)o
+2010-11-04, Ara, f8nh6Ezk
+2010-11-24, Corvus, XYJSGGQ#
+2010-11-15, Sagittarius, #k4)iu5X
+2010-11-03, Microscopium, %Z9pG3ev
+2010-11-07, Delphinus, es9l*UI$
+2010-11-19, Circinus, Otrt%s9d
+2010-11-10, Cygnus, !P03D&dm
+2010-11-14, Microscopium, r2nyG$wB
+2010-11-21, Aquarius, bxfupeI5
+2010-11-24, Sagitta, *KP8oaRh
+2010-11-19, Scutum, CH0g5iN)
+2010-11-22, Circinus, AFUtTLIF
+2010-11-07, Fornax, )9l7iq&P
+2010-11-27, Puppis, O5%$IP00
+2010-11-19, Columba, YtNpB$6d
+2010-11-07, Corona Australis, p!+ZDwz+
+2010-11-17, Libra, WcnaXgZf
+2010-11-21, Puppis, a4GbSpzN
+2010-11-23, Pyxis, x*@hY(T9
+2010-11-06, Pegasus, LUT)H9to
+2010-11-23, Sculptor, T^#mSjPb
+2010-11-15, Volans, K06#ekE4
+2010-11-11, Apus, uGA#LxiF
+2010-11-24, Antlia, Txpi%rbV
+2010-11-02, Sculptor, z&n4bq9%
+2010-11-09, Libra, dSnbpDWl
+2010-11-14, Cygnus, 1bENrEgb
+2010-11-11, Pyxis, bVWOVHQh
+2010-11-16, Lyra, R!5XK(ic
+2010-11-01, Sculptor, Z4b$+^&2
+2010-11-04, Canes Venatici, j@ao^FI!
+2010-11-11, Gemini, HqpZyo&b
+2010-11-10, Telescopium, yNV7M2+n
+2010-11-22, Tucana, _Zpk0l0V
+2010-11-19, Aquarius, 8iNXBxJ@
+2010-11-16, Aquarius, jgkXS&M3
+2010-11-25, Circinus, lj9XlvHd
+2010-11-01, Hercules, O*FHuItU
+2010-11-15, Eridanus, a4KozrU8
+2010-11-01, Vulpecula, X0!c%xt4
+2010-11-30, Fornax, dkytScPq
+2010-11-22, Caelum, mVY$y5f2
+2010-11-17, Dorado, ss4cykXS
+2010-11-14, Capricornus, (4)lefOi
+2010-11-30, Cetus, aMY^vTc#
+2010-11-09, Triangulum Australe, LI+&btym
+2010-11-26, Ara, fzung%5o
+2010-11-22, Virgo, DHrK$CPf
+2010-11-01, Microscopium, t42H%p%S
+2010-11-13, Telescopium, 6z_GJyDr
+2010-11-17, Indus, DOHqS3xN
+2010-11-01, Delphinus, oCBe738K
+2010-11-24, Pictor, A)Ic9h@@
+2010-11-04, Hydra, XCDu571W
+2010-11-15, Circinus, hcPia1aG
+2010-11-24, Cepheus, rB9RHsC@
+2010-11-20, Puppis, 6ARSUOxC
+2010-11-27, Triangulum Australe, CXXa1VN8
+2010-11-10, Equuleus, 00FmhZ9V
+2010-11-02, Centaurus, TmU3^JjX
+2010-11-05, Cygnus, yaSJAOAO
+2010-11-21, Antlia, rnxY$l^4
+2010-11-03, Canes Venatici, XN4A6D3l
+2010-11-26, Cancer, kVPuCbv$
+2010-11-12, Sagittarius, 4NAY@QMs
+2010-11-08, Coma Berenices, 2ogL^6jH
+2010-11-27, Leo, Q9CjmLsl
+2010-11-20, Tucana, &b!hRErc
+2010-11-13, Microscopium, Rh!ux98e
+2010-11-23, Andromeda, cH$@@0Jb
+2010-11-27, Cassiopeia, QeicsceT
+2010-11-20, Chamaeleon, VGh%o9kI
+2010-11-10, Scutum, Uk^0DPP8
+2010-11-16, Musca, (WR5JCM3
+2010-11-12, Crux, 0ymQcr4j
+2010-11-24, Vela, e&*LjOT*
+2010-11-04, Cygnus, 95f@Bobj
+2010-11-02, Antlia, 4vfl#_9v
+2010-11-25, Sextans, +v@6sj4l
+2010-11-11, Cancer, 6YSS0N7B
+2010-11-29, Scorpius, 0hxTart+
+2010-11-22, Musca, Cl+iPR_)
+2010-11-03, Crux, j4@*a4zd
+2010-11-13, Grus, ff5Fks)2
+2010-11-13, Leo, P73Zp0&Q
+2010-11-13, Crux, 7ZR_*W*D
+2010-11-16, Canis Major, 24ESAJEF
+2010-11-17, Draco, Nc$VFyWy
+2010-11-21, Pyxis, uFb9vJNw
+2010-11-04, Eridanus, *Pehl^!p
+2010-11-23, Draco, hrZX2x7F
+2010-11-21, Dorado, DJJ@XcgA
+2010-11-12, Norma, 4SW5NxK#
+2010-11-26, Sagittarius, mtkBfEN4
+2010-11-26, Pavo, J0DJQWuH
+2010-11-26, Hydrus, !8mB1k)h
+2010-11-14, Ara, lUTVcAd(
+2010-11-09, Canis Major, EAW8Elsw
+2010-11-12, Andromeda, QLlK&f8*
+2010-11-11, Vela, 8NW6IUQL
+2010-11-19, Canis Major, rAxq8NL)
+2010-11-30, Puppis, eRmJ^MgL
+2010-11-01, Apus, poZwO69p
+2010-11-21, Sagittarius, XMkCSZ3H
+2010-11-08, Cepheus, ud%&&$f&
+2010-11-30, Hercules, ^n6rE%0v
+2010-11-03, Pavo, obZhF)*G
+2010-11-16, Horologium, nZHJ6Vic
+2010-11-05, Octans, uM^X#2Zb
+2010-11-11, Circinus, 059jKxNm
+2010-11-13, Crux, vB0@+BxF
+2010-11-30, Delphinus, jc3T9i%p
+2010-11-13, Vulpecula, wRS+C48D
+2010-11-11, Delphinus, !)4$trr2
+2010-11-20, Camelopardalis, TtdZdJTl
+2010-11-11, Gemini, mz4w%S(!
+2010-11-16, Corvus, miJk!vm#
+2010-11-24, Cetus, tabmtzV8
+2010-11-21, Tucana, _Qr0N01f
+2010-11-19, Musca, io)B@EOH
+2010-11-10, Microscopium, 2qtW*nJU
+2010-11-30, Crux, lLprgc^*
+2010-11-19, Sagitta, KT5cG*5Q
+2010-11-26, Circinus, 3$mEHZxy
+2010-11-09, Microscopium, W(#65NaV
+2010-11-11, Tucana, gnPoc%x8
+2010-11-11, Ophiuchus, oc5s*+Jw
+2010-11-10, Octans, eaJpYj0G
+2010-11-20, Lupus, %9S)4P+)
+2010-11-26, Dorado, &Nz7FVX9
+2010-11-18, Taurus, Hn!VQ#OU
+2010-11-04, Sagittarius, rmBnNZ^O
+2010-11-10, Corona Borealis, T^iTo3nL
+2010-11-15, Ophiuchus, x(0xpy8k
+2010-11-01, Canis Major, &7#Ki!F*
+2010-11-21, Antlia, @*CMhkR0
+2010-11-30, Lepus, O0n_v!$4
+2010-11-14, Sculptor, kEUzT1e)
+2010-11-10, Lynx, rSbl!BMt
+2010-11-01, Scorpius, uu713*7h
+2010-11-15, Chamaeleon, wtX&YMrx
+2010-11-18, Cassiopeia, LAtdIDFz
+2010-11-12, Sextans, nU9XD))A
+2010-11-03, Lupus, (kxO22Mo
+2010-11-23, Cassiopeia, 7jcC_ZRS
+2010-11-29, Pyxis, Dv7CB$BW
+2010-11-20, Norma, CQ%5)ywt
+2010-11-26, Sculptor, SRNyQ#wF
+2010-11-04, Caelum, vz+ie8Sw
+2010-11-22, Ophiuchus, QUm!YD_R
+2010-11-07, Crater, qZRNqR^%
+2010-11-24, Grus, LYK$ukQ5
+2010-11-24, Delphinus, 6*7yyVO8
+2010-11-22, Reticulum, twCslH2O
+2010-11-11, Hydra, SZBk!o#9
+2010-11-24, Telescopium, yRA%8k6f
+2010-11-28, Musca, p@7cegTz
+2010-11-07, Aquarius, xwHkeuV&
+2010-11-13, Cancer, 9PHbDRrS
+2010-11-07, Triangulum Australe, mEZG5@Y+
+2010-11-04, Eridanus, eUS&Zv#^
+2010-11-24, Carina, Nh7fToar
+2010-11-25, Chamaeleon, $n^Rhx##
+2010-11-01, Pictor, 7gAI+hYO
+2010-11-25, Lacerta, GH3&PttB
+2010-11-20, Reticulum, TooZrQsE
+2010-11-24, Delphinus, ivpWnjyR
+2010-11-26, Pisces, 3l6e*SHY
+2010-11-26, Triangulum Australe, UypspVY^
+2010-11-29, Horologium, RAuLd2BU
+2010-11-09, Triangulum Australe, BhI2H2bb
+2010-11-23, Sextans, *h5jSos@
+2010-11-01, Canis Minor, _y%a5Wo*
+2010-11-08, Tucana, $5%k+*!%
+2010-11-25, Antlia, ZG_s(KY0
+2010-11-14, Octans, Xp7tr^_w
+2010-11-12, Perseus, bIGPcjjx
+2010-11-20, Triangulum Australe, &+kgv_c5
+2010-11-06, Perseus, IuOBJW%5
+2010-11-09, Volans, xbNbBhl8
+2010-11-17, Pisces, jyS3XrUG
+2010-11-21, Mensa, JywmAa%!
+2010-11-16, Cepheus, xhmqR1X4
+2010-11-16, Horologium, ApKv%2^3
+2010-11-11, Vulpecula, 1^0NVTJW
+2010-11-27, Ursa Minor, Z&^Ixif1
+2010-11-12, Telescopium, 9i3uIBGm
+2010-11-26, Hercules, lbC8l#yJ
+2010-11-07, Dorado, IxgCLMN)
+2010-11-16, Dorado, !1&*6s%N
+2010-11-12, Norma, s!X%8liA
+2010-11-22, Canes Venatici, )zFNH0KY
+2010-11-30, Phoenix, 9ofkf8cj
+2010-11-22, Pisces, Q56Gq(u6
+2010-11-29, Dorado, UEGhUdGu
+2010-11-30, Pisces, t(qxyTft
+2010-11-28, Grus, @O&JBYf_
+2010-11-25, Fornax, Kg+_(ouD
+2010-11-27, Horologium, 7sVa1o9V
+2010-11-14, Scutum, H#WP++&X
+2010-11-07, Camelopardalis, QhB3Lj+x
+2010-11-07, Volans, FzRzXA$k
+2010-11-26, Sculptor, ^Nu8O8!E
+2010-11-12, Auriga, t8_QrlaW
+2010-11-29, Puppis, mb*!CN(D
+2010-11-10, Aquarius, 7Z&a4nKQ
+2010-11-01, Aquila, PfV!$tTp
+2010-11-11, Pictor, yiLx)Mxg
+2010-11-06, Musca, 0+p)LlfH
+2010-11-24, Canis Major, BWLru4!J
+2010-11-26, Caelum, 3ej#u6Xd
+2010-11-19, Sculptor, VXFv)7rV
+2010-11-09, Lepus, wcnezVNd
+2010-11-20, Canes Venatici, WayDXLGd
+2010-11-18, Columba, #q+JWHN6
+2010-11-22, Scorpius, @wkP#yBu
+2010-11-30, Delphinus, 6w29nt)e
+2010-11-28, Microscopium, #O29ot52
+2010-11-05, Canis Minor, c^J$tQyf
+2010-11-23, Orion, %(kIdMcj
+2010-11-04, Delphinus, )N77M1g@
+2010-11-30, Perseus, #&cWWS2#
+2010-11-05, Columba, qZp$_84X
+2010-11-01, Ursa Minor, pSfwQmB0
+2010-11-17, Norma, z5kVlJBF
+2010-11-07, Boötes, T4TjIlh3
+2010-11-08, Puppis, q11NMXr*
+2010-11-26, Dorado, 0yObptss
+2010-11-28, Cassiopeia, f0V@Ymb7
+2010-11-23, Sagitta, RCWGAKu9
+2010-11-22, Aquarius, TTOgrrul
+2010-11-16, Coma Berenices, )8zDjkI+
+2010-11-15, Crux, xS!XlrBt
+2010-11-26, Carina, O&lWhv%W
+2010-11-29, Aquila, uF7BdZ0b
+2010-11-06, Pavo, Ah7$a$b5
+2010-11-07, Tucana, CAe@CLfV
+2010-11-15, Apus, )W_&T$Aa
+2010-11-13, Boötes, D)*kb*e5
+2010-11-21, Pyxis, j3ACGC!^
+2010-11-01, Monoceros, h5K0EM4S
+2010-11-15, Aquila, WcB86ge&
+2010-11-24, Fornax, 9+Xoh+nV
+2010-11-13, Auriga, xKyoxHax
+2010-11-13, Pictor, wW9BHOh@
+2010-11-05, Delphinus, ^UAL4&F2
+2010-11-11, Triangulum, fWuIMj8z
+2010-11-26, Lyra, o(Cq1qF$
+2010-11-18, Columba, uAx7ogKO
+2010-11-07, Indus, 1BBiUQ1m
+2010-11-17, Musca, lLI3sM%d
+2010-11-15, Microscopium, 3u#@g_+X
+2010-11-26, Equuleus, V+CQ#DHN
+2010-11-15, Carina, _x&zCX(J
+2010-11-03, Reticulum, 22RChoh&
+2010-11-15, Norma, UFoF$Cl!
+2010-11-23, Auriga, hOm3vJ6A
+2010-11-08, Lynx, bRC!LgIH
+2010-11-19, Hydrus, lf5Qy+O_
+2010-11-02, Lupus, Zw$9G%!e
+2010-11-08, Cassiopeia, SlBvm_r1
+2010-11-08, Vulpecula, $xM#+lw1
+2010-11-19, Caelum, febs*W4@
+2010-11-02, Ursa Major, eX2p@h3H
+2010-11-22, Circinus, 0^Ra*b2h
+2010-11-03, Eridanus, P@PqsVCa
+2010-11-30, Pictor, Ai4rz%o)
+2010-11-14, Auriga, 07tG6+wm
+2010-11-17, Boötes, K7_1b)8D
+2010-11-03, Octans, DldZLrZH
+2010-11-13, Pyxis, t#R^y7ju
+2010-11-06, Carina, UNquOqqk
+2010-11-04, Gemini, z)ZA)U)l
+2010-11-15, Ursa Major, (+Dl2(6#
+2010-11-02, Corona Borealis, 9dSEob(f
+2010-11-24, Centaurus, qOsUu$gM
+2010-11-22, Reticulum, z0KzEmb9
+2010-11-19, Scutum, e!YVT^Fb
+2010-11-19, Ursa Minor, IPGO0!#y
+2010-11-23, Scutum, FT2e_9qs
+2010-11-15, Carina, 1qaIg&b8
+2010-11-09, Lacerta, yoeiy9wF
+2010-11-01, Camelopardalis, S%jNd%T9
+2010-11-11, Microscopium, 33oLAkoO
+2010-11-24, Libra, RBeAy&OG
+2010-11-07, Chamaeleon, hgvW6d)w
+2010-11-06, Eridanus, Ps(%tC^F
+2010-11-15, Puppis, VGR4Sajz
+2010-11-12, Equuleus, 7Pr7p6%i
+2010-11-09, Sculptor, w32ZP8Fu
+2010-11-05, Cepheus, EPLDZAHw
+2010-11-08, Pegasus, b$)_$w4w
+2010-11-12, Hydrus, d&eGd1pJ
+2010-11-08, Leo, sPQgmBx1
+2010-11-16, Serpens, X1x3kXW)
+2010-11-24, Chamaeleon, NM6SOvA&
+2010-11-20, Fornax, OEpO*GBy
+2010-11-17, Lepus, H+&qPA0I
+2010-11-23, Aquarius, sqR4Dy))
+2010-11-06, Corona Borealis, )C1Re9%K
+2010-11-07, Corona Australis, I8NCqsL9
+2010-11-21, Lynx, raYnX%_l
+2010-11-20, Chamaeleon, nUq)xGwU
+2010-11-26, Pictor, *SB3IEzq
+2010-11-06, Equuleus, ^o__(av0
+2010-11-23, Antlia, OxyCz8to
+2010-11-25, Vela, bzA(Wg6l
+2010-11-01, Pavo, 7H9d12$M
+2010-11-23, Apus, Sv((C^Ck
+2010-11-01, Libra, estD(G*y
+2010-11-11, Reticulum, j%@6Zzd_
+2010-11-24, Dorado, 0%!p&Xy1
+2010-11-01, Lepus, jYs2%(yp
+2010-11-25, Auriga, 0sZ8%J$k
+2010-11-02, Carina, V7t&xPjL
+2010-11-30, Cepheus, 9Ry@A0ni
+2010-11-14, Crux, kHk&YPuJ
+2010-11-03, Pyxis, g1M83&0M
+2010-11-16, Microscopium, &M#0%mag
+2010-11-15, Vulpecula, MKD^XGuz
+2010-11-06, Circinus, bkCUykO3
+2010-11-06, Serpens, ZS)2HTIY
+2010-11-07, Mensa, ieFV_CNb
+2010-11-02, Telescopium, d%puf#!Q
+2010-11-01, Libra, 2E2S1JdR
+2010-11-05, Tucana, ebJal@I4
+2010-11-17, Crux, fq#CYAI4
+2010-11-04, Dorado, dzdHaXLo
+2010-11-04, Crux, XNfoigRq
+2010-11-07, Canes Venatici, 8x&z@2z3
+2010-11-05, Hydra, odEPQ5@j
+2010-11-23, Hercules, ni@sU!jD
+2010-11-15, Eridanus, o82zKrX9
+2010-11-17, Libra, VoTb3x8S
+2010-11-18, Equuleus, mFK^f+gO
+2010-11-04, Horologium, wfezJGB^
+2010-11-10, Ara, aan6srZu
+2010-11-10, Cancer, yZFl*BfG
+2010-11-30, Canes Venatici, E6G8*noS
+2010-11-06, Musca, +8wDk_2K
+2010-11-18, Hydra, yEy8$m3U
+2010-11-19, Aries, *ZZ7naTu
+2010-11-28, Octans, cHa@uL*u
+2010-11-17, Sagitta, ntiisPDl
+2010-11-27, Auriga, !na(u%#I
+2010-11-25, Caelum, 7*7&)K6^
+2010-11-12, Norma, q0DUcV&r
+2010-11-05, Volans, )xAwzi1b
+2010-11-04, Sagittarius, 0HNkXgz$
+2010-11-03, Taurus, r_Lqj8Pu
+2010-11-04, Centaurus, S6MV8)OO
+2010-11-29, Crux, g$h9FgOi
+2010-11-09, Tucana, zP_^j0KT
+2010-11-10, Ursa Minor, hcW5ThzB
+2010-11-08, Reticulum, JAq%D20v
+2010-11-18, Grus, t8Yb%zyc
+2010-11-01, Lacerta, Qy%!^rqn
+2010-11-12, Columba, PzPztnRK
+2010-11-06, Puppis, RMfAiV1m
+2010-11-27, Equuleus, vP*!2qOD
+2010-11-07, Corona Australis, c^TeidbL
+2010-11-06, Gemini, LZcUJEtf
+2010-11-28, Aquila, yPKtQlO8
+2010-11-19, Pictor, _P_^9Vy^
+2010-11-16, Boötes, CEgw*560
+2010-11-17, Musca, &7eko^kB
+2010-11-07, Ursa Major, 7@$eU6kp
+2010-11-18, Boötes, pf!cdpzO
+2010-11-18, Lupus, W17k4Xuq
+2010-11-28, Orion, SE#BZPg8
+2010-11-24, Horologium, WZEJzVk3
+2010-11-28, Hercules, J6af&gz5
+2010-11-20, Telescopium, i$d%+z#N
+2010-11-26, Boötes, PegSs!K9
+2010-11-04, Taurus, oh)Nn*&f
+2010-11-28, Grus, JF#FFKA_
+2010-11-14, Telescopium, YSL%_e5@
+2010-11-15, Auriga, _i%rD!Ir
+2010-11-07, Telescopium, EYj49NZt
+2010-11-08, Lacerta, C&XFGb87
+2010-11-06, Eridanus, TFw%24JP
+2010-11-18, Centaurus, yfssYgef
+2010-11-15, Gemini, xk4)PYpG
+2010-11-18, Gemini, 5_ZT(ILP
+2010-11-21, Corona Australis, PWqKnHZf
+2010-11-21, Chamaeleon, LUrtmsRs
+2010-11-23, Piscis Austrinus, M8)wy)ZE
+2010-11-05, Virgo, Upgjffb0
+2010-11-21, Reticulum, XSaZtX(l
+2010-11-23, Equuleus, 9fpv!+8u
+2010-11-27, Circinus, XOVWD!8t
+2010-11-18, Boötes, iK^HlM0z
+2010-11-02, Fornax, 9DH3CfKf
+2010-11-06, Centaurus, Z0ECfKTJ
+2010-11-11, Crux, w@PJEk)E
+2010-11-13, Pyxis, 4Qj#O&2k
+2010-11-24, Phoenix, TG8FAaxx
+2010-11-22, Crux, ^HJJgeC@
+2010-11-07, Sagittarius, Kf)XR2M@
+2010-11-19, Centaurus, Uv&!ezl!
+2010-11-21, Corona Borealis, f@AzjQS*
+2010-11-01, Octans, L%REScQ_
+2010-11-16, Pyxis, )_cW$6I4
+2010-11-03, Hydrus, AO$ZisnS
+2010-11-02, Canis Minor, HhzF0d!z
+2010-11-07, Indus, o@wnq8u0
+2010-11-02, Lacerta, _&UoL+Re
+2010-11-23, Lynx, u%k%yG*E
+2010-11-24, Cetus, O^pu$JvL
+2010-11-09, Delphinus, VHAnyWJQ
+2010-11-24, Crater, 9X1$oRvh
+2010-11-15, Piscis Austrinus, v4g$$w_J
+2010-11-15, Canis Major, %MJCO%DC
+2010-11-10, Aries, mbfjNIxw
+2010-11-25, Cygnus, qmQKbUPb
+2010-11-08, Pyxis, uE*rS4OW
+2010-11-14, Equuleus, KPdzLyQb
+2010-11-06, Lynx, +POz7Vt_
+2010-11-18, Corona Australis, *RQF(m)4
+2010-11-11, Virgo, yl^#9BYK
+2010-11-22, Gemini, @KZDad_R
+2010-11-19, Indus, J1atV!Uo
+2010-11-14, Canis Major, J+uM4(Y)
+2010-11-08, Ophiuchus, stojCQOG
+2010-11-13, Boötes, nf!t3cV$
+2010-11-15, Norma, d4V9Caq9
+2010-11-07, Perseus, rT1@)_9O
+2010-11-24, Carina, L_4pxz#&
+2010-11-22, Mensa, 7B(8raSj
+2010-11-25, Hercules, erl(VYV3
+2010-11-26, Pictor, _xzEObT6
+2010-11-17, Caelum, G(%8Z8Dp
+2010-11-27, Phoenix, !Wj^eKJU
+2010-11-04, Auriga, E43hBYmo
+2010-11-22, Perseus, b_D5^+j$
+2010-11-20, Fornax, 4E3F8f$e
+2010-11-04, Pavo, fZT)VH%N
+2010-11-17, Tucana, 1f!*izDl
+2010-11-29, Equuleus, 6%mGZq+E
+2010-11-08, Ophiuchus, Tki1HAw)
+2010-11-21, Musca, r678C2S9
+2010-11-12, Centaurus, 74T9Xacl
+2010-11-21, Reticulum, )xdbUCf&
+2010-11-02, Taurus, In&SdJT5
+2010-11-30, Capricornus, F%OUPF)8
+2010-11-15, Cancer, vWOQknH@
+2010-11-06, Columba, E5q5kQ0K
+2010-11-24, Corona Borealis, @k0go**n
+2010-11-11, Octans, 5gevx4yU
+2010-11-10, Tucana, EK74+FqD
+2010-11-17, Sextans, _dbfO2FC
+2010-11-02, Vulpecula, )mS9wKwt
+2010-11-06, Coma Berenices, DybEIA**
+2010-11-10, Aries, wc3uftYv
+2010-11-26, Gemini, ITbFv6^Q
+2010-11-08, Antlia, yGIfGwNn
+2010-11-21, Pavo, P&QL*Q7s
+2010-11-14, Sagitta, IjRpl6^P
+2010-11-19, Triangulum Australe, Uj9^m__X
+2010-11-25, Vela, mu3opS0u
+2010-11-30, Fornax, xb5DgxhH
+2010-11-06, Cygnus, sSWd4LmM
+2010-11-18, Eridanus, RZRMTa74
+2010-11-19, Tucana, G@bTC4zM
+2010-11-14, Monoceros, lhqBVxgj
+2010-11-01, Ophiuchus, hhOh+bod
+2010-11-08, Hydra, MWWpuvE%
+2010-11-05, Corona Borealis, CPbZghvD
+2010-11-03, Virgo, NcbBOUyq
+2010-11-04, Circinus, CZLnpQkf
+2010-11-13, Sagitta, $!zLmkye
+2010-11-09, Cepheus, Il)3mEbG
+2010-11-12, Virgo, xbQHWnzh
+2010-11-28, Capricornus, aIxlsC%f
+2010-11-16, Aquila, P#oB8mY^
+2010-11-06, Canes Venatici, %caV2Djj
+2010-11-12, Dorado, HgQgW@IS
+2010-11-29, Phoenix, L+5Qk7qm
+2010-11-22, Volans, v0B3d)nn
+2010-11-30, Sculptor, IO$Y2mjt
+2010-11-10, Coma Berenices, EY#4Z65$
+2010-11-10, Delphinus, 2NM@#PFd
+2010-11-19, Aquarius, sS7kEx20
+2010-11-28, Draco, SEP$&iDM
+2010-11-07, Musca, PvK5C%W_
+2010-11-01, Andromeda, Jp5UEmaw
+2010-11-18, Cancer, iv1H^Ug2
+2010-11-10, Columba, vj_HrlwM
+2010-11-16, Caelum, 5M+FBg)N
+2010-11-02, Carina, $sEP%jfO
+2010-11-07, Orion, PdO13UC@
+2010-11-16, Carina, E!ygh9i#
+2010-11-24, Triangulum Australe, HrE&3WmN
+2010-11-24, Scutum, xRA8See#
+2010-11-22, Hercules, wKvfHy4(
+2010-11-27, Indus, 9mOE*jpn
+2010-11-19, Sculptor, #zRl7Z%u
+2010-11-27, Libra, Jts2BJ6%
+2010-11-07, Hydra, UyHBYCc9
+2010-11-16, Crux, PXlQ@U2e
+2010-11-20, Aquarius, E6DX+U@h
+2010-11-15, Vulpecula, eJN0uSth
+2010-11-06, Ara, 7T%Eu@3H
+2010-11-30, Lyra, k2Xz+nKy
+2010-11-11, Draco, O@adu(bl
+2010-11-06, Indus, JW6it&s#
+2010-11-26, Circinus, lMf3c4fj
+2010-11-14, Triangulum Australe, wfBXvNis
+2010-11-18, Lepus, (Mj!t(ir
+2010-11-11, Aries, tMRgO#Jt
+2010-11-21, Scorpius, MkV6xE+H
+2010-11-24, Chamaeleon, cKd%!Iw&
+2010-11-11, Sagitta, *s&dBRtn
+2010-11-05, Capricornus, H8Q4&BXH
+2010-11-17, Corvus, 2gW1@#l4
+2010-11-26, Vulpecula, !lH&4czg
+2010-11-03, Lynx, VDtj@0JZ
+2010-11-18, Puppis, UaajQSiC
+2010-11-23, Pictor, +ZEi#@A$
+2010-11-21, Telescopium, OdQJOcfE
+2010-11-24, Mensa, u^6BZhg+
+2010-11-09, Norma, BMeM^H5x
+2010-11-14, Sagitta, bnOZ$H#l
+2010-11-12, Cygnus, UcWdwe7_
+2010-11-20, Aries, 4jw*NGxb
+2010-11-28, Circinus, 6^t7iKjW
+2010-11-13, Reticulum, ykmjk4Kb
+2010-11-14, Aquila, HEtOjto9
+2010-11-04, Aries, rqA6apsi
+2010-11-26, Phoenix, 5vWNZfcC
+2010-11-07, Sculptor, PIvzuYRl
+2010-11-05, Pyxis, n#GvwO#q
+2010-11-16, Puppis, yI2yPM&3
+2010-11-16, Cygnus, +MRtr29$
+2010-11-10, Virgo, OP0i2&Yu
+2010-11-29, Indus, 0dyBU4ZN
+2010-11-03, Crux, IJV5x1Vb
+2010-11-06, Cassiopeia, QpNS3)RX
+2010-11-06, Libra, F!GL4!q7
+2010-11-26, Cassiopeia, B9vcQQsL
+2010-11-02, Libra, &Jd58I47
+2010-11-15, Corona Australis, 0Ib$mP+&
+2010-11-02, Canes Venatici, rBETyZD^
+2010-11-21, Aquila, ###lsv@G
+2010-11-27, Cepheus, D@ynQu_V
+2010-11-26, Aquila, L9xV4(l^
+2010-11-24, Canis Minor, &tgsZpPL
+2010-11-14, Hydrus, %FUvN$mh
+2010-11-06, Reticulum, BvI7rtel
+2010-11-14, Scutum, ipAUAm1j
+2010-11-15, Microscopium, RhqY4p@9
+2010-11-20, Lepus, j0%^g*%C
+2010-11-08, Camelopardalis, 76W*fE$t
+2010-11-04, Octans, GUCB!4$J
+2010-11-20, Taurus, O0iLKMXt
+2010-11-30, Lepus, UDhf6DCX
+2010-11-09, Mensa, e0kAwo_S
+2010-11-09, Telescopium, OoH_XI7W
+2010-11-21, Chamaeleon, (OqTzwF2
+2010-11-25, Coma Berenices, 1AO8&7nQ
+2010-11-15, Reticulum, BkqDv1zQ
+2010-11-20, Phoenix, cVOmyLqe
+2010-11-05, Indus, 81_mVkar
+2010-11-21, Canis Minor, 7Cn3RD5p
+2010-11-14, Equuleus, jeIsGJy4
+2010-11-18, Serpens, e5hW_8vp
+2010-11-27, Aquila, R0jTluA8
+2010-11-06, Ophiuchus, 16GXYf76
+2010-11-09, Ophiuchus, c$JVWpC6
+2010-11-19, Reticulum, mXnw3KbG
+2010-11-06, Pictor, X_a!W1%X
+2010-11-21, Microscopium, 3TcLzfl9
+2010-11-24, Telescopium, C_QgPp$*
+2010-11-11, Monoceros, 8Lz*Yo6v
+2010-11-01, Sagittarius, 4N+0yf@^
+2010-11-08, Puppis, ZkWPdRLm
+2010-11-23, Ursa Minor, eGRNBC*j
+2010-11-21, Vela, r97hWW@6
+2010-11-05, Aquarius, Wf!eH%XL
+2010-11-07, Cepheus, g7e%1SiJ
+2010-11-18, Delphinus, _@)fX6mS
+2010-11-09, Delphinus, !i)v&oMn
+2010-11-07, Canes Venatici, Jyc%gHVi
+2010-11-11, Grus, 9_*tKmZm
+2010-11-05, Puppis, I9Rv_0wC
+2010-11-22, Ursa Major, Q_07Uj#V
+2010-11-20, Puppis, 4X)W^m+_
+2010-11-13, Andromeda, 66Z7PZy0
+2010-11-19, Boötes, q9ryKyI%
+2010-11-23, Volans, GVQE4d^2
+2010-11-13, Hydra, NpG&b$7r
+2010-11-14, Coma Berenices, io5S&UkK
+2010-11-23, Pyxis, FkYxRCeT
+2010-11-08, Norma, h9e$ihfH
+2010-11-02, Canis Minor, REEh^oqh
+2010-11-14, Libra, bCe064WI
+2010-11-11, Cancer, *q)ThQ^&
+2010-11-12, Ursa Major, _R%MqMNq
+2010-11-12, Ursa Minor, xCBl+V2X
+2010-11-18, Lynx, yt2OZ^Zk
+2010-11-24, Puppis, 3pV+fZBA
+2010-11-28, Leo Minor, 1@)YfyEv
+2010-11-24, Cygnus, H!QXBeA@
+2010-11-05, Vulpecula, uRGOHKbF
+2010-11-29, Aquarius, QQrHF%s*
+2010-11-17, Virgo, _9Cn0@YB
+2010-11-10, Triangulum, y8AM7tM&
+2010-11-24, Cancer, zcR!26ol
+2010-11-11, Gemini, is$dr$@(
+2010-11-19, Vela, l_*F3$Ew
+2010-11-09, Andromeda, dqxCI5Jx
+2010-11-13, Lepus, Gb4(^@_K
+2010-11-14, Leo Minor, BJvM(uQ@
+2010-11-14, Cetus, tyrvqlL#
+2010-11-12, Coma Berenices, bYEtnkHR
+2010-11-11, Columba, +*7eomVr
+2010-11-16, Sextans, AmK_$5Yi
+2010-11-15, Auriga, wCyxNRbk
+2010-11-03, Volans, i@GLUDUI
+2010-11-24, Canes Venatici, KTK$*4(n
+2010-11-10, Lepus, 0vtse1e$
+2010-11-26, Scorpius, AmytPy*c
+2010-11-30, Draco, 8f0Imj_k
+2010-11-15, Gemini, K_c!^(&@
+2010-11-19, Microscopium, RsBR5yWr
+2010-11-06, Aries, vBRRr552
+2010-11-29, Microscopium, (4Pve+0c
+2010-11-04, Corona Australis, fP2Gy1A8
+2010-11-11, Sagittarius, zjsbBlqG
+2010-11-10, Hydrus, ZdYJ&q)E
+2010-11-10, Fornax, ZjFCbHoA
+2010-11-03, Aquila, ^WnacEDv
+2010-11-15, Cygnus, AUTX8buZ
+2010-11-01, Norma, aTYzEfRI
+2010-11-24, Eridanus, %wY8_vsO
+2010-11-13, Canis Minor, q+Z_5NW)
+2010-11-28, Auriga, d0L0#Vci
+2010-11-02, Circinus, p$Kf&N*C
+2010-11-21, Sculptor, $Ip!%G!c
+2010-11-22, Libra, 5jQN2&bS
+2010-11-09, Cygnus, dcXvbZzf
+2010-11-12, Perseus, pnBT_tO*
+2010-11-10, Canis Minor, FZ&xa1Id
+2010-11-14, Libra, Mn_sP)I@
+2010-11-16, Triangulum Australe, 66@6e8$@
+2010-11-28, Perseus, GYCHmj9u
+2010-11-30, Sextans, 9DSClP4z
+2010-11-24, Scutum, 1_l2V^^7
+2010-11-18, Vulpecula, 8rpz+%MN
+2010-11-06, Corona Borealis, noW#cPyp
+2010-11-15, Cepheus, w@6@_lrF
+2010-11-19, Corona Australis, ic5XtRME
+2010-11-09, Serpens, VBF1lQUA
+2010-11-12, Lyra, AP*9MDGk
+2010-11-13, Sculptor, MHBhnLg#
+2010-11-09, Aquila, +Bdfe6^d
+2010-11-27, Monoceros, 1mKEuais
+2010-11-16, Canis Minor, c%eYx9*Z
+2010-11-03, Vulpecula, E5G7bzEn
+2010-11-14, Corvus, KAeF&os$
+2010-11-28, Corona Borealis, nRE6X*60
+2010-11-06, Sagitta, hNbMhX#I
+2010-11-20, Hydrus, R@HI$N7b
+2010-11-22, Antlia, xGkK4y@*
+2010-11-15, Cepheus, C)T)@3&+
+2010-11-20, Auriga, (e+FNL$T
+2010-11-21, Mensa, bbvh0aAd
+2010-11-06, Norma, ICaqaI+V
+2010-11-15, Corvus, Dte*1VHN
+2010-11-27, Octans, U$A$2UyN
+2010-11-19, Corvus, dtQ^12UQ
+2010-11-15, Corvus, #EK)SOeU
+2010-11-23, Camelopardalis, rAvz7gsx
+2010-11-29, Corvus, Crz%ENqP
+2010-11-25, Pavo, y3G5fP%$
+2010-11-05, Sagitta, oG(EvtGy
+2010-11-22, Dorado, xxQGMC*p
+2010-11-15, Scutum, _+gn4fma
+2010-11-07, Sagitta, 7&k%ScY7
+2010-11-27, Taurus, xjJ&jilC
+2010-11-07, Aries, %*X@WsOa
+2010-11-01, Canis Minor, ^VB%F456
+2010-11-14, Crux, BZnyQSV^
+2010-11-21, Ursa Major, xebi8FfT
+2010-11-09, Ophiuchus, O3dwU&hO
+2010-11-19, Telescopium, #6vp8u%9
+2010-11-10, Leo Minor, SW%5K(Tl
+2010-11-09, Canes Venatici, oi9_xR46
+2010-11-08, Sagitta, 6uoq1G4A
+2010-11-17, Coma Berenices, @$igk8dK
+2010-11-12, Ursa Major, &27KEXin
+2010-11-29, Tucana, 7ARmEZsF
+2010-11-26, Cancer, s@juy1eh
+2010-11-01, Eridanus, ixb3&I4p
+2010-11-12, Triangulum Australe, x2AWZ&iB
+2010-11-09, Canes Venatici, WKR1eha4
+2010-11-14, Scorpius, g+lwdT)O
+2010-11-16, Monoceros, oztD0ahf
+2010-11-16, Canis Minor, 99x&C5Mn
+2010-11-20, Triangulum, UM0La^(d
+2010-11-01, Serpens, E4tJQ6HY
+2010-11-21, Ara, k@m8&2yX
+2010-11-23, Cepheus, dT*l!f4u
+2010-11-10, Caelum, ecU5vuJl
+2010-11-06, Apus, cWhcs#DW
+2010-11-23, Aquarius, Iv6m!Pra
+2010-11-13, Grus, xu#kDI#l
+2010-11-23, Corona Borealis, W9%E8Qhd
+2010-11-29, Lupus, Z$6PLfu0
+2010-11-02, Scutum, R95h_b4J
+2010-11-05, Lepus, 7u3Dw_bS
+2010-11-18, Libra, ni5OOyvK
+2010-11-17, Tucana, HnDsytYx
+2010-11-01, Sextans, )@8aMs7O
+2010-11-30, Dorado, !T*D0(Qk
+2010-11-25, Perseus, zqd&q+gH
+2010-11-26, Lepus, 8e6#g!AF
+2010-11-21, Corvus, %&)H(m1E
+2010-11-24, Hydrus, ja@k+zUD
+2010-11-29, Centaurus, l(dzIkWi
+2010-11-20, Lupus, 2TE77gMv
+2010-11-10, Caelum, tTQL9WN#
+2010-11-25, Lacerta, _!nNlJFc
+2010-11-20, Chamaeleon, nhEMJbdn
+2010-11-29, Puppis, XdI)wr0%
+2010-11-19, Pyxis, 0V7ynz7M
+2010-11-15, Vela, !99f^3dA
+2010-11-24, Gemini, s&!hEa0_
+2010-11-28, Cygnus, wNu$$ZEY
+2010-11-27, Horologium, Vth0xq($
+2010-11-30, Equuleus, %hvj9ZNE
+2010-11-29, Aquarius, UkwanChW
+2010-11-16, Antlia, _bJLgb(m
+2010-11-28, Vela, LEXNUG(f
+2010-11-15, Andromeda, nz+#CB)O
+2010-11-08, Cygnus, MoaR$ctH
+2010-11-26, Capricornus, NuthV)Ps
+2010-11-10, Ursa Major, *E_yzQKR
+2010-11-13, Crater, r#k3_oKT
+2010-11-07, Cygnus, l*(cCrMS
+2010-11-22, Carina, olH+IFIf
+2010-11-24, Leo Minor, H^2RjF*Z
+2010-11-11, Hercules, QGKWL1lZ
+2010-11-15, Sagitta, F0v+VT5^
+2010-11-17, Pyxis, %+&C8_xk
+2010-11-17, Grus, _$$fPK!V

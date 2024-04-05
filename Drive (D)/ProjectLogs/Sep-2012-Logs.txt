@@ -1,0 +1,931 @@
+2012-09-08, Sagittarius, 0^b(Yr0n
+2012-09-22, Aquila, 1dE8D6px
+2012-09-05, Andromeda, 0DDipOtY
+2012-09-21, Sagitta, ^Tnh0A+D
+2012-09-15, Reticulum, ZPaUsQF5
+2012-09-18, Norma, )SaJoBHG
+2012-09-03, Ursa Minor, M*8v%JZY
+2012-09-27, Carina, v_kwB(7X
+2012-09-12, Camelopardalis, C_WOiAev
+2012-09-26, Reticulum, )E(#D5KR
+2012-09-21, Virgo, PdH&AHe6
+2012-09-03, Octans, wNGluLGG
+2012-09-24, Chamaeleon, 9(w2PesG
+2012-09-22, Hercules, +Oq4kcvQ
+2012-09-08, Lyra, T!b%WYSz
+2012-09-18, Sculptor, OcHn6vb0
+2012-09-15, Lacerta, PpRIOPM(
+2012-09-19, Lyra, _pi@wi)r
+2012-09-15, Boötes, hg$3RCQ8
+2012-09-23, Dorado, 7HPJLLqu
+2012-09-16, Serpens, U%Z&k!1t
+2012-09-25, Coma Berenices, U4p9_PJ4
+2012-09-02, Andromeda, )dJuWX5j
+2012-09-09, Virgo, nb!8I8u5
+2012-09-05, Pyxis, &vfotzb7
+2012-09-19, Capricornus, zTCxDa4O
+2012-09-21, Auriga, vwdoNAGN
+2012-09-09, Lyra, mvgYXbf*
+2012-09-29, Tucana, a^)QBV73
+2012-09-24, Eridanus, 9X18$(as
+2012-09-13, Circinus, !Zd#Hz!N
+2012-09-21, Cassiopeia, fTwqFqLk
+2012-09-20, Aries, )&hTVua6
+2012-09-29, Pavo, h!S&w@^d
+2012-09-04, Microscopium, W&SO7LJm
+2012-09-08, Serpens, iKUlf9nl
+2012-09-16, Sculptor, s^Q*Bd$q
+2012-09-27, Corona Australis, 2c7TLte8
+2012-09-21, Piscis Austrinus, oNGPV^YM
+2012-09-09, Lynx, 9ERY1#n6
+2012-09-22, Cepheus, 3diWOgn1
+2012-09-17, Boötes, YUD6HFE(
+2012-09-25, Orion, 9Rt9Tk*p
+2012-09-06, Horologium, n3$VvLCO
+2012-09-26, Pictor, eC)_xaS)
+2012-09-21, Aquila, KExHl)46
+2012-09-10, Cancer, zckQ1KEC
+2012-09-05, Chamaeleon, a4a0DZd*
+2012-09-27, Capricornus, V@3ka+S(
+2012-09-29, Equuleus, zv&QhUPs
+2012-09-04, Hercules, SKfkkrp&
+2012-09-22, Sagitta, trHKObk2
+2012-09-04, Sagitta, 0^PD5ppM
+2012-09-07, Volans, KoMWoX8E
+2012-09-14, Coma Berenices, p+lJIZ!a
+2012-09-14, Gemini, 4NyH+1zS
+2012-09-23, Scutum, j7lQ)*a@
+2012-09-27, Columba, 8gOm022h
+2012-09-13, Caelum, n5pRuBJh
+2012-09-17, Lyra, EHak5sKr
+2012-09-17, Sextans, ee0W*C8Y
+2012-09-09, Lyra, &_xmaneo
+2012-09-19, Corvus, hz(&)6Ck
+2012-09-13, Corona Borealis, KTCx26*C
+2012-09-19, Sculptor, yeR3btCB
+2012-09-16, Fornax, Wx9*WbgE
+2012-09-15, Eridanus, yDqgP(d$
+2012-09-08, Puppis, GX^7lYPf
+2012-09-17, Hydrus, s2VhgVBl
+2012-09-26, Fornax, y^mrzP3O
+2012-09-18, Apus, r^vL5g*1
+2012-09-29, Columba, U3v6$o6E
+2012-09-30, Corona Australis, lVm*XP41
+2012-09-12, Andromeda, B+O42iUs
+2012-09-19, Camelopardalis, CMPMxLc!
+2012-09-03, Eridanus, kYGD%1ic
+2012-09-26, Triangulum, B61JFQU@
+2012-09-28, Lynx, LybNgTfh
+2012-09-21, Centaurus, R9xUMZK+
+2012-09-09, Reticulum, 3#HbFIjI
+2012-09-29, Microscopium, u+fxgz#9
+2012-09-08, Mensa, oq!QJUz6
+2012-09-11, Octans, FwDw+wis
+2012-09-02, Lupus, KP%c3Zj*
+2012-09-01, Equuleus, j)sOA!47
+2012-09-04, Apus, @1fPq#Ke
+2012-09-27, Leo Minor, qpO43)mr
+2012-09-01, Cetus, 0CaCN177
+2012-09-29, Centaurus, nhaLQsZS
+2012-09-06, Columba, y4&fAhMn
+2012-09-19, Cetus, TzK6v+@!
+2012-09-29, Corvus, 9kjQ8%fv
+2012-09-05, Orion, )_P_ieGb
+2012-09-30, Hydrus, Tn3M8TA+
+2012-09-16, Circinus, dj&RhQwj
+2012-09-21, Orion, OiPp)nnv
+2012-09-02, Pictor, JGiQbbZi
+2012-09-16, Aries, oBSIdf%2
+2012-09-25, Sagittarius, vnQ1538_
+2012-09-05, Norma, lo54m0xu
+2012-09-08, Capricornus, T6I68ga6
+2012-09-20, Libra, adj6T*Nz
+2012-09-03, Octans, RxeclbkF
+2012-09-02, Scutum, Zp@WcCzQ
+2012-09-15, Microscopium, uzwyAMQ8
+2012-09-18, Libra, a#%sWi&l
+2012-09-04, Chamaeleon, Mn&eeB!c
+2012-09-02, Taurus, %7!3AIWY
+2012-09-15, Pavo, !LG#Sw+Y
+2012-09-19, Phoenix, &lGTn&FL
+2012-09-22, Leo, wYF@rNxV
+2012-09-27, Cassiopeia, J@**RAPr
+2012-09-28, Aquila, IDc*mU$)
+2012-09-04, Fornax, ExL^fmRY
+2012-09-23, Reticulum, YEwxkcE5
+2012-09-16, Carina, 2WFP+cnj
+2012-09-17, Dorado, PQDqep4t
+2012-09-14, Monoceros, c)Ifm+CZ
+2012-09-29, Lynx, +eSQHhBd
+2012-09-20, Orion, E+gy@%Du
+2012-09-17, Octans, H4HmDtYE
+2012-09-24, Aquarius, PBqdj0U8
+2012-09-13, Monoceros, Ms7GE9q9
+2012-09-22, Columba, IskuxE$Z
+2012-09-06, Telescopium, IMWlIJaz
+2012-09-03, Andromeda, 5#!0gW(H
+2012-09-24, Fornax, &0QDWCzs
+2012-09-15, Antlia, h3CLqoj^
+2012-09-22, Perseus, uUFKFOCh
+2012-09-03, Hercules, nJNp4AdQ
+2012-09-30, Canis Major, Z%0HX@uN
+2012-09-10, Aries, p)ZxGc5R
+2012-09-14, Crux, erdM9%BD
+2012-09-01, Horologium, kuD%+6&g
+2012-09-28, Volans, AK#Iry4h
+2012-09-11, Sculptor, rc0atbAf
+2012-09-04, Sagittarius, T$#hJ^Pe
+2012-09-03, Indus, #13hR!7Z
+2012-09-30, Monoceros, y0xCnk(M
+2012-09-23, Aries, z@vT4$bW
+2012-09-29, Leo, 0PUONTp4
+2012-09-03, Draco, p3juWbY(
+2012-09-13, Orion, )gRcK@b_
+2012-09-09, Scorpius, 4elyIHqP
+2012-09-25, Telescopium, d#qOT33m
+2012-09-18, Lupus, hKEcNwlX
+2012-09-10, Gemini, J+TYtPM%
+2012-09-02, Apus, FxNV%#s+
+2012-09-02, Lynx, 6o3CsYQ^
+2012-09-24, Lyra, Tf@8%Fr^
+2012-09-15, Coma Berenices, C08elB(p
+2012-09-15, Crater, 7HD(VBP^
+2012-09-03, Sextans, VtfH)6i(
+2012-09-17, Canes Venatici, P@gv!gb!
+2012-09-14, Crux, 43o)SI+h
+2012-09-25, Mensa, ^QqRhI%+
+2012-09-16, Triangulum Australe, 32rr2hAK
+2012-09-14, Musca, 14GktyQ^
+2012-09-25, Pavo, wUZ*0ryr
+2012-09-22, Tucana, U#_6)jH(
+2012-09-22, Serpens, 08Q7Pvkv
+2012-09-15, Taurus, iB$skK4m
+2012-09-18, Hercules, NwVZsIJT
+2012-09-15, Cetus, 09z$@56(
+2012-09-25, Centaurus, ^Z5%E6GA
+2012-09-17, Corona Australis, D*QZ(f0v
+2012-09-11, Pegasus, JK#0*Kc)
+2012-09-17, Scutum, Nwn$q#Ky
+2012-09-14, Virgo, qrVX3#92
+2012-09-20, Ara, cVh7@v7w
+2012-09-11, Cygnus, !Qbt%CpG
+2012-09-16, Apus, F+8uQljZ
+2012-09-22, Scorpius, yZyUKE(^
+2012-09-19, Auriga, LDhVTmf5
+2012-09-05, Ursa Minor, B78LiID7
+2012-09-20, Boötes, k@p(R$cw
+2012-09-24, Aries, ^l2TnRJ*
+2012-09-01, Sagitta, Tp+mR3SB
+2012-09-07, Coma Berenices, cXeqe9v&
+2012-09-28, Centaurus, 7I)Ho(A^
+2012-09-10, Ursa Major, $$J!yW41
+2012-09-10, Reticulum, NE4wK+wd
+2012-09-03, Taurus, GuPuKv4!
+2012-09-17, Libra, qbM(LZ2H
+2012-09-29, Pictor, ^^6pf4i$
+2012-09-16, Scorpius, 0JSlEUI#
+2012-09-04, Puppis, rDcMlqbO
+2012-09-12, Lepus, 7aeyprxx
+2012-09-24, Chamaeleon, H7dIY6_f
+2012-09-30, Cygnus, 8M#AMc@i
+2012-09-04, Pisces, oF8Dr58u
+2012-09-28, Centaurus, rqO6!k_o
+2012-09-27, Cetus, *EFCnM#V
+2012-09-14, Canis Minor, xljUPu#K
+2012-09-28, Chamaeleon, gd7QK!7)
+2012-09-06, Leo, SJEOjFLn
+2012-09-17, Sculptor, cXe%GwiC
+2012-09-09, Pisces, p(*ZeqX9
+2012-09-11, Chamaeleon, kb0Tkj7J
+2012-09-04, Eridanus, +JwBrs_o
+2012-09-19, Coma Berenices, Oao&RckL
+2012-09-12, Auriga, g2L2jL#R
+2012-09-18, Hercules, xKrCD9xH
+2012-09-29, Dorado, SaqzuyCW
+2012-09-14, Circinus, dG*kdDYI
+2012-09-14, Libra, vL#CTBL(
+2012-09-14, Aquila, 815RX$+l
+2012-09-24, Cassiopeia, hs33Rmgq
+2012-09-28, Triangulum Australe, R8(3y&nM
+2012-09-26, Phoenix, zA5&@N%+
+2012-09-03, Telescopium, ypp5bfS7
+2012-09-17, Canis Minor, F)&gYfw)
+2012-09-18, Hydra, fPbdjgen
+2012-09-17, Canes Venatici, 1J#@n*vn
+2012-09-05, Hercules, 1yG6jPLt
+2012-09-26, Cassiopeia, $sRRLoV^
+2012-09-29, Telescopium, urns#MEm
+2012-09-20, Delphinus, 5CH)V6eH
+2012-09-20, Cetus, 3anW+*j$
+2012-09-28, Scutum, &yqwLZzN
+2012-09-14, Reticulum, 6FHdjhUj
+2012-09-10, Aquarius, $iK1YoPp
+2012-09-17, Boötes, $1QRJ0f9
+2012-09-04, Octans, Q!HAFePR
+2012-09-29, Sculptor, _ZC_9IMG
+2012-09-22, Virgo, la0vVZWF
+2012-09-02, Indus, usmZKo0^
+2012-09-13, Mensa, D9(S%vRi
+2012-09-11, Sagitta, GKR19e4$
+2012-09-07, Hydrus, 1ON_JsIE
+2012-09-10, Serpens, nqFBJd3q
+2012-09-14, Phoenix, szK)$CR@
+2012-09-27, Indus, EYASMtBo
+2012-09-02, Circinus, lnNbXpSm
+2012-09-13, Hercules, jSJ!(VZs
+2012-09-07, Camelopardalis, w$ZCfbqx
+2012-09-14, Andromeda, SPEcUseo
+2012-09-06, Aquila, Y!Ozl$cw
+2012-09-16, Virgo, AUgtHJ@Y
+2012-09-07, Libra, 11zGNW5I
+2012-09-15, Centaurus, 6AkS6s^j
+2012-09-29, Taurus, 9tzUMJWD
+2012-09-01, Auriga, e&8o$b78
+2012-09-12, Tucana, p9pyow0%
+2012-09-10, Cepheus, 5qNeJr36
+2012-09-17, Crux, hl5h9ox3
+2012-09-06, Pegasus, BPN)D6ij
+2012-09-23, Carina, we%sG4(x
+2012-09-29, Scutum, jl&4UyZJ
+2012-09-05, Tucana, ei1+P5X0
+2012-09-29, Cancer, $etxqZhR
+2012-09-19, Pictor, AG%Ag)+2
+2012-09-25, Hydra, sqDSzg9c
+2012-09-26, Cetus, s3RsUYB5
+2012-09-17, Delphinus, _39)mMr#
+2012-09-03, Corona Australis, xSXsOi5m
+2012-09-14, Serpens, _Z2OnB2B
+2012-09-27, Sagitta, cZ3z8w2V
+2012-09-01, Mensa, jYUYLSsM
+2012-09-21, Mensa, &QbnSu%D
+2012-09-21, Tucana, T1An1L+$
+2012-09-06, Scutum, D52h#X^1
+2012-09-01, Circinus, 9ho1%wiG
+2012-09-26, Canis Major, L&t^Nptt
+2012-09-02, Corona Borealis, !@sF$GjL
+2012-09-06, Aries, +&EAbRC1
+2012-09-28, Sagitta, yTIsH)6#
+2012-09-12, Hydrus, T&ABGe6*
+2012-09-02, Draco, E!CCvGJ8
+2012-09-05, Telescopium, zf@7VYgN
+2012-09-22, Sculptor, PShqbxQZ
+2012-09-25, Pisces, fXRyf6v_
+2012-09-13, Leo Minor, %15Xy$9m
+2012-09-15, Coma Berenices, AgikOb*Y
+2012-09-12, Centaurus, K8Fycn6X
+2012-09-23, Columba, qzQEbtzY
+2012-09-05, Columba, W9u0BYwk
+2012-09-25, Lyra, iG$)1*+6
+2012-09-29, Lacerta, C4z@)fQW
+2012-09-04, Sextans, YYxgfRSv
+2012-09-09, Lupus, g!MpRkwi
+2012-09-05, Draco, SB7!t8Kc
+2012-09-17, Crater, &P8*57^)
+2012-09-10, Cygnus, eih3%@uK
+2012-09-17, Indus, &&YZQ+n7
+2012-09-26, Octans, ^8XSh1+2
+2012-09-24, Antlia, URmv5Iaj
+2012-09-20, Cetus, #DHLi_#Z
+2012-09-30, Auriga, 6Tsgo#*Z
+2012-09-01, Canis Major, $*o@Z^8q
+2012-09-05, Pegasus, PS0Dr72x
+2012-09-07, Sculptor, @vkhaNz4
+2012-09-19, Aries, AEm3h7E4
+2012-09-25, Lyra, UfMrt+09
+2012-09-24, Coma Berenices, rtiCbVZM
+2012-09-08, Boötes, @9aq#nF(
+2012-09-28, Columba, 7LNAG+lz
+2012-09-20, Virgo, JN*p*Alr
+2012-09-04, Columba, jNi9ivnT
+2012-09-23, Dorado, Zuy_3Znv
+2012-09-30, Cancer, x77C$E#r
+2012-09-07, Corona Australis, ebbBK$_g
+2012-09-30, Sculptor, M(j(@iWq
+2012-09-08, Ara, TCI^&4Oe
+2012-09-22, Cygnus, GME2hc0X
+2012-09-14, Lynx, y(2PUS7&
+2012-09-30, Monoceros, cUAu6qY)
+2012-09-02, Camelopardalis, M7KS*v5z
+2012-09-18, Antlia, LrvsxsHn
+2012-09-03, Equuleus, BTunf6N6
+2012-09-21, Sagitta, OffOwfLx
+2012-09-04, Triangulum, ALwOBIs!
+2012-09-09, Canes Venatici, 8EXUCWBR
+2012-09-28, Perseus, C0V5S0IP
+2012-09-16, Corona Australis, LB$@eUte
+2012-09-11, Sagitta, 4roDUcx9
+2012-09-06, Pisces, JCn4FXov
+2012-09-16, Norma, u$7y%$eI
+2012-09-15, Indus, dhRce6gC
+2012-09-20, Serpens, vHxXVYgu
+2012-09-06, Sculptor, GJT5(Neb
+2012-09-13, Microscopium, CSTr)D9h
+2012-09-23, Triangulum, I0VtCGm@
+2012-09-08, Triangulum Australe, KUyp@DHj
+2012-09-14, Chamaeleon, YN9fS(A*
+2012-09-29, Indus, +vm$Twia
+2012-09-04, Ursa Major, QvT9(xuq
+2012-09-30, Lupus, N0DxuOtI
+2012-09-28, Cassiopeia, R$bSn^mC
+2012-09-11, Triangulum Australe, J%Y5kLB8
+2012-09-06, Leo Minor, Y*%AEMG4
+2012-09-12, Canis Minor, ixFUnp*m
+2012-09-17, Pictor, j8KsA)0E
+2012-09-28, Ursa Minor, a_y0xb!$
+2012-09-21, Cepheus, *Ei*ofPM
+2012-09-24, Draco, V@0#pz#u
+2012-09-10, Eridanus, d00BXe*N
+2012-09-10, Pisces, D^26EeXJ
+2012-09-07, Draco, W5MaxF5a
+2012-09-01, Scorpius, _Il_Dn00
+2012-09-28, Cassiopeia, f5npUe(6
+2012-09-08, Ursa Major, b@qgjtJR
+2012-09-22, Canis Major, zO#%up(#
+2012-09-05, Dorado, @IgOpo(N
+2012-09-19, Equuleus, 1r)F2$8B
+2012-09-28, Libra, _I@mtLMi
+2012-09-06, Musca, _QUoFhYA
+2012-09-03, Hydrus, %Ub%gphG
+2012-09-25, Lyra, Z_tf_f8B
+2012-09-27, Scutum, QaAMAeoR
+2012-09-10, Aries, Tb)A(mJK
+2012-09-07, Aries, (wlV!l)J
+2012-09-30, Lyra, YJClHj)l
+2012-09-21, Orion, k#+M&TC6
+2012-09-06, Norma, gv!L_t)q
+2012-09-11, Eridanus, 46M7r0DU
+2012-09-26, Hydrus, TNgho#nm
+2012-09-27, Caelum, B11r$x32
+2012-09-04, Corona Australis, 29GpU#XZ
+2012-09-14, Auriga, b__6Y9Uz
+2012-09-14, Mensa, UTXHQ2Bd
+2012-09-14, Lynx, T1*qR4mL
+2012-09-14, Triangulum Australe, *)N6fdVD
+2012-09-29, Crux, p(#Ar3J5
+2012-09-28, Fornax, s!TF+yb9
+2012-09-25, Andromeda, M!wECX4Q
+2012-09-12, Apus, +cy7jBoC
+2012-09-03, Telescopium, &@2fDT$F
+2012-09-25, Canis Major, eB8qWcgC
+2012-09-03, Telescopium, +z(YQbJS
+2012-09-02, Auriga, %X%b^PN$
+2012-09-27, Reticulum, 8FXoy&AU
+2012-09-17, Circinus, 1khA0nbe
+2012-09-13, Libra, $PS(CCFp
+2012-09-14, Hydrus, Xsjt3O2_
+2012-09-09, Phoenix, Z1mOV!Wa
+2012-09-24, Phoenix, jlgxJyn@
+2012-09-14, Ophiuchus, ikfP&5LV
+2012-09-16, Corona Australis, 7v+Xgxgu
+2012-09-02, Lyra, pUULC8IT
+2012-09-24, Fornax, vMyUL&wJ
+2012-09-17, Carina, kgvcLI8Z
+2012-09-01, Hercules, OM(Exo5S
+2012-09-05, Aquarius, J1d%(CKY
+2012-09-23, Chamaeleon, yFECDY&K
+2012-09-11, Libra, F*j5ODl+
+2012-09-30, Ursa Major, 9tK!2iUK
+2012-09-28, Ursa Minor, tTGysQKa
+2012-09-07, Lacerta, W6naccs&
+2012-09-23, Andromeda, 0tPVJMz!
+2012-09-04, Camelopardalis, ^X7O07RN
+2012-09-21, Orion, tb3Yhpe#
+2012-09-17, Ursa Major, 1s!qJc%q
+2012-09-17, Indus, CTm$47Qn
+2012-09-27, Puppis, Xt80DfTG
+2012-09-15, Delphinus, bFj+voj2
+2012-09-11, Pegasus, 6V)31um@
+2012-09-08, Virgo, Do@dNMuc
+2012-09-11, Chamaeleon, wucGUqTr
+2012-09-15, Reticulum, cg)6qppU
+2012-09-22, Pictor, d6btR%mA
+2012-09-11, Lyra, *v5#LJv$
+2012-09-29, Pavo, YYlth+TQ
+2012-09-04, Sculptor, P^#im@cy
+2012-09-05, Corona Australis, 8i(Y#$5a
+2012-09-21, Camelopardalis, &UforNwq
+2012-09-16, Aries, 6&t%(VfZ
+2012-09-26, Virgo, IFrbPC8a
+2012-09-04, Coma Berenices, (MKH^d+$
+2012-09-20, Mensa, !^7hf%IW
+2012-09-11, Vela, *^ITkjMT
+2012-09-28, Ophiuchus, A3F+ZF+x
+2012-09-05, Hydrus, 4pr#f0Z(
+2012-09-03, Apus, A78GQ%p3
+2012-09-22, Canis Major, bAlU0XS+
+2012-09-17, Puppis, 4ufVtK6c
+2012-09-19, Lynx, xZ%vBiH%
+2012-09-05, Sagittarius, V%Ya03N_
+2012-09-09, Perseus, H@iW%jEO
+2012-09-23, Pisces, **2vTC3U
+2012-09-06, Boötes, (OPL%ew5
+2012-09-11, Virgo, Idd2SOfZ
+2012-09-12, Musca, zXkY+3H^
+2012-09-09, Telescopium, s$Mm&8(s
+2012-09-22, Circinus, 1DH!pXcf
+2012-09-26, Cetus, +)EC2QOP
+2012-09-17, Antlia, AP$ST^Zo
+2012-09-23, Sextans, 1LnAQAcy
+2012-09-24, Aquila, 703Wq4*C
+2012-09-12, Grus, 2Y6cS9LM
+2012-09-06, Pegasus, 6&x)NY%c
+2012-09-07, Virgo, uOBC+Opf
+2012-09-16, Scutum, HrZ(4h^7
+2012-09-13, Lyra, )ErX1*g8
+2012-09-27, Sextans, hO7FjEny
+2012-09-03, Vela, l6Y9+u0!
+2012-09-29, Triangulum Australe, BVnk!ir+
+2012-09-18, Fornax, p7TRZ5b0
+2012-09-16, Vulpecula, lZ6sIWLg
+2012-09-06, Antlia, dkqM*4pB
+2012-09-11, Leo Minor, *UI!yljk
+2012-09-12, Antlia, a&&6s0Ji
+2012-09-20, Vulpecula, pZ&%71_b
+2012-09-09, Piscis Austrinus, %KNgxj9j
+2012-09-04, Ara, Jx@#UhfX
+2012-09-17, Horologium, a0_nkMIX
+2012-09-20, Serpens, )c@FGYW7
+2012-09-27, Centaurus, l6pb8U23
+2012-09-06, Draco, HKFwN^cH
+2012-09-16, Gemini, aPsO^ZnY
+2012-09-11, Microscopium, &meWSFnp
+2012-09-24, Pegasus, G**_qKuf
+2012-09-21, Ophiuchus, Kj&Wyo7F
+2012-09-14, Antlia, 7*(aooZe
+2012-09-26, Cepheus, sOR$O*M0
+2012-09-18, Grus, +0VVVPhG
+2012-09-11, Lupus, %E#rd$hH
+2012-09-01, Cancer, v&gwF1oH
+2012-09-11, Ara, xXQ&zEL+
+2012-09-29, Cassiopeia, z6Hl0wVR
+2012-09-04, Hercules, rVs93p*4
+2012-09-06, Gemini, jjfNbLqZ
+2012-09-26, Lupus, ryjX18zM
+2012-09-04, Cassiopeia, 6yM3*+XL
+2012-09-21, Ursa Minor, ITxKjokz
+2012-09-13, Horologium, CbW^rLdk
+2012-09-13, Pictor, p_7!$4)4
+2012-09-08, Reticulum, ZAMCl^Ql
+2012-09-29, Sculptor, 7^b^28rg
+2012-09-24, Caelum, #@!&Djyc
+2012-09-02, Taurus, a(u*z2iN
+2012-09-23, Triangulum, t38H$iDW
+2012-09-23, Corvus, WCpjrH1*
+2012-09-11, Corvus, OJQIc0%M
+2012-09-06, Andromeda, 4*EVE#1n
+2012-09-06, Telescopium, Qzncmgjx
+2012-09-13, Canis Major, zY)W($_!
+2012-09-17, Capricornus, 5!V(sXP(
+2012-09-14, Caelum, _2nS8a_U
+2012-09-20, Puppis, *l8A@ZE!
+2012-09-06, Tucana, *GjYGaF%
+2012-09-16, Hydra, _&OT%9#G
+2012-09-03, Eridanus, 1%TUCHo+
+2012-09-23, Virgo, !GPk6vt8
+2012-09-14, Pavo, QIWd8qAb
+2012-09-17, Hercules, y)e^fABC
+2012-09-08, Coma Berenices, PrRJgPAZ
+2012-09-10, Cancer, Mu_I$V2e
+2012-09-04, Canis Minor, sEgNV+xJ
+2012-09-10, Eridanus, 8!Ju)Ep@
+2012-09-21, Circinus, fsd8w&$X
+2012-09-27, Cassiopeia, Y^E_IAy_
+2012-09-28, Crater, c3g)1zgp
+2012-09-24, Tucana, 6NXHmxg@
+2012-09-30, Carina, @N34fw!I
+2012-09-06, Taurus, wNMRVhCU
+2012-09-20, Hercules, NX5L9cYK
+2012-09-14, Pyxis, OGY4bOtg
+2012-09-24, Corvus, )##C3w!X
+2012-09-13, Apus, (+rtKfBh
+2012-09-04, Corona Australis, kDI&Hd1+
+2012-09-03, Hydra, LrUmhk7(
+2012-09-18, Chamaeleon, 0d6yT7I#
+2012-09-26, Circinus, Q&g&7$5E
+2012-09-10, Eridanus, H9^5TfU7
+2012-09-20, Boötes, dnzuGpon
+2012-09-26, Scutum, KGeoX^5d
+2012-09-03, Crux, QN^TPIYS
+2012-09-03, Lyra, *lTI@O2a
+2012-09-21, Ara, Xm_pHZ&p
+2012-09-27, Ursa Minor, D%Qe@f0p
+2012-09-17, Apus, _Up74yAy
+2012-09-01, Virgo, UcIq54LL
+2012-09-01, Canes Venatici, PZt4uHXw
+2012-09-13, Lepus, cL9!A!zy
+2012-09-10, Delphinus, cI(k#T^e
+2012-09-13, Pictor, FEnnQFcV
+2012-09-15, Sculptor, w51$PW@r
+2012-09-14, Scorpius, A&9#$@I!
+2012-09-02, Lynx, Y40+7)11
+2012-09-22, Corona Borealis, Vqlj%ohp
+2012-09-05, Pictor, &ZNzSwg7
+2012-09-27, Lyra, eGAwe)u@
+2012-09-02, Antlia, px!o9!C2
+2012-09-13, Aquarius, iYI*6p$H
+2012-09-08, Crux, *oVMgXh%
+2012-09-15, Andromeda, $lKJqj5U
+2012-09-02, Gemini, PzSyFabm
+2012-09-26, Hercules, yLo*oZup
+2012-09-27, Perseus, 4%CfUAlC
+2012-09-05, Eridanus, Z@Cc3WcV
+2012-09-06, Canes Venatici, tXyFYF3D
+2012-09-05, Carina, S%44p3or
+2012-09-19, Pictor, A7Hhpj6G
+2012-09-18, Pisces, 678tyWyY
+2012-09-19, Circinus, 2ca1im6O
+2012-09-05, Draco, ^R6KzuSj
+2012-09-16, Octans, O_Hlo^H1
+2012-09-21, Hercules, 4TjK*WXO
+2012-09-20, Grus, A6k8t6Vw
+2012-09-06, Pavo, ukO6f4HE
+2012-09-04, Piscis Austrinus, PcgD!n9m
+2012-09-27, Aquarius, @c1cTBv!
+2012-09-02, Sagitta, rD@ukDUu
+2012-09-19, Equuleus, jz4y@+%M
+2012-09-02, Pictor, 8jg!mXPF
+2012-09-15, Lacerta, T(RZM#9(
+2012-09-05, Horologium, fac3HSoz
+2012-09-27, Boötes, Aal89z86
+2012-09-15, Mensa, 5#ATYv5w
+2012-09-06, Canes Venatici, hpl!La(v
+2012-09-22, Canes Venatici, k^lcSAYW
+2012-09-24, Sculptor, bhWB8_LT
+2012-09-09, Virgo, FQ$Y*r1@
+2012-09-09, Octans, emMkh#aA
+2012-09-18, Centaurus, z&)UTY@X
+2012-09-17, Hercules, c69Qc^DQ
+2012-09-02, Octans, K0Sj)Ux$
+2012-09-27, Norma, lv8Ir4^b
+2012-09-20, Volans, JYLtLd(w
+2012-09-21, Vela, ti2WnjIH
+2012-09-15, Mensa, AYR(Rjiq
+2012-09-27, Ursa Minor, f$KmbxIK
+2012-09-05, Octans, AoXNZRo0
+2012-09-02, Sagittarius, IiEkd!YZ
+2012-09-26, Gemini, IY6v(Lg8
+2012-09-10, Corvus, nuAthA7i
+2012-09-06, Norma, EnZfYK6n
+2012-09-23, Pisces, v9+)YHD&
+2012-09-12, Hydra, OHqAoUyT
+2012-09-23, Crux, +dfdk@+k
+2012-09-26, Scutum, (RsmY0ue
+2012-09-22, Cygnus, 98EnhM@Y
+2012-09-26, Dorado, BXV3W%Vz
+2012-09-18, Lynx, T^RP#OY)
+2012-09-30, Auriga, o_3IKgsv
+2012-09-23, Pictor, seVtsZLK
+2012-09-30, Horologium, Ei&#qk%J
+2012-09-02, Leo, vsJZ7SaB
+2012-09-13, Capricornus, yPTSDxhT
+2012-09-10, Coma Berenices, VcLf!rOt
+2012-09-12, Monoceros, m#cshgtL
+2012-09-04, Reticulum, eMcQQ4jD
+2012-09-27, Mensa, hF2FK4Bf
+2012-09-05, Gemini, s90Mnlwl
+2012-09-13, Serpens, x8D6GHZk
+2012-09-17, Serpens, nFmeR7#y
+2012-09-16, Fornax, f6IX3yj(
+2012-09-02, Crux, PFZvh^WP
+2012-09-04, Auriga, vhP_XTQw
+2012-09-05, Norma, @8oqk*ow
+2012-09-26, Boötes, _9nqUKdg
+2012-09-30, Delphinus, HhUfjVJK
+2012-09-12, Virgo, pyEf3sV0
+2012-09-17, Octans, FcNJ9lNV
+2012-09-24, Canis Major, %LT)4dHx
+2012-09-14, Corona Australis, lI0I+g*1
+2012-09-29, Lyra, 1^bP9VVZ
+2012-09-10, Delphinus, 9^hwB7FR
+2012-09-28, Cygnus, )74xeQAF
+2012-09-07, Phoenix, o&7np6TJ
+2012-09-05, Boötes, (Pykg#G5
+2012-09-27, Horologium, c2z1524@
+2012-09-08, Coma Berenices, f7L&O4nb
+2012-09-28, Indus, 1^3SfkZM
+2012-09-22, Cassiopeia, ya5$+X!G
+2012-09-26, Lepus, FmWblXx9
+2012-09-04, Chamaeleon, 8Ux#&s1*
+2012-09-27, Triangulum, I(lqRXAR
+2012-09-25, Andromeda, OEcr0gb8
+2012-09-27, Mensa, vx5qPNFA
+2012-09-08, Volans, 5WXtULXT
+2012-09-09, Lynx, T^@Rfugk
+2012-09-25, Apus, FMhAF%zw
+2012-09-15, Crater, %9)zBpn7
+2012-09-23, Circinus, m+#N6RCv
+2012-09-05, Crater, V^eLR_r0
+2012-09-01, Sculptor, 7egxG2#9
+2012-09-26, Ara, CglXFZkf
+2012-09-08, Crater, WCD+O_CP
+2012-09-14, Dorado, 1_C7GjEJ
+2012-09-29, Pavo, L_vIghUW
+2012-09-25, Aries, *07MnvHE
+2012-09-15, Piscis Austrinus, CRT)UGTZ
+2012-09-11, Virgo, 9M&)$LaY
+2012-09-11, Serpens, 9Y1aQEUU
+2012-09-11, Triangulum, YDAxKn*y
+2012-09-19, Microscopium, 5)@u2_%+
+2012-09-07, Canes Venatici, LZUrretQ
+2012-09-23, Triangulum, qn80wxOI
+2012-09-23, Triangulum Australe, IOMa7cV6
+2012-09-20, Crux, &ECUVEAi
+2012-09-22, Lepus, h*#hg@Kv
+2012-09-12, Reticulum, SQVFUT)l
+2012-09-22, Aquarius, rwF%XYds
+2012-09-11, Canes Venatici, LF01+Rxq
+2012-09-19, Antlia, l1OKqkuU
+2012-09-25, Perseus, NykNCd31
+2012-09-17, Scorpius, qJI%j3CA
+2012-09-01, Sculptor, 9gBeMu(%
+2012-09-07, Reticulum, 6xqu52d^
+2012-09-20, Hydrus, rfIP%tET
+2012-09-06, Grus, xHKRiB_+
+2012-09-17, Virgo, FjkvhpWD
+2012-09-03, Piscis Austrinus, ^GxYTS(v
+2012-09-09, Camelopardalis, V2TwYPJG
+2012-09-07, Capricornus, UX*a1Qn%
+2012-09-19, Boötes, kw7OkjTf
+2012-09-15, Taurus, l#Ya#J(Z
+2012-09-01, Cancer, L@BXxEr%
+2012-09-10, Caelum, r2q1c(Gb
+2012-09-16, Circinus, FJ$A8(VX
+2012-09-30, Sagitta, Y+tHZWoD
+2012-09-02, Columba, 8k1ZI5fN
+2012-09-07, Ara, #%$(vP@I
+2012-09-14, Canis Minor, v0k*rrIF
+2012-09-24, Pisces, K)Tplxyw
+2012-09-24, Triangulum Australe, c0NutsCU
+2012-09-16, Pisces, De9Q2Wzy
+2012-09-12, Taurus, TyHX8NCu
+2012-09-17, Musca, YchAiMP)
+2012-09-09, Serpens, FaB%iRuy
+2012-09-19, Circinus, immr(VhC
+2012-09-09, Serpens, F&3)Oy9h
+2012-09-16, Horologium, )nVR@$Ld
+2012-09-10, Boötes, &Y_a(wg(
+2012-09-18, Sagittarius, ^9VdcNp*
+2012-09-19, Orion, 1t()T0ZV
+2012-09-19, Sculptor, G0rq$MwL
+2012-09-11, Piscis Austrinus, UC5m6YY9
+2012-09-17, Fornax, 2Kdq1V0K
+2012-09-18, Eridanus, yZ^L(0wh
+2012-09-29, Gemini, gT3K1z*^
+2012-09-25, Vela, psbtxrFK
+2012-09-08, Puppis, uVXlf4N%
+2012-09-21, Ursa Major, ySCdSrec
+2012-09-17, Reticulum, G$lCrnWM
+2012-09-04, Reticulum, ediRGQZ2
+2012-09-26, Lynx, a1c2h!7+
+2012-09-16, Antlia, CpYG10R^
+2012-09-21, Draco, H^Kg@H$&
+2012-09-13, Scorpius, fARq3vYf
+2012-09-09, Mensa, uEOg)sv)
+2012-09-20, Aquila, Y)XMMY^Z
+2012-09-21, Cygnus, 170eEQPi
+2012-09-22, Lyra, Y7ChMD+K
+2012-09-30, Delphinus, ow4s7aus
+2012-09-10, Camelopardalis, Ux1u^)9g
+2012-09-16, Hydra, G2Bpl@*O
+2012-09-08, Vela, fRvb+M50
+2012-09-10, Horologium, tu$HF4qb
+2012-09-28, Cetus, jgfG!MTw
+2012-09-27, Lepus, KK_txg)U
+2012-09-28, Sculptor, eM7MR27P
+2012-09-24, Ursa Minor, #()@ZO@@
+2012-09-09, Norma, 3iXwHA2)
+2012-09-05, Hercules, qU0gKVxZ
+2012-09-15, Volans, XfADXM3(
+2012-09-12, Lepus, ojQ5%fg_
+2012-09-11, Hydra, LN$UYV5f
+2012-09-22, Libra, 66TlSuBa
+2012-09-12, Lacerta, C$@(hJ!+
+2012-09-30, Caelum, Y8#RklM@
+2012-09-11, Capricornus, D#+62zC3
+2012-09-09, Aries, ZVyS%sv5
+2012-09-30, Vulpecula, a0Drxgxd
+2012-09-05, Lyra, ssKB$QRQ
+2012-09-28, Fornax, cHhSTIrd
+2012-09-03, Camelopardalis, OOwrmvT&
+2012-09-05, Dorado, ^wMcW(1E
+2012-09-07, Sagitta, NzY3HRNf
+2012-09-29, Ursa Minor, @!A(0Pip
+2012-09-04, Indus, i%JP^od1
+2012-09-22, Crater, RSwzztSd
+2012-09-17, Ara, NM$CE4eK
+2012-09-01, Andromeda, v(JQc7Km
+2012-09-30, Corona Australis, 8Po&AA$M
+2012-09-24, Volans, 69Cd64Jj
+2012-09-30, Chamaeleon, *s8M3BJx
+2012-09-03, Cepheus, miloNCms
+2012-09-17, Sagitta, VnT)d8Xf
+2012-09-15, Eridanus, HB5H)zHi
+2012-09-24, Lyra, *3aNW0VG
+2012-09-01, Aries, N8Sqgw7S
+2012-09-07, Leo Minor, ^iL@hetI
+2012-09-09, Delphinus, 6m3hxfOo
+2012-09-25, Boötes, vWuQuBbj
+2012-09-26, Volans, MiWiK7UM
+2012-09-01, Equuleus, UFR&(h@(
+2012-09-09, Coma Berenices, PrPT^09W
+2012-09-21, Grus, ncz#dzt2
+2012-09-05, Gemini, gzS27Yl6
+2012-09-09, Pyxis, #Q)5Z&@$
+2012-09-08, Fornax, xf(5W!(N
+2012-09-23, Pictor, uYgzp2u_
+2012-09-04, Lepus, vR_u2g1+
+2012-09-24, Cetus, !eTb7Qg2
+2012-09-29, Octans, #A6yK+a@
+2012-09-16, Grus, EF$Bu2x(
+2012-09-04, Reticulum, 4DtG5RHu
+2012-09-18, Corvus, 4Ka6HvM7
+2012-09-07, Crux, N@ldtkD6
+2012-09-18, Triangulum Australe, r7wMu9ak
+2012-09-27, Centaurus, aJP%3u+n
+2012-09-26, Monoceros, _AOQ&o*@
+2012-09-08, Pavo, Y48pXc_A
+2012-09-11, Horologium, 2JN9mk3F
+2012-09-24, Coma Berenices, N)!!e5*s
+2012-09-22, Hercules, F2V88aLn
+2012-09-21, Gemini, d#u+dsDw
+2012-09-18, Sagitta, 95ga_G5k
+2012-09-03, Hercules, OLr#@Ea%
+2012-09-22, Pictor, qg8yUJx&
+2012-09-18, Aquila, p3SD&7D&
+2012-09-23, Crux, 49q(*qU8
+2012-09-22, Leo, Z&OY)9ke
+2012-09-14, Leo, #1sH#52m
+2012-09-10, Cetus, *jnnY0pd
+2012-09-13, Indus, O_1o3kgg
+2012-09-29, Grus, *QL&Y^fb
+2012-09-18, Columba, HkF6Kv$T
+2012-09-05, Cetus, ^)id3OL$
+2012-09-04, Horologium, CAllt*Wu
+2012-09-11, Aquarius, ue#Pm53A
+2012-09-29, Aquila, t7wKBV+m
+2012-09-23, Auriga, ^D5fWERr
+2012-09-02, Hydrus, JdR1IgkI
+2012-09-13, Sextans, 4fG9EUdK
+2012-09-30, Canes Venatici, 4lmxN8ug
+2012-09-27, Columba, lfMR$5Mw
+2012-09-01, Pictor, dT#s&X3w
+2012-09-17, Tucana, #gcokx3u
+2012-09-20, Lupus, H(V*+)(m
+2012-09-15, Auriga, XAbAylMi
+2012-09-12, Cygnus, egCFvM)!
+2012-09-12, Antlia, tzcFj(Dm
+2012-09-15, Pictor, 95q%4o0a
+2012-09-13, Mensa, jO6zmSYz
+2012-09-12, Ara, n+TuNjz!
+2012-09-05, Eridanus, 8T4Wk_wc
+2012-09-02, Leo, 2lvOl*i#
+2012-09-25, Pegasus, rE7bU(aj
+2012-09-21, Pictor, rOfxthYi
+2012-09-09, Lyra, %RVqgxM%
+2012-09-15, Ophiuchus, Ok!NBNI*
+2012-09-16, Reticulum, Hdt(#_VP
+2012-09-02, Ursa Major, ogz*fVf^
+2012-09-25, Sagitta, ChEhu4$*
+2012-09-12, Canis Minor, zNcOb%^k
+2012-09-14, Lynx, DFvt+dk3
+2012-09-19, Tucana, X%vBswyl
+2012-09-22, Cancer, drhva%X&
+2012-09-20, Octans, S2XdMc#o
+2012-09-11, Equuleus, x!^ZmRCc
+2012-09-10, Crater, 05ukh7x3
+2012-09-23, Camelopardalis, P(+kgPa*
+2012-09-16, Sagitta, l8KBSvhn
+2012-09-20, Ophiuchus, !0#HFZsH
+2012-09-05, Lynx, s3MSZ&TF
+2012-09-08, Andromeda, icIKTLGH
+2012-09-28, Pictor, uupL#5T!
+2012-09-06, Circinus, VkB%oF#n
+2012-09-30, Capricornus, y+IcBL8P
+2012-09-20, Triangulum, vU(cYIp&
+2012-09-14, Scorpius, cIA!v5%0
+2012-09-11, Draco, I2m7Wzru
+2012-09-23, Caelum, Qv^Hde)j
+2012-09-18, Virgo, !%@u!sU^
+2012-09-04, Canes Venatici, (5WQ+iHO
+2012-09-04, Aquila, KGnN41(2
+2012-09-12, Circinus, KMLGf0F2
+2012-09-28, Leo, (rpU3JJm
+2012-09-08, Grus, zE!OG3nB
+2012-09-18, Circinus, $OAAL8bb
+2012-09-27, Ursa Minor, lxrabbHO
+2012-09-03, Boötes, @g&pdP8q
+2012-09-02, Pegasus, 9Dq^%3qC
+2012-09-05, Microscopium, @n27E(eB
+2012-09-22, Coma Berenices, fQ5*IrTN
+2012-09-17, Leo, *+#NIUW!
+2012-09-27, Cassiopeia, y^trWlQ1
+2012-09-26, Horologium, nsB2zwDS
+2012-09-10, Phoenix, 0NYtQ*Oa
+2012-09-27, Apus, 4Q35NOeL
+2012-09-07, Gemini, rynd4LlL
+2012-09-09, Canes Venatici, %_sFJL2D
+2012-09-20, Leo Minor, lYd$vD8i
+2012-09-25, Lynx, qUb&a^QS
+2012-09-22, Ophiuchus, orccEyfZ
+2012-09-29, Triangulum Australe, e^lDOM73
+2012-09-30, Caelum, rL&1W37n
+2012-09-30, Corona Borealis, luzWCzQf
+2012-09-12, Taurus, UK27An(+
+2012-09-10, Apus, ^4bX(+O!
+2012-09-13, Orion, #QABV*cs
+2012-09-20, Telescopium, b3O(V&Wo
+2012-09-15, Norma, q)9TkLC#
+2012-09-14, Microscopium, e%0qP(@I
+2012-09-07, Carina, CCk5n6@0
+2012-09-27, Perseus, WD#kZEQ9
+2012-09-06, Sculptor, yKeX!b1o
+2012-09-30, Fornax, @aGlulaj
+2012-09-14, Boötes, fNw0My%l
+2012-09-22, Triangulum Australe, I)nMU_CZ
+2012-09-25, Boötes, jTgQv4@2
+2012-09-02, Aquila, ZYbwfXPH
+2012-09-30, Leo Minor, sdlnvL#P
+2012-09-24, Microscopium, 6raTTWUG
+2012-09-09, Corona Australis, rV@axonx
+2012-09-20, Auriga, au+f&KvB
+2012-09-25, Piscis Austrinus, u@FYwQM%
+2012-09-09, Camelopardalis, &Y#jd_bt
+2012-09-15, Perseus, MSJYYPdB
+2012-09-29, Indus, 4sn2xc+D
+2012-09-15, Cygnus, oIoVc+sB
+2012-09-20, Carina, ^Z1HStk1
+2012-09-04, Fornax, %XZoBJGb
+2012-09-21, Pictor, TBJ&(FX%
+2012-09-01, Cetus, 2VUK%2iW
+2012-09-25, Delphinus, p#GBXmgR
+2012-09-03, Delphinus, (Uq*MHGD
+2012-09-28, Chamaeleon, k)LFyjdq
+2012-09-09, Circinus, Igt(_Zl^
+2012-09-27, Hydra, csF(a1fc
+2012-09-12, Scutum, QSM5GfyA
+2012-09-07, Fornax, InepzVNt
+2012-09-16, Delphinus, d81#3T0E
+2012-09-16, Cetus, uB$%WNZP
+2012-09-07, Canis Major, jfi!kSxA
+2012-09-14, Leo Minor, _57U7@5G
+2012-09-27, Andromeda, 9Qdl@iE9
+2012-09-18, Boötes, vn2BnOL2
+2012-09-09, Leo Minor, t%SZGV7W
+2012-09-21, Phoenix, ^eqJi+5C
+2012-09-19, Serpens, ROodQ%h9
+2012-09-15, Aquarius, bkLXkOy(
+2012-09-07, Ursa Major, xbbNF3%W
+2012-09-13, Triangulum, z)t4PS0d
+2012-09-01, Canes Venatici, a0zx+bHb
+2012-09-26, Pyxis, SiEmBzu_
+2012-09-20, Chamaeleon, !2pp*eim
+2012-09-03, Canis Minor, 2ptKnX^Z
+2012-09-14, Volans, (H3pg&H0
+2012-09-19, Puppis, BPo$%fP%
+2012-09-01, Mensa, !wjCE49&
+2012-09-08, Canis Major, QQz*#M$b
+2012-09-29, Scutum, O0dHM9JI
+2012-09-29, Leo, $^J0WjO%
+2012-09-29, Triangulum, H4%%j9%@
+2012-09-11, Pyxis, ygE2#8RK
+2012-09-21, Dorado, a!x33unP
+2012-09-10, Carina, YK+g2^3g
+2012-09-12, Lupus, KLlaMp2p
+2012-09-26, Carina, TS9AaN4w
+2012-09-01, Equuleus, xbz9q6bS
+2012-09-29, Microscopium, XU9poNvu
+2012-09-03, Delphinus, !T$Ko+D&
+2012-09-23, Musca, Q^)BcxFZ
+2012-09-16, Reticulum, SMZvAVpJ
+2012-09-11, Chamaeleon, xoUY42Cl
+2012-09-30, Apus, qqJFdGw6
+2012-09-04, Canis Major, @ol%+zu+
+2012-09-28, Chamaeleon, rfiJeDZI
+2012-09-30, Perseus, tbVx$9qG
+2012-09-26, Sagittarius, 5$ILUXMv
+2012-09-17, Apus, b7KWzc$+
+2012-09-29, Centaurus, (fYbgeh)
+2012-09-24, Crux, d9wPb8Nh
+2012-09-14, Octans, nMhokqJ0
+2012-09-30, Lacerta, F@6vxz*p
+2012-09-23, Cetus, M0*sZg%1
+2012-09-13, Coma Berenices, 6$OGB1&)
+2012-09-05, Pyxis, d$SvgnN1
+2012-09-29, Leo, FAUX*&z(
+2012-09-08, Taurus, 1nAfWRG1
+2012-09-16, Corona Borealis, 1%2PAyuf
+2012-09-12, Leo, i^uEouq6
+2012-09-14, Cygnus, X)2MCNeG
+2012-09-21, Perseus, )@xRQ(i3
+2012-09-14, Musca, Ew2z!Hpw
+2012-09-18, Circinus, DqcoCSrc
+2012-09-22, Columba, vmg((bot
+2012-09-05, Camelopardalis, m7!%31J9
+2012-09-15, Leo Minor, pl0T^uK)
+2012-09-08, Microscopium, #Ck_HHH(
+2012-09-03, Hydra, *8eBouvk
+2012-09-25, Lacerta, @8l)H$lN
+2012-09-12, Octans, Cr)yhgnH
+2012-09-05, Aquila, u85Bebj8
+2012-09-19, Pisces, _*yna(*!
+2012-09-23, Centaurus, Y+eVPlNR

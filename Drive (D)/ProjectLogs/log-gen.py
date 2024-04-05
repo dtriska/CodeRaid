@@ -21,8 +21,8 @@ constellations = [
 
 # Function to generate random date between 2010 and 2013
 def generate_random_date():
-    start_date = datetime.datetime(2010, 11, 1)
-    end_date = datetime.datetime(2010, 11, 30)
+    start_date = datetime.datetime(2012, 3, 1)
+    end_date = datetime.datetime(2012, 3, 30)
     delta = end_date - start_date
     random_days = random.randint(0, delta.days)
     random_date = start_date + datetime.timedelta(days=random_days)
@@ -36,7 +36,7 @@ def generate_random_password(length=8):
 
 # Generate logs
 with open("logs.txt", "w") as f:
-    for _ in range(921):
+    for _ in range(931):
         date = generate_random_date()
         constellation = random.choice(constellations)
         password = generate_random_password()

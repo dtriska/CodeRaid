@@ -1,0 +1,1031 @@
+2011-01-12, Reticulum, k9JJ6ItI
+2011-01-01, Ara, O9%X0c4p
+2011-01-03, Cancer, p50fa$TO
+2011-01-27, Andromeda, T0YG@Ks&
+2011-01-02, Sculptor, 4S#iaX_K
+2011-01-04, Crux, &!Hp(sld
+2011-01-06, Puppis, ^#@7v4+l
+2011-01-17, Caelum, ORp)^_r!
+2011-01-03, Vulpecula, pGdBcD(o
+2011-01-03, Tucana, tjjK&nP#
+2011-01-14, Triangulum Australe, q_iBka+G
+2011-01-04, Apus, Un2zet(K
+2011-01-08, Capricornus, ZLp7lY2I
+2011-01-25, Cetus, DPJPO(FV
+2011-01-19, Pictor, 6%6JnFv8
+2011-01-26, Auriga, IvQlLN_D
+2011-01-04, Leo, %$vVz&IW
+2011-01-03, Serpens, $)QYaKz7
+2011-01-16, Mensa, LI*8xmf@
+2011-01-21, Corvus, 6xbL0K@O
+2011-01-26, Grus, dtkpI0Vu
+2011-01-11, Telescopium, VkMhgJ8M
+2011-01-07, Cepheus, AOF!D^4r
+2011-01-16, Aquarius, 30$TX#a_
+2011-01-11, Ursa Major, AI5L!Ibh
+2011-01-24, Lepus, 5L1(VGl_
+2011-01-26, Draco, DI!C6UdM
+2011-01-20, Orion, v&WR8_gB
+2011-01-02, Lynx, Xu1qtZ4b
+2011-01-22, Libra, 3ZkDRXzu
+2011-01-18, Aquarius, zgN5^0$Q
+2011-01-10, Puppis, *A%(tD)j
+2011-01-13, Leo, !uV9Lp3H
+2011-01-15, Boötes, 9h9&+#Z8
+2011-01-27, Reticulum, )*Gee5!Q
+2011-01-10, Tucana, itD8bg2z
+2011-01-22, Lyra, _VGcs6)z
+2011-01-01, Lacerta, uHh_gnDX
+2011-01-19, Carina, 6BiGny86
+2011-01-12, Reticulum, w)mRJ!FJ
+2011-01-05, Boötes, o8%0YeEu
+2011-01-05, Aries, U$PRu7+F
+2011-01-12, Andromeda, rR#uTuQB
+2011-01-13, Aries, &awF8bGn
+2011-01-22, Corona Borealis, fDq6$F$f
+2011-01-29, Delphinus, La_wjm_b
+2011-01-16, Ursa Major, ^vdx7s)Y
+2011-01-27, Volans, T$*auYad
+2011-01-26, Auriga, TYQ4MpCw
+2011-01-19, Lynx, hHRwwGdZ
+2011-01-07, Crux, Q(!v+b@j
+2011-01-25, Puppis, tG3$nMi+
+2011-01-10, Centaurus, z$NO*1Dt
+2011-01-30, Columba, dfa!IVSX
+2011-01-15, Perseus, bkB53JWS
+2011-01-12, Chamaeleon, 9Zq%awID
+2011-01-15, Lacerta, KQ4pS1rK
+2011-01-25, Orion, ew4Nee2p
+2011-01-11, Cancer, _+0X*eLV
+2011-01-26, Canes Venatici, 7RPw$JSq
+2011-01-09, Equuleus, yH85PES4
+2011-01-03, Phoenix, X*@$hY2f
+2011-01-30, Pictor, I2XvTHDf
+2011-01-01, Eridanus, rQIn^5+e
+2011-01-06, Horologium, to#gZat8
+2011-01-22, Andromeda, XsvdEM+@
+2011-01-09, Grus, LQkj%Fw+
+2011-01-05, Reticulum, nDTt2r$#
+2011-01-18, Dorado, jplyKSv9
+2011-01-17, Tucana, ywfF)S#x
+2011-01-06, Equuleus, e*hXoXtM
+2011-01-17, Leo Minor, Aj&+^ZSz
+2011-01-21, Musca, %eJs9a+p
+2011-01-05, Ara, #yd1poX5
+2011-01-06, Pisces, N5gzafJX
+2011-01-05, Monoceros, HnQjinK!
+2011-01-16, Aquila, USwvABiK
+2011-01-19, Cancer, brXoWZtp
+2011-01-09, Lepus, bfTQx(Q3
+2011-01-06, Virgo, 0e6ScK1n
+2011-01-12, Triangulum Australe, ^N^qV5EV
+2011-01-22, Octans, HU2BXp@D
+2011-01-28, Crater, Ycw5Vv_w
+2011-01-29, Hercules, ieMJib(t
+2011-01-29, Perseus, h*Jyim2G
+2011-01-24, Mensa, 58TgsavW
+2011-01-17, Gemini, nF^gRHOK
+2011-01-28, Auriga, hgtPEGpE
+2011-01-08, Apus, tbPhG%sg
+2011-01-12, Octans, #VDV@I!t
+2011-01-22, Auriga, oV$VIGLY
+2011-01-03, Libra, r9uVcSjF
+2011-01-29, Crater, b6JtjQu&
+2011-01-14, Cassiopeia, fuh(iE#6
+2011-01-24, Corona Australis, lTw%tQ*9
+2011-01-04, Gemini, _Q4%L#UO
+2011-01-10, Draco, fSt6nBL_
+2011-01-22, Lacerta, rM*BHp%4
+2011-01-11, Scorpius, GFAGtMvv
+2011-01-18, Cygnus, 5OXpJiqh
+2011-01-13, Ursa Major, TZGpClq9
+2011-01-07, Leo Minor, L@+H6k)v
+2011-01-12, Eridanus, 1Pq$A)tJ
+2011-01-21, Perseus, eHIthBm_
+2011-01-11, Ophiuchus, mBu_)8@H
+2011-01-29, Mensa, nROzRA$o
+2011-01-19, Piscis Austrinus, )p23ndvL
+2011-01-27, Phoenix, yR!TQOiA
+2011-01-25, Lacerta, kLVEWjbH
+2011-01-04, Boötes, _IyI8J4t
+2011-01-06, Cancer, 5L#eg1q_
+2011-01-21, Cetus, w$sqNsx#
+2011-01-06, Corvus, Xv2(OBCI
+2011-01-29, Vela, ^zt9F4Au
+2011-01-18, Eridanus, 8CbbrL)&
+2011-01-02, Lyra, @1+b^fVH
+2011-01-23, Equuleus, I$lCaO2r
+2011-01-20, Lynx, EFbgtJxP
+2011-01-15, Ophiuchus, TYtXhAJ#
+2011-01-06, Aries, (&5+qv!n
+2011-01-02, Volans, kkpwqurc
+2011-01-17, Gemini, XThu@)^z
+2011-01-16, Corona Borealis, ubwaV69B
+2011-01-13, Corona Australis, t&wHfX4X
+2011-01-13, Piscis Austrinus, *SpPZV)5
+2011-01-25, Virgo, 0e$d7hs#
+2011-01-06, Virgo, GQSNJm2t
+2011-01-23, Carina, miYZcEhV
+2011-01-28, Caelum, )TbEsX^q
+2011-01-21, Eridanus, w8oV^mNF
+2011-01-19, Dorado, K)j)&k%6
+2011-01-27, Virgo, C+J&6zI6
+2011-01-24, Gemini, _Fj)UfCl
+2011-01-01, Ara, iAImsoBf
+2011-01-04, Monoceros, PG$IFKKL
+2011-01-19, Sagitta, LD3aHU1G
+2011-01-24, Corona Australis, ni1$Vx*r
+2011-01-17, Centaurus, eJhvL21&
+2011-01-23, Lynx, juQEU!sm
+2011-01-22, Cancer, 9K(@tS3B
+2011-01-20, Canis Minor, qWmFUdZ_
+2011-01-28, Taurus, mncpfYHJ
+2011-01-26, Corvus, xD8M)^1$
+2011-01-17, Corona Australis, 0L##8s_)
+2011-01-08, Octans, wO3((Suw
+2011-01-08, Sculptor, EK^M1((R
+2011-01-21, Caelum, L+eEqL)c
+2011-01-01, Camelopardalis, UQodoVFI
+2011-01-08, Caelum, qx7h^#Wu
+2011-01-17, Cetus, d$1b4@*S
+2011-01-29, Draco, oEutG!DX
+2011-01-13, Cancer, U3F)oWT6
+2011-01-25, Columba, (ZBK7!Od
+2011-01-06, Equuleus, 0CMhO^Wi
+2011-01-20, Capricornus, TqHq7IJD
+2011-01-17, Musca, W0fu@58O
+2011-01-19, Horologium, #Ed731J5
+2011-01-05, Apus, 9a4Jqnp!
+2011-01-04, Crux, UQfSctIU
+2011-01-18, Vela, P!po4&up
+2011-01-25, Scutum, tt6vWt8h
+2011-01-28, Dorado, mO8DyXY6
+2011-01-24, Corona Borealis, Kh%CdUiK
+2011-01-19, Triangulum, s_TaQ*cl
+2011-01-03, Draco, )bEob+i+
+2011-01-04, Circinus, Xe!O(b!+
+2011-01-01, Horologium, o@Np(ou5
+2011-01-20, Indus, HlJ0hFDI
+2011-01-21, Piscis Austrinus, TAsq0Vkz
+2011-01-11, Capricornus, !8viwZ4!
+2011-01-14, Taurus, _6VdwpCP
+2011-01-03, Columba, S_kmT!CZ
+2011-01-03, Norma, gcw*5E4s
+2011-01-20, Puppis, O%MQhI6j
+2011-01-14, Apus, w@_FnXub
+2011-01-16, Sagitta, 3q98Dp!8
+2011-01-21, Pegasus, QdabC!1B
+2011-01-20, Chamaeleon, 10ej4L6k
+2011-01-21, Cancer, O&ELXEY+
+2011-01-27, Carina, (8e$_iKE
+2011-01-26, Aquila, boBdLBVs
+2011-01-05, Scorpius, JNVz2ajT
+2011-01-12, Triangulum, *HBXx#42
+2011-01-12, Cassiopeia, c7sduJG%
+2011-01-20, Pegasus, ^W#ms5KJ
+2011-01-16, Hydra, O$!eGrH1
+2011-01-24, Ursa Major, s3!FEhrI
+2011-01-18, Phoenix, yL^fPs@E
+2011-01-29, Gemini, +YsrDZ_o
+2011-01-05, Boötes, )s*0OD7K
+2011-01-19, Lupus, K9w63w3q
+2011-01-16, Pyxis, db(n00j2
+2011-01-14, Phoenix, z)Lh4!xr
+2011-01-11, Crater, YcrpeL07
+2011-01-10, Corona Australis, @KMK_5u7
+2011-01-12, Vulpecula, #RXTljD^
+2011-01-18, Lacerta, oMIGWTW9
+2011-01-11, Scutum, d!Xl30_w
+2011-01-03, Pegasus, m%Sr&Lc%
+2011-01-23, Cetus, 9gmGAZCD
+2011-01-11, Crux, $TMa%MAL
+2011-01-30, Pictor, hofsryHc
+2011-01-12, Indus, mqoDJcKv
+2011-01-22, Ursa Major, zDtPTTQK
+2011-01-09, Canis Major, B3uJ6cQB
+2011-01-25, Crater, IcGF9FXq
+2011-01-17, Pavo, 8rsdTXU5
+2011-01-18, Eridanus, NUfWrQ93
+2011-01-30, Ursa Major, H0pEZk#+
+2011-01-04, Hydrus, 01ov*GCd
+2011-01-21, Boötes, srt^ZJlR
+2011-01-16, Octans, sI6T%sX4
+2011-01-14, Hydra, SmoW4$t1
+2011-01-29, Pictor, VH(JqhOc
+2011-01-10, Pavo, Yu8!iPOI
+2011-01-22, Triangulum Australe, rulNbzV#
+2011-01-26, Aries, TJiNC20s
+2011-01-03, Piscis Austrinus, LF2vuRkO
+2011-01-01, Corona Australis, YrI)Hd3Y
+2011-01-08, Delphinus, 4CzVc3DO
+2011-01-04, Cepheus, r#JLWW0O
+2011-01-28, Mensa, B)c0JTM7
+2011-01-02, Leo Minor, fWsOiaA)
+2011-01-12, Libra, k%_vqrVt
+2011-01-30, Aries, Cww6FDy(
+2011-01-07, Andromeda, mSTNn+NQ
+2011-01-30, Horologium, +WwfgwsS
+2011-01-02, Cygnus, W@b5lT16
+2011-01-22, Fornax, IMj#J9XK
+2011-01-21, Telescopium, Rp!3za0(
+2011-01-01, Pisces, 6gBXVE#)
+2011-01-11, Capricornus, &6MPnn(1
+2011-01-13, Chamaeleon, jsNDfv9u
+2011-01-17, Carina, cHNl2cq*
+2011-01-25, Octans, fazoHtTs
+2011-01-29, Triangulum Australe, LagFt@qI
+2011-01-21, Coma Berenices, ek&Q$ia_
+2011-01-24, Orion, GqTebG(b
+2011-01-11, Corona Australis, UZO2oC5&
+2011-01-10, Volans, A!WQMo0j
+2011-01-27, Triangulum Australe, *knBB0Me
+2011-01-28, Equuleus, !_qt@Mq&
+2011-01-20, Perseus, qcuLE0sE
+2011-01-03, Aquarius, YVgnl)q)
+2011-01-28, Lupus, PA9KHX1Y
+2011-01-19, Eridanus, _&vAPgy4
+2011-01-23, Apus, xgGOO2wZ
+2011-01-29, Lyra, 20(9k7uJ
+2011-01-15, Cancer, %ZmTaNM0
+2011-01-16, Phoenix, 6IrW(wUi
+2011-01-08, Corona Borealis, e7NW+Vmp
+2011-01-08, Scorpius, P2@uesAx
+2011-01-09, Perseus, 5pWN1mIz
+2011-01-11, Phoenix, #zt7ohrd
+2011-01-16, Hydra, M@VxtOnF
+2011-01-17, Lynx, 5HT7R$T3
+2011-01-21, Dorado, 2nx0sRGK
+2011-01-01, Pegasus, Qa*7e!95
+2011-01-12, Boötes, (_jcSZZJ
+2011-01-05, Puppis, K7B(GZJf
+2011-01-06, Microscopium, 2EZvW4Qz
+2011-01-21, Corona Borealis, YzJlN#uS
+2011-01-21, Ursa Major, 6^QT9w!x
+2011-01-29, Piscis Austrinus, 1Iz9sn3w
+2011-01-23, Puppis, 7G!L0@OQ
+2011-01-01, Crux, **DRP2%H
+2011-01-02, Fornax, rrS!+uNO
+2011-01-21, Camelopardalis, hgL_ke&Z
+2011-01-19, Lupus, 7lkMw$t3
+2011-01-10, Corona Borealis, MNzrHFsW
+2011-01-22, Canis Minor, _v^YOPUv
+2011-01-10, Auriga, G7lG7rdB
+2011-01-18, Pavo, PVMp04nt
+2011-01-08, Ophiuchus, a!1LABGc
+2011-01-24, Sextans, hiY_Grmu
+2011-01-20, Columba, &_^Z)#T7
+2011-01-11, Virgo, Mh8Q9Dzg
+2011-01-25, Auriga, ^v5Ox8i6
+2011-01-15, Sculptor, ZUlMG7!N
+2011-01-22, Corvus, gYy2rU7h
+2011-01-14, Phoenix, 8aOC2J#0
+2011-01-25, Mensa, A7Cx2unj
+2011-01-11, Ophiuchus, O6Aa0Cec
+2011-01-03, Pisces, P%J8V(av
+2011-01-14, Cetus, si8E$BdY
+2011-01-28, Canis Minor, @YPUgaxL
+2011-01-03, Cepheus, s#mIudtw
+2011-01-05, Vela, xZg9XL8H
+2011-01-19, Lyra, l$uji6SC
+2011-01-19, Andromeda, 5)2)#gqL
+2011-01-11, Camelopardalis, )WG^qE$5
+2011-01-20, Hydra, @HJjGc^K
+2011-01-23, Libra, q(_jDvyO
+2011-01-25, Pisces, *(IScu!^
+2011-01-11, Hercules, 85mF6qo0
+2011-01-06, Lacerta, 7VMJc(t*
+2011-01-05, Corvus, ua(e2bjp
+2011-01-16, Ursa Major, 5e_i%oFU
+2011-01-30, Fornax, OiWx7yK!
+2011-01-25, Scutum, vWcINuHM
+2011-01-28, Indus, qv2d06gC
+2011-01-26, Ophiuchus, Waq9E#17
+2011-01-21, Capricornus, 9VCm%!HT
+2011-01-12, Grus, VHYQOjQh
+2011-01-16, Lupus, 1eNOKR3t
+2011-01-19, Equuleus, yF5#Gv)Y
+2011-01-15, Tucana, Ix_X#dlz
+2011-01-02, Pictor, &#f$XnjW
+2011-01-16, Aquarius, AT_66gd$
+2011-01-02, Orion, Nzp6$!zc
+2011-01-05, Monoceros, m76vQy3Q
+2011-01-30, Monoceros, u1!zNCNT
+2011-01-10, Eridanus, nrF(OOzH
+2011-01-24, Telescopium, bn3k9hPe
+2011-01-20, Sextans, L_o5oDSL
+2011-01-09, Lacerta, )f4!HFKy
+2011-01-23, Vela, B984SAM_
+2011-01-30, Leo, Hy@w)pkq
+2011-01-05, Camelopardalis, Z5u#y#79
+2011-01-25, Virgo, ecCVHMOa
+2011-01-09, Gemini, !KTrw*DM
+2011-01-03, Monoceros, yV8$s6RO
+2011-01-01, Aquarius, dVPnhedU
+2011-01-11, Corvus, %_oL1FeV
+2011-01-30, Pyxis, D6yzn3V1
+2011-01-12, Cetus, mV7EnUyo
+2011-01-26, Pisces, bmdT(W+3
+2011-01-07, Antlia, cxyaBwtz
+2011-01-17, Capricornus, &zQm2%G)
+2011-01-20, Delphinus, xMOMnlKX
+2011-01-17, Perseus, L8qaf)ih
+2011-01-13, Vulpecula, n#358b_m
+2011-01-22, Corona Australis, qDk+&ZRM
+2011-01-11, Coma Berenices, R)nPJf5$
+2011-01-22, Serpens, fPJ#Rj)7
+2011-01-26, Sculptor, fDuZ#4LL
+2011-01-19, Virgo, v+52BvIA
+2011-01-21, Virgo, YxE2S(V8
+2011-01-10, Crater, rMtC@UF(
+2011-01-23, Leo, lA&*#M1%
+2011-01-24, Canis Major, eeycy)OU
+2011-01-23, Puppis, _#bU1h60
+2011-01-24, Draco, _fFhl1)(
+2011-01-20, Aquila, @aXy)XQH
+2011-01-17, Leo, c)4pqwtO
+2011-01-05, Triangulum, V@fsXf)C
+2011-01-19, Centaurus, X*C0PLx*
+2011-01-22, Lynx, +TeGu+At
+2011-01-29, Andromeda, zt+S%JH5
+2011-01-03, Perseus, HxApo%)K
+2011-01-12, Centaurus, #D_uI49+
+2011-01-04, Ursa Minor, 6W1Am(DC
+2011-01-25, Pegasus, EnAQ#qso
+2011-01-19, Aquarius, DOQ6a+F+
+2011-01-03, Canis Major, Oek6^d%w
+2011-01-13, Pegasus, Z#lfQEJm
+2011-01-02, Musca, 4NhmRwLQ
+2011-01-28, Centaurus, q#@S1NfG
+2011-01-02, Crux, 3OIi2JAE
+2011-01-03, Octans, ZV4#zRuK
+2011-01-14, Coma Berenices, QpMy(NY2
+2011-01-06, Vela, ^wGh^kzH
+2011-01-07, Apus, 11sHk)wm
+2011-01-22, Sextans, )209F61b
+2011-01-10, Canis Major, s7HqLYWR
+2011-01-03, Ophiuchus, 45f)oqsE
+2011-01-20, Corona Australis, h9MWP*@J
+2011-01-25, Perseus, XSZb&bGl
+2011-01-03, Boötes, wkkjIhx5
+2011-01-02, Monoceros, OIdH^4yF
+2011-01-23, Triangulum Australe, a1Jq#eBD
+2011-01-13, Sagitta, k#tkDHgw
+2011-01-05, Sculptor, 2V+^0e$X
+2011-01-19, Octans, Oip4BUFf
+2011-01-18, Equuleus, 82w!gLNH
+2011-01-16, Camelopardalis, ^4^Fh+po
+2011-01-05, Triangulum Australe, n(6%Xb6v
+2011-01-18, Corona Borealis, !WZ!PfOe
+2011-01-06, Virgo, nrD7EbOM
+2011-01-25, Piscis Austrinus, ljADap5V
+2011-01-19, Libra, $2pOKYr!
+2011-01-13, Piscis Austrinus, 41_pmaWa
+2011-01-02, Caelum, sxzXk)qj
+2011-01-23, Sculptor, #Bvd6@Lw
+2011-01-09, Triangulum Australe, az6@a&tI
+2011-01-05, Vela, aAA@RSEa
+2011-01-23, Lacerta, x5HfycBY
+2011-01-11, Pavo, TG6zg7Mz
+2011-01-01, Perseus, 4#e)Lphu
+2011-01-19, Circinus, eY&du%6%
+2011-01-30, Aquila, DpUR2z19
+2011-01-17, Cepheus, Nc(jANhY
+2011-01-27, Scorpius, 2Y_Dw+j&
+2011-01-19, Circinus, TVGGP31z
+2011-01-28, Serpens, TH2!L4yg
+2011-01-23, Lynx, 1m%&9Jp$
+2011-01-18, Dorado, O!exF%P_
+2011-01-09, Triangulum Australe, 6NcToE%c
+2011-01-21, Puppis, n02w_519
+2011-01-25, Crux, ZbhM%Sg5
+2011-01-22, Hydrus, 1fA7MEW0
+2011-01-23, Pisces, PzB&1v4e
+2011-01-04, Canes Venatici, #@zxgS+K
+2011-01-27, Ursa Minor, n0emR%W*
+2011-01-28, Cassiopeia, d3qa4Wby
+2011-01-30, Lynx, 55Ywsd#$
+2011-01-30, Circinus, so(x0TNQ
+2011-01-16, Crux, )d7fe)DS
+2011-01-26, Scorpius, kxgYxKja
+2011-01-27, Boötes, m9Ot^J6E
+2011-01-16, Crux, usXy&^2Z
+2011-01-13, Leo, 4Hd)mQUP
+2011-01-17, Pictor, Lbhypo#I
+2011-01-17, Eridanus, C%yp+$&*
+2011-01-09, Cepheus, a9ab4Y0J
+2011-01-22, Lynx, G)Uj2u@G
+2011-01-21, Canis Major, H5LKK4BR
+2011-01-18, Gemini, C5gnkRQ*
+2011-01-01, Volans, p()EaH60
+2011-01-25, Pyxis, 7%O$PS&2
+2011-01-09, Corona Borealis, $ZfI%gvz
+2011-01-02, Crater, 7jW(1C!F
+2011-01-26, Taurus, waFQM6(G
+2011-01-06, Dorado, #h&2V*Cy
+2011-01-21, Cancer, mVzyI7)o
+2011-01-06, Pisces, 2C3mr6O_
+2011-01-02, Canes Venatici, ODT6tL9B
+2011-01-27, Canis Minor, Vn)kF3UL
+2011-01-26, Pyxis, 9%0pGIB!
+2011-01-01, Cygnus, LFr$WDrM
+2011-01-06, Musca, +RlgCWyP
+2011-01-21, Cassiopeia, ukS9AMqL
+2011-01-10, Circinus, gVsVEhrI
+2011-01-14, Norma, ll)YXQad
+2011-01-09, Ursa Minor, HBW6T*Is
+2011-01-16, Virgo, nXWQ2Xml
+2011-01-19, Dorado, Q(0QM#&0
+2011-01-02, Perseus, ztFh)0(9
+2011-01-06, Indus, FiuX%IF4
+2011-01-29, Taurus, C0BT*!kS
+2011-01-03, Camelopardalis, P&&+B^vx
+2011-01-22, Canis Minor, s_GjzXSI
+2011-01-19, Hydrus, p8r^x6JY
+2011-01-24, Leo Minor, j5MoWyO#
+2011-01-10, Pegasus, TQj*4oVd
+2011-01-01, Sagittarius, DS#2SS$c
+2011-01-14, Capricornus, uM#3)fCt
+2011-01-09, Lepus, n5Lg^RPi
+2011-01-30, Canis Major, 4^qRjIAN
+2011-01-11, Cygnus, k*EWmgbp
+2011-01-28, Pisces, eh0@7sz+
+2011-01-28, Fornax, HitUAA5V
+2011-01-22, Telescopium, Z*H@hl4q
+2011-01-08, Ursa Major, &b_1i35R
+2011-01-09, Ophiuchus, jHI5Y$Zy
+2011-01-22, Vela, d07qZ#Rq
+2011-01-16, Libra, WUZor2Qz
+2011-01-21, Corona Borealis, vZSRyHA*
+2011-01-20, Coma Berenices, @)N^kKpM
+2011-01-22, Triangulum Australe, #v(Hh1Ti
+2011-01-20, Ursa Major, sV+D%kIh
+2011-01-11, Cetus, O_%zB(%8
+2011-01-08, Triangulum, Gz4MzVn$
+2011-01-05, Lynx, ZVy1Aa7v
+2011-01-03, Coma Berenices, mZ^8Q9D&
+2011-01-30, Lupus, ^fRBvqx_
+2011-01-01, Scutum, +N^XLW#E
+2011-01-28, Vulpecula, UE$Tuj3H
+2011-01-30, Leo Minor, 6qYq(7j9
+2011-01-24, Aquarius, pD2ADdg@
+2011-01-29, Canes Venatici, EgJ2(#$#
+2011-01-04, Octans, wAf!zrKm
+2011-01-26, Caelum, 99UNb6(@
+2011-01-06, Vulpecula, kM+ReMbo
+2011-01-19, Scorpius, 7X1(Nf0v
+2011-01-01, Phoenix, MWKL2B)_
+2011-01-02, Aquila, Ed^&ka_d
+2011-01-06, Crux, #tX(c^)L
+2011-01-16, Microscopium, 6@7^k&S)
+2011-01-29, Sculptor, WHGuhhS_
+2011-01-23, Vela, nwvuV%W2
+2011-01-17, Pegasus, Rh4tjrIU
+2011-01-02, Vela, DSw3S%Sd
+2011-01-11, Hydra, h2xvuZWm
+2011-01-25, Sagittarius, m+9khIA_
+2011-01-23, Serpens, fu0PK(9+
+2011-01-20, Cepheus, 29LUEw6B
+2011-01-23, Vela, z5!_7y5B
+2011-01-15, Centaurus, xeBWgMQz
+2011-01-20, Cygnus, eZKd)X^l
+2011-01-01, Fornax, fxo4^d1#
+2011-01-08, Hydrus, h*v^&rsq
+2011-01-03, Octans, 5eTGpKtI
+2011-01-12, Carina, g#M3h(T)
+2011-01-30, Scorpius, j5Q0%s_R
+2011-01-20, Lepus, 4m^ERQSE
+2011-01-27, Lacerta, ya7lEx09
+2011-01-09, Perseus, m#&T37c)
+2011-01-12, Scutum, @50%a#Kz
+2011-01-13, Sagitta, 67Z^Dkx_
+2011-01-20, Norma, ZM+Bk+x(
+2011-01-30, Corvus, uihxgfa#
+2011-01-30, Cetus, efwXvZr!
+2011-01-16, Sagittarius, Wv+H&ElS
+2011-01-11, Ara, kc%3Ui31
+2011-01-08, Microscopium, ^UTtSIXf
+2011-01-24, Aquila, yWZHT*Uh
+2011-01-06, Norma, IlYO_NA4
+2011-01-30, Sagitta, )aikz5ms
+2011-01-21, Lepus, 2(uYSk9l
+2011-01-05, Cassiopeia, dV7fv&NU
+2011-01-11, Norma, WsXofURl
+2011-01-11, Sagittarius, e7EX25gV
+2011-01-30, Microscopium, 5P7Gk%dl
+2011-01-15, Leo, PjpGlqM4
+2011-01-03, Dorado, tQzKD+Rb
+2011-01-11, Puppis, 2P3RJmlu
+2011-01-11, Camelopardalis, bXrxpiY^
+2011-01-04, Carina, 2*4VC6i%
+2011-01-24, Vela, KaVG7M3Y
+2011-01-20, Auriga, #_p1V!*j
+2011-01-08, Leo, ytf6Wluz
+2011-01-08, Antlia, 2nXKgwSX
+2011-01-11, Hydra, a4ZE8HyP
+2011-01-03, Dorado, zgKQh0w8
+2011-01-07, Boötes, alF&Dq&W
+2011-01-19, Andromeda, 2MAFDTB+
+2011-01-05, Lacerta, _U#P^dMp
+2011-01-19, Corvus, dtBirq1B
+2011-01-18, Equuleus, z&@_MQ+c
+2011-01-10, Triangulum, Q@fp^CaY
+2011-01-20, Serpens, QIF6t5ml
+2011-01-17, Cepheus, #Q8qyQJu
+2011-01-14, Scorpius, Fcepq_m^
+2011-01-24, Aquarius, IWA6vNOG
+2011-01-20, Vulpecula, 4fgPjKRL
+2011-01-01, Volans, *26LsBFM
+2011-01-05, Monoceros, fZVe%2p9
+2011-01-24, Ophiuchus, I)xk3W_G
+2011-01-27, Mensa, D5qW)lua
+2011-01-22, Mensa, 2X9k2Zt)
+2011-01-01, Sagitta, 1I53uw^4
+2011-01-20, Hercules, NPyzj0u(
+2011-01-26, Pyxis, c($_e%Pg
+2011-01-28, Canis Minor, TqTb@6Db
+2011-01-09, Lepus, NwM4Sxy9
+2011-01-24, Capricornus, ^B+AeF8q
+2011-01-22, Virgo, rzG(rdwf
+2011-01-19, Norma, kX+WRN5u
+2011-01-28, Triangulum Australe, eG#w8Wz5
+2011-01-02, Pisces, GMJD$rx2
+2011-01-29, Hydrus, 0WTSU(8y
+2011-01-22, Hercules, QH)vXs+C
+2011-01-26, Carina, 3Nd6ov67
+2011-01-03, Circinus, yfuIWBCW
+2011-01-03, Musca, XdKCyJ2N
+2011-01-05, Virgo, NRn+QRw0
+2011-01-05, Corona Borealis, _I12nN*L
+2011-01-27, Fornax, jX8F@(wP
+2011-01-21, Columba, +K^Ti6Da
+2011-01-17, Perseus, &h(FPv5g
+2011-01-23, Perseus, $8R5Wo^M
+2011-01-25, Aries, yQf5k*Gi
+2011-01-22, Crater, Uh%fEtSs
+2011-01-03, Apus, 30YoEw09
+2011-01-09, Octans, opIq4s1$
+2011-01-14, Lepus, ^cKf5JD2
+2011-01-03, Boötes, p$h_e&KD
+2011-01-11, Triangulum Australe, t3%_c_mi
+2011-01-20, Corona Australis, CaD75q9t
+2011-01-28, Sextans, nM9vG*Aa
+2011-01-15, Corvus, &Stu_6UA
+2011-01-07, Draco, pSruqQF$
+2011-01-13, Lynx, j$Nx@w1g
+2011-01-01, Piscis Austrinus, nu0KlNXE
+2011-01-21, Octans, 8iYvOiiJ
+2011-01-15, Ursa Major, !hgyOhbg
+2011-01-23, Triangulum, M&7U958G
+2011-01-08, Ara, odS6K6Ep
+2011-01-18, Eridanus, %t)O*rc0
+2011-01-04, Triangulum Australe, I5T!wmut
+2011-01-25, Octans, LJI(2PDx
+2011-01-12, Apus, x)dutMYv
+2011-01-17, Reticulum, kyJwaFox
+2011-01-16, Pegasus, uWN8^RNK
+2011-01-22, Corona Australis, ICaN6Oth
+2011-01-02, Lacerta, rT(h!2p$
+2011-01-01, Virgo, n7TzVxn2
+2011-01-21, Hydra, C4uSL+dQ
+2011-01-10, Ophiuchus, 7GMFZ9gk
+2011-01-09, Hercules, gzI7vO78
+2011-01-19, Lacerta, jGan16f%
+2011-01-19, Puppis, tz3A&Gli
+2011-01-19, Corvus, q65p2)Ax
+2011-01-08, Coma Berenices, qao5E3zI
+2011-01-16, Cepheus, @OPh+1iV
+2011-01-19, Aries, TfhypkYy
+2011-01-27, Sculptor, &IrUJFwX
+2011-01-25, Pictor, ^bzdp%RR
+2011-01-02, Leo Minor, dOgx56_m
+2011-01-08, Aries, Z+hB*()5
+2011-01-20, Lynx, 0J7f)IoI
+2011-01-05, Delphinus, eQTZ!*@K
+2011-01-24, Indus, ECW2m&I2
+2011-01-01, Draco, U9f2xob9
+2011-01-22, Triangulum, slBVI2AI
+2011-01-22, Antlia, 8u(T+7h*
+2011-01-06, Antlia, 0O@laLQy
+2011-01-24, Sculptor, G+7p*^EY
+2011-01-17, Dorado, z_ovUG)A
+2011-01-11, Centaurus, VPu9w)Xa
+2011-01-06, Corvus, 2v5fSWgl
+2011-01-09, Cygnus, C)%fglsr
+2011-01-16, Cetus, wRVsEvVE
+2011-01-27, Chamaeleon, G9eh7En%
+2011-01-18, Vela, IqjtH)E0
+2011-01-09, Aries, oR7Nox_f
+2011-01-04, Hydrus, b)e#YW#(
+2011-01-29, Auriga, o*QZdLv#
+2011-01-18, Sagittarius, pe4dxO!Q
+2011-01-15, Crux, gEd*+XtH
+2011-01-18, Sagitta, 8o71@fHB
+2011-01-11, Dorado, KjQN7CIi
+2011-01-25, Ophiuchus, D4BcMQGJ
+2011-01-22, Lyra, Tqn)h^9_
+2011-01-01, Pisces, XdT2qISV
+2011-01-22, Canis Minor, SQr_kMHA
+2011-01-24, Sculptor, w$xU9k!k
+2011-01-04, Pisces, k7cjW!4n
+2011-01-01, Aquarius, BYDWH51$
+2011-01-13, Corvus, QpT49EhB
+2011-01-24, Draco, MI$OBy+Y
+2011-01-13, Indus, ZfzJ8B%g
+2011-01-20, Crater, Y5OHMi+9
+2011-01-06, Libra, ApERi04d
+2011-01-03, Fornax, QJr64ZN^
+2011-01-05, Cancer, vgK7tEYs
+2011-01-03, Hercules, m1W4sec@
+2011-01-10, Mensa, q5LH4DgT
+2011-01-13, Orion, $6bSicu!
+2011-01-12, Lacerta, d8QLUu@!
+2011-01-26, Centaurus, FMnzwjZ^
+2011-01-21, Pictor, $%t+&kgN
+2011-01-28, Norma, o2hDdiSU
+2011-01-14, Sculptor, H8cv6Mz*
+2011-01-18, Crux, ATUlDBc#
+2011-01-23, Equuleus, yYJ67j3E
+2011-01-17, Fornax, @JlQy6Z&
+2011-01-07, Octans, &xo&X^58
+2011-01-26, Fornax, QW5OPv+%
+2011-01-16, Orion, nCpaNPc$
+2011-01-10, Serpens, iJIxc73P
+2011-01-05, Draco, d$^pUwSq
+2011-01-24, Telescopium, qP9#i%uG
+2011-01-30, Orion, leVk5HzZ
+2011-01-16, Horologium, _8!26Mc_
+2011-01-26, Cetus, Zr1EZ0UY
+2011-01-09, Cassiopeia, *@T9pJFS
+2011-01-03, Lupus, KUWQSQ@s
+2011-01-22, Pisces, h(ppVrp^
+2011-01-11, Reticulum, f2okG0Yr
+2011-01-13, Andromeda, WFTkF0ke
+2011-01-15, Lacerta, #u^1PZgE
+2011-01-29, Vulpecula, ycm^HFT!
+2011-01-17, Volans, DD!ucM5g
+2011-01-14, Dorado, tx3HuBK0
+2011-01-09, Ophiuchus, uw^RjpwC
+2011-01-04, Delphinus, KUsMuc%i
+2011-01-27, Sagitta, HyIrD@aZ
+2011-01-22, Delphinus, @vMHOekp
+2011-01-02, Draco, yp7rYGEM
+2011-01-05, Volans, (k)iE8S4
+2011-01-22, Puppis, #)^CLn+M
+2011-01-03, Auriga, tTnfb4l_
+2011-01-06, Apus, #Sj62IJd
+2011-01-07, Caelum, 4!g$1d7B
+2011-01-04, Taurus, FJIYs47L
+2011-01-10, Lepus, qfYfIxm@
+2011-01-17, Canis Major, N7MXZJj*
+2011-01-24, Hydra, JSC!%H*_
+2011-01-23, Lupus, qBgV(Zd9
+2011-01-12, Cepheus, &ZGvlSBK
+2011-01-20, Apus, *o9BTt&n
+2011-01-27, Sagittarius, 0RJ43y@f
+2011-01-18, Pictor, z9QQQxzZ
+2011-01-13, Telescopium, NN+*kwK(
+2011-01-29, Scutum, JgkUsfJc
+2011-01-09, Phoenix, hEgS$LER
+2011-01-28, Pictor, &Gf*ntB!
+2011-01-01, Apus, A)Y)jWuu
+2011-01-27, Indus, ^H@n3fqd
+2011-01-26, Pegasus, hk1Yz%fy
+2011-01-09, Triangulum Australe, RIOjogL@
+2011-01-14, Vela, Z**)RFwJ
+2011-01-14, Corona Australis, GV($I$2Z
+2011-01-22, Eridanus, ogVKyCX9
+2011-01-20, Tucana, Qnj+TETA
+2011-01-15, Sagittarius, Pbwr*7*B
+2011-01-22, Lupus, uSrepRd7
+2011-01-30, Fornax, kZB#UY6O
+2011-01-04, Horologium, chB*v079
+2011-01-12, Andromeda, C_53rpbp
+2011-01-02, Orion, R!L9lVw$
+2011-01-29, Horologium, %O_iXD7O
+2011-01-21, Sagitta, JL(!iy6C
+2011-01-26, Volans, !+U$EXf%
+2011-01-20, Corona Australis, ^cktsae$
+2011-01-10, Draco, cXWx)9*G
+2011-01-13, Ara, C9wbaKuj
+2011-01-10, Lyra, nffjTi@Z
+2011-01-29, Reticulum, cC4UTHRQ
+2011-01-20, Ursa Major, +7gU3iB7
+2011-01-10, Caelum, iofq@UmT
+2011-01-15, Ara, daI2L*X&
+2011-01-29, Pegasus, YK#s_GUj
+2011-01-14, Octans, YFt!qWOI
+2011-01-06, Corvus, o*PCu@6w
+2011-01-21, Pyxis, S855bUdp
+2011-01-25, Antlia, 2%yD_0Ks
+2011-01-28, Telescopium, PWLUm4qb
+2011-01-24, Circinus, $idaESm*
+2011-01-17, Leo Minor, 9clQCa@U
+2011-01-19, Puppis, ZNZRkBgq
+2011-01-28, Microscopium, ^DF^PMi8
+2011-01-06, Boötes, NBWjgpga
+2011-01-15, Centaurus, zAEv5pYD
+2011-01-05, Pyxis, CB9cTZ^q
+2011-01-04, Auriga, uE%ah7HH
+2011-01-15, Capricornus, MZSEH%EH
+2011-01-14, Sculptor, (2uq@!as
+2011-01-01, Microscopium, +sT6OWah
+2011-01-21, Reticulum, rH%fPmb*
+2011-01-19, Leo, %0qM%e3a
+2011-01-15, Andromeda, W4XFR!3_
+2011-01-21, Ursa Minor, pEc7Nhqk
+2011-01-17, Tucana, zhEA3ATi
+2011-01-10, Triangulum Australe, pZ7smQVC
+2011-01-29, Mensa, #fre4ZRu
+2011-01-27, Octans, y8xx!3wR
+2011-01-15, Chamaeleon, @J7zpsU)
+2011-01-22, Mensa, hcSP1NZ1
+2011-01-15, Taurus, 0YUHzq(M
+2011-01-05, Crater, xMGCSby%
+2011-01-15, Antlia, i*zJlJh5
+2011-01-24, Sagittarius, 9oqPa7CN
+2011-01-04, Boötes, Q%R_8(CF
+2011-01-14, Telescopium, 7XzVtT9u
+2011-01-06, Eridanus, (ihQ9#8e
+2011-01-29, Corona Borealis, d1vGT9P_
+2011-01-20, Indus, ^zLfsj8w
+2011-01-05, Sagitta, is)!GpxR
+2011-01-14, Corona Borealis, GDgspjit
+2011-01-30, Apus, c1p23mSW
+2011-01-15, Ara, WZFMUs*O
+2011-01-04, Cancer, E&0#**f4
+2011-01-10, Aquila, Aevhe&zn
+2011-01-29, Aries, Z^$eyu71
+2011-01-29, Norma, tzj0(BBs
+2011-01-22, Monoceros, zQsgX@Th
+2011-01-20, Draco, S(J2C!Z^
+2011-01-12, Ara, Ng#j%GSi
+2011-01-16, Triangulum Australe, nk7xs@Bv
+2011-01-24, Circinus, d^s*%XQ6
+2011-01-13, Virgo, P2CTpUYH
+2011-01-06, Hydra, F*9G$GSM
+2011-01-12, Canes Venatici, wjrj#hw4
+2011-01-20, Pavo, Yz@&$Xuj
+2011-01-19, Crater, ^nQa4hZx
+2011-01-26, Corona Borealis, LI$lsKsY
+2011-01-14, Triangulum, zcZPpW95
+2011-01-05, Tucana, kDWouX#V
+2011-01-19, Taurus, ey2G)j51
+2011-01-14, Pisces, q70EGY9Q
+2011-01-02, Volans, JD#KLsks
+2011-01-19, Eridanus, fqPgO8Ig
+2011-01-28, Circinus, ke8DsBdR
+2011-01-13, Crux, u@+KvB*i
+2011-01-20, Scorpius, +InfA+Vf
+2011-01-11, Cancer, ZdHGj_DQ
+2011-01-16, Vulpecula, eF&yLjfa
+2011-01-13, Pisces, z*A^d1hD
+2011-01-24, Perseus, yZL&ydl8
+2011-01-01, Delphinus, 2KOI6LX%
+2011-01-14, Horologium, C%T%cq(o
+2011-01-15, Triangulum, lAhSMp48
+2011-01-17, Microscopium, F3NHio6$
+2011-01-26, Volans, i1NJ$Bzh
+2011-01-14, Pegasus, uwlLUdMR
+2011-01-12, Ursa Major, Z)Ry2dto
+2011-01-07, Taurus, vAdt0Igf
+2011-01-18, Virgo, QbC5oW+k
+2011-01-13, Pegasus, i2)!j&wo
+2011-01-04, Pavo, vY0qQAT%
+2011-01-28, Telescopium, v6*SQ&qL
+2011-01-25, Dorado, 9&C9w!)G
+2011-01-11, Puppis, zAIpkqW7
+2011-01-17, Lacerta, XlJauJc@
+2011-01-30, Ophiuchus, R(U3^++W
+2011-01-09, Centaurus, @XJM$M2#
+2011-01-11, Gemini, )z8g+88L
+2011-01-02, Vulpecula, e9Xr@^Bw
+2011-01-30, Equuleus, vyUiL3fR
+2011-01-28, Octans, pn0hSZ^$
+2011-01-25, Circinus, RetA@GTa
+2011-01-13, Leo Minor, D%x7KAUy
+2011-01-19, Corvus, W7BBfP8&
+2011-01-22, Puppis, V##XXbyd
+2011-01-07, Pictor, Ar!7!Csh
+2011-01-03, Sculptor, MNbiLJ4J
+2011-01-17, Sextans, 3QmfZj%9
+2011-01-29, Volans, j+DiD0qg
+2011-01-08, Indus, 7TeoMf6m
+2011-01-17, Cepheus, DP9&zQvn
+2011-01-05, Hydrus, 8j5_%)Ty
+2011-01-22, Indus, 5B!8YH@!
+2011-01-25, Fornax, kmqGkB@q
+2011-01-19, Pegasus, cO!TJDu%
+2011-01-21, Sextans, q7!BCndq
+2011-01-02, Musca, 3@8w5QEE
+2011-01-26, Vela, (+*xWnIZ
+2011-01-09, Hercules, AfOtm6qk
+2011-01-01, Fornax, _i2+@rA3
+2011-01-29, Horologium, &PcTttk(
+2011-01-03, Carina, lPGREz(9
+2011-01-23, Hydra, R$yHfvDn
+2011-01-23, Taurus, $wzD+LG!
+2011-01-09, Equuleus, v1#H$l39
+2011-01-02, Hydra, f^*_hG#y
+2011-01-09, Hydrus, 9_j0f)0e
+2011-01-03, Circinus, J+4iCuhh
+2011-01-11, Leo Minor, 3c9ZMVk7
+2011-01-26, Pisces, K+MFUIdG
+2011-01-10, Perseus, EHOPga%^
+2011-01-12, Dorado, SDUWuR(T
+2011-01-20, Delphinus, +53p7jvt
+2011-01-15, Orion, 1_H89y7K
+2011-01-29, Cassiopeia, FohVAl+G
+2011-01-02, Pisces, +HUlV(wN
+2011-01-03, Caelum, 1sNtGVu$
+2011-01-23, Norma, KcLvpu%$
+2011-01-13, Boötes, +hlPzxM8
+2011-01-25, Monoceros, UB4cAjlN
+2011-01-16, Octans, jCOJDh%^
+2011-01-13, Cancer, TMp7yg0l
+2011-01-20, Grus, s_C#8mOQ
+2011-01-11, Cassiopeia, !z)Q5kQv
+2011-01-16, Dorado, bC+%nlYa
+2011-01-09, Draco, F^2PGVi#
+2011-01-09, Piscis Austrinus, h43Ec6Gu
+2011-01-28, Corona Australis, uHx29!30
+2011-01-06, Cygnus, SWJGRHEO
+2011-01-25, Aries, 9fTpo4a6
+2011-01-08, Columba, (UQ#s7gP
+2011-01-08, Cancer, p(CF%jO$
+2011-01-24, Puppis, HivmJop9
+2011-01-23, Leo, UB3XiRq7
+2011-01-14, Piscis Austrinus, fbz$5O_Y
+2011-01-27, Scorpius, GTcQR9bl
+2011-01-01, Sagitta, )PTi0mti
+2011-01-28, Scorpius, 9p+C_)_@
+2011-01-09, Aquarius, m@uK0fSV
+2011-01-01, Corona Australis, rm97gLvM
+2011-01-16, Lepus, myKJ2tGO
+2011-01-19, Camelopardalis, r*n(U!jL
+2011-01-10, Auriga, AGn4R@Y+
+2011-01-06, Musca, a10JKKW5
+2011-01-21, Scorpius, ZBoqu1G1
+2011-01-08, Caelum, wLz%tvOl
+2011-01-16, Reticulum, Qpj1wcO)
+2011-01-02, Orion, jz2$ndDY
+2011-01-14, Lynx, micnE1rn
+2011-01-22, Cetus, UVP!rZaE
+2011-01-26, Vulpecula, 7h7(9Doi
+2011-01-28, Lynx, Kf4HVmhD
+2011-01-03, Dorado, bXkfwE51
+2011-01-15, Coma Berenices, hfWl5KCI
+2011-01-13, Canis Major, FGPamn(*
+2011-01-18, Pisces, 9JTW%Cna
+2011-01-08, Vela, 662091*i
+2011-01-27, Crux, 7ozMNnaP
+2011-01-11, Virgo, V^m4_!7V
+2011-01-11, Perseus, APr7HSTG
+2011-01-30, Taurus, NU3TxP2C
+2011-01-18, Perseus, N)d3ye+O
+2011-01-19, Crux, VCI)3R5b
+2011-01-26, Ara, mBHa&h5v
+2011-01-29, Canis Major, NhdXp^05
+2011-01-13, Reticulum, b7t@QwJR
+2011-01-30, Leo Minor, 5XhSP(53
+2011-01-10, Piscis Austrinus, TKG@FIZ(
+2011-01-24, Orion, *_2J@QZx
+2011-01-03, Musca, uXOfh_&7
+2011-01-01, Hydra, $NM4aIM6
+2011-01-20, Antlia, 2P8&*JD)
+2011-01-29, Volans, u_r$serL
+2011-01-02, Centaurus, EliqB^g_
+2011-01-24, Indus, OVFSf1G^
+2011-01-14, Norma, Xx^)1nkz
+2011-01-15, Equuleus, !+^#RY#O
+2011-01-26, Pisces, smFeOTMY
+2011-01-26, Cetus, J#asWqsp
+2011-01-25, Boötes, 7_49!U)l
+2011-01-18, Corona Borealis, EEE$jXTm
+2011-01-26, Ursa Minor, r7AlpMRO
+2011-01-15, Cancer, uY$01Lm5
+2011-01-11, Antlia, NvbgflaP
+2011-01-12, Coma Berenices, rsh(AP(_
+2011-01-20, Pavo, x8yjJdEC
+2011-01-17, Crux, mrZp0iAM
+2011-01-12, Dorado, LI6w5tP&
+2011-01-13, Serpens, ifAX7QT4
+2011-01-14, Caelum, 8m+a)A(*
+2011-01-24, Draco, OZkB$B#p
+2011-01-16, Eridanus, BNO#^rGt
+2011-01-18, Puppis, LJE72J0E
+2011-01-26, Reticulum, mLN9MrXE
+2011-01-18, Horologium, Dm0@4I#N
+2011-01-06, Aquarius, cUjhoS4e
+2011-01-04, Sculptor, Jp6rw_%V
+2011-01-25, Musca, vsip$&Ib
+2011-01-26, Hercules, hR%sC7Sj
+2011-01-08, Cancer, kFI4aUJf
+2011-01-07, Eridanus, f6X^kZ&Z
+2011-01-25, Gemini, +iV76uHJ
+2011-01-20, Aries, 9HQbVHrJ
+2011-01-11, Cassiopeia, p#gQQ4To
+2011-01-21, Crater, NRG@bQUi
+2011-01-05, Lynx, RLjqlE_Q
+2011-01-04, Antlia, RsVxKrIZ
+2011-01-09, Serpens, xs+QF6##
+2011-01-02, Corona Borealis, 2Z)lu0ef
+2011-01-18, Mensa, @Rj75_N7
+2011-01-19, Pictor, FM@ziylb
+2011-01-09, Canis Major, %&&xo18K
+2011-01-30, Aquila, qzQ!(#1p
+2011-01-06, Virgo, AnhwI*l6
+2011-01-27, Chamaeleon, Qbn!&$HA
+2011-01-24, Octans, %itVzWV3
+2011-01-17, Lyra, Gn!sKN1n
+2011-01-29, Scutum, m1O$zw)a
+2011-01-21, Aquarius, ba3DweoL
+2011-01-18, Libra, 2FU#QAty
+2011-01-02, Lyra, i7n1%4aP
+2011-01-27, Triangulum, 2SQ7%4o5
+2011-01-25, Capricornus, D6$HMm%w
+2011-01-26, Norma, +CXA^fTw
+2011-01-15, Hercules, sm%l4UXk
+2011-01-26, Piscis Austrinus, dPPIPLb$
+2011-01-18, Leo Minor, IR0qLKMa
+2011-01-22, Mensa, EqS2XCn0
+2011-01-28, Octans, @^E4s_F^
+2011-01-07, Equuleus, Bq%_i(VK
+2011-01-26, Vela, dDah_lt+
+2011-01-27, Canis Minor, uu(EWzLJ
+2011-01-03, Carina, 0wf$%bMq
+2011-01-17, Monoceros, FfNV)Zfp
+2011-01-26, Boötes, +1D9Go6P
+2011-01-21, Microscopium, !T4JK#kJ
+2011-01-04, Caelum, zUd2gTM#
+2011-01-15, Aquarius, DCp1!@We
+2011-01-03, Leo, Rd)YF9j&
+2011-01-08, Crux, M3Qr^k*!
+2011-01-17, Leo, @ybjq#73
+2011-01-20, Lyra, RiQO9#x$
+2011-01-21, Aquila, Ws^Zph5s
+2011-01-15, Circinus, rONgCu1a
+2011-01-23, Cepheus, Y8m6jX#R
+2011-01-04, Monoceros, ZT#BXrrk
+2011-01-15, Volans, %8z13vGY
+2011-01-09, Crater, ixbP*1*l
+2011-01-04, Octans, ElJziXBZ
+2011-01-03, Ursa Major, wCrz4p&2
+2011-01-07, Libra, YILyNj04
+2011-01-23, Lacerta, &S%3Q2e6
+2011-01-09, Crux, 6!kMql3$
+2011-01-27, Ursa Minor, ^rXpb4^)
+2011-01-06, Orion, Fd$TdyEV
+2011-01-30, Lacerta, LINsZWJT
+2011-01-01, Corona Australis, o!eZPpEL
+2011-01-02, Indus, 5pD63RMa
+2011-01-10, Antlia, 9NO@Y0Ts
+2011-01-21, Pisces, DE)2yzPK
+2011-01-01, Volans, w3%MUSl)
+2011-01-04, Cassiopeia, PM%!zXh@
+2011-01-01, Lynx, FMs&7tuJ
+2011-01-21, Lepus, oT@sB02T
+2011-01-10, Cassiopeia, P5Prs1$v
+2011-01-25, Musca, JSw$FUY6
+2011-01-16, Orion, UDltJzXj
+2011-01-29, Sextans, A0Ejr6sc
+2011-01-13, Eridanus, &BYVz%qS
+2011-01-15, Aquarius, sBSBwrf&
+2011-01-05, Delphinus, z6DH52ON
+2011-01-06, Delphinus, f8#0tbF&
+2011-01-15, Ara, qp98hpCw
+2011-01-15, Norma, S&+&xiC9
+2011-01-10, Sagitta, aff4jQhl
+2011-01-29, Serpens, 4jkB0QAc
+2011-01-07, Fornax, ewu)UqHq
+2011-01-16, Indus, ajhDBGoE
+2011-01-02, Puppis, YCVvs3rr
+2011-01-24, Sagittarius, #xUjsxw4
+2011-01-19, Boötes, 81+JbR!#
+2011-01-02, Pictor, %4_AH839
+2011-01-13, Orion, lEA3p#6Q
+2011-01-01, Sagitta, b(QSHqLT
+2011-01-30, Mensa, B8d9tt3k
+2011-01-30, Corona Borealis, Ntpb9laY
+2011-01-12, Taurus, TaTja^Da
+2011-01-11, Horologium, m3jkd51a
+2011-01-20, Sculptor, Zn%#NQhR
+2011-01-27, Aquarius, mfc34o#1
+2011-01-07, Boötes, xAJhcTI^
+2011-01-29, Gemini, orn6w#xd
+2011-01-17, Ursa Major, iIfLN2ah
+2011-01-13, Cygnus, if%N$flc
+2011-01-29, Corvus, 40uMJo%1
+2011-01-02, Virgo, RnHoDrCM
+2011-01-08, Lyra, 9EvIxb!#
+2011-01-21, Sagitta, L(%Kov5p
+2011-01-26, Libra, usLvPSKJ
+2011-01-24, Pisces, T7%0!Foj
+2011-01-06, Serpens, 1g(p+n*B
+2011-01-30, Indus, AVG8#KMO
+2011-01-30, Sagitta, VJV1HKeI
+2011-01-26, Mensa, )R_7$#Tm
+2011-01-10, Draco, #RVUq(+r
+2011-01-18, Lepus, Nt(ZF6gh
+2011-01-22, Crux, R%GdcPta
+2011-01-18, Corona Borealis, (cFgol3z
+2011-01-28, Cassiopeia, 2qLYPm5Z
