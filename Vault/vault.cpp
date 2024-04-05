@@ -473,7 +473,7 @@ int main() {
     std::shuffle(roomsSymbols.begin(), roomsSymbols.end(), gen);
 
     // Print the symbols for each room
-    printRooms(roomsSymbols);
+    // printRooms(roomsSymbols);
 
     // Find the target rooms
     std::vector<int> locations = target_rooms(roomsSymbols, beacon_nums);
