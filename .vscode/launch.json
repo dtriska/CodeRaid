@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dtris/CodeRaid/CodeRaid/Start",
-      "program": "c:/Users/dtris/CodeRaid/CodeRaid/Start/build/Debug/outDebug",
+      "cwd": "c:/Users/dtris/CodeRaid/CodeRaid",
+      "program": "c:/Users/dtris/CodeRaid/CodeRaid/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
