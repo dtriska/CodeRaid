@@ -21,8 +21,8 @@ constellations = [
 
 # Function to generate random date between 2010 and 2013
 def generate_random_date():
-    start_date = datetime.datetime(2012, 3, 1)
-    end_date = datetime.datetime(2012, 3, 30)
+    start_date = datetime.datetime(2010, 12, 1)
+    end_date = datetime.datetime(2010, 12, 31)
     delta = end_date - start_date
     random_days = random.randint(0, delta.days)
     random_date = start_date + datetime.timedelta(days=random_days)
