@@ -59,7 +59,8 @@ void displayHelp() {
               << "rooms - Access Rooms\n"
               << "terminal - Access Terminal\n"
               << "vault - Access Vault\n"
-              << "help - View this menu\n";
+              << "help - View this menu\n"
+              << "exit - Exit Vault early PROGRESS WON'T SAVE, ONLY USE IF DONE\n";
 }
 
 std::vector<std::string> pillar() {
@@ -238,7 +239,8 @@ void beacons(const std::string& message, std::vector<int> targets) {
     }
 
     if (areSame(targets, input_beacons)) {
-        std::cout << "Same values!" << std::endl;
+        std::cout << "Same values, congrats you have saved Humanity!" << std::endl;
+        std::cout << "You may now exit!" << std::endl;
     } else {
         std::cout << "Different values!" << std::endl;
     }
