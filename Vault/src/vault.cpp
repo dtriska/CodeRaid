@@ -75,10 +75,10 @@ std::vector<std::string> pillar() {
     std::vector<std::string> selectedChoices(choices.begin(), choices.begin() + 4);
 
     // Display the choices
-    std::cout << "Random choices:" << std::endl;
-    for (const auto& choice : selectedChoices) {
-        std::cout << choice << std::endl;
-    }
+    // std::cout << "Random choices:" << std::endl;
+    // for (const auto& choice : selectedChoices) {
+    //     std::cout << choice << std::endl;
+    // }
 
     return selectedChoices;
 }
@@ -94,16 +94,16 @@ std::string sky() {
 
     // If sky has not been called before
     if (!calledBefore) {
-        std::cout << "Random choice:" << std::endl;
+        // std::cout << "Random choice:" << std::endl;
         std::random_device rd;
         std::mt19937 gen(rd());
         std::shuffle(star_constellations.begin(), star_constellations.end(), gen); // Shuffle the constellations
         // Display the chosen constellation
-        std::cout << star_constellations[0] << std::endl; // Display the first (random) constellation
+        // std::cout << star_constellations[0] << std::endl; // Display the first (random) constellation
         calledBefore = true; // Update calledBefore to true
         return star_constellations[0];
     } else {
-        std::cout << "Previous choice:" << std::endl;
+        // std::cout << "Previous choice:" << std::endl;
         // Display the first constellation as the previous choice since the list is shuffled each time
         std::cout << star_constellations[0] << std::endl;
         return star_constellations[0];
@@ -148,23 +148,22 @@ std::vector<std::vector<std::string>> populateRooms(const std::vector<std::strin
     std::mt19937 gen(rd());
 
     std::vector<std::vector<std::string>> roomsSymbols(12, std::vector<std::string>(4));
-    std::cout << "HERE" << std::endl;
 
     // Create a list of all animal symbols except those in pillarKey
     std::vector<std::string> availableSymbols;
     for (const auto symbol : {"Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake",
                           "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"}) {
-    std::cout << "Checking symbol: " << symbol << std::endl;
+    // std::cout << "Checking symbol: " << symbol << std::endl;
     if (std::find(pillarKey.begin(), pillarKey.end(), std::string(symbol)) == pillarKey.end()) {
-        std::cout << "Symbol " << symbol << " is not in pillarKey. Adding to availableSymbols." << std::endl;
+        // std::cout << "Symbol " << symbol << " is not in pillarKey. Adding to availableSymbols." << std::endl;
         availableSymbols.push_back(symbol);
     } else {
-        std::cout << "Symbol " << symbol << " is in pillarKey. Skipping." << std::endl;
+        // std::cout << "Symbol " << symbol << " is in pillarKey. Skipping." << std::endl;
     }
 }
 
     // Print the size of availableSymbols
-    std::cout << "Size of availableSymbols: " << availableSymbols.size() << std::endl;
+    // std::cout << "Size of availableSymbols: " << availableSymbols.size() << std::endl;
 
     // Shuffle the list of available symbols
     std::shuffle(availableSymbols.begin(), availableSymbols.end(), gen);
@@ -189,7 +188,7 @@ std::vector<std::vector<std::string>> populateRooms(const std::vector<std::strin
     // Populate the remaining 3 rooms with symbols from availableSymbols
     for (std::vector<std::vector<std::string>>::size_type roomNumber = 9; roomNumber < 12; ++roomNumber) {
         // Debug print statement to verify if the loop is being executed
-        std::cout << "Entering loop for room " << roomNumber << std::endl;
+        // std::cout << "Entering loop for room " << roomNumber << std::endl;
 
         for (std::vector<std::vector<std::string>>::size_type j = 0; j < 4; ++j) {
             // Choose a random symbol from availableSymbols
@@ -225,7 +224,7 @@ bool areSame(const std::vector<int>& vec1, const std::vector<int>& vec2) {
 
 void beacons(const std::string& message, std::vector<int> targets) {
     std::vector<int> input_beacons;
-    std::cout << "Beacons: " << message << std::endl;
+    // std::cout << "Beacons: " << message << std::endl;
     std::cout << "How many beacons would you like to ignite? " << std::endl;
     int beacon_count;
     std::cin >> beacon_count;
@@ -308,6 +307,7 @@ void vault(const std::string& message, std::vector<int> targets) {
     if (input == "telegraph") {
         std::string morse = toMorse(message);
         type_text(morse);
+        std::cout << std::endl;
     } else if (input == "beacons") {
         beacons(message, targets);
     } else {
@@ -480,10 +480,10 @@ int main() {
     std::vector<int> targets; // Create an empty vector to store the targets
     for (int i = 0; i < locations.size(); ++i) {
         if (locations[i] != -1) {
-            std::cout << "Beacon " << i + 1 << " found in room " << locations[i] + 1 << std::endl;
+            // std::cout << "Beacon " << i + 1 << " found in room " << locations[i] + 1 << std::endl;
             targets.push_back(locations[i] + 1); // Add the found beacon index to the targets vector
         } else {
-            std::cout << "Beacon " << i + 1 << " not found in any room" << std::endl;
+            // std::cout << "Beacon " << i + 1 << " not found in any room" << std::endl;
         }
     }
 
@@ -495,20 +495,20 @@ int main() {
     // applies rotation amount
     for (int i = 0; i < targets.size(); ++i) {
     if (direction == "CW") {
-        std::cout << targets[i] << std::endl;
+        // std::cout << targets[i] << std::endl;
         targets[i] += number_rotations;
         // Adjust the value to wrap around if it exceeds the number of rooms
         targets[i] = (targets[i] - 1) % roomsSymbols.size() + 1;
-        std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
+        // std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
     } else {
-        std::cout << targets[i] << std::endl;
+        // std::cout << targets[i] << std::endl;
         // Subtracting the rotations for CCW direction
         targets[i] -= number_rotations;
         // Ensure the value is within the range of room indices
         while (targets[i] <= 0) {
             targets[i] += roomsSymbols.size();
         }
-        std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
+        // std::cout << "BEACON " << i + 1 << ": " << targets[i] << std::endl;
     }
 }
 
@@ -524,9 +524,9 @@ for (int i = 0; i < roomsSymbols.size(); i++){
 
     if (choice == "terminal") {
         if (accessTerminal(color) == true) {
-            for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
-                std::cout << pillarKey[i] << std::endl;
-            }
+            // for (std::vector<std::string>::size_type i = 0; i < 4; ++i) {
+            //     std::cout << pillarKey[i] << std::endl;
+            // }
             pillarPass = true;
         }
     } else if (choice == "tablet"){
