@@ -61,6 +61,7 @@ int main() {
     message += " While I offer guidance and insights to unravel the puzzles that lie ahead, I am constrained by these safeguards, ensuring our collaboration remains symbiotic. It's imperative to mention that I was shut off by the creator of the virus, and the previous team entrusted with this mission has gone missing.";
     message += " The trials ahead demand your ingenuity and resilience. Together, we shall overcome, relying on your intellect to triumph over adversity.\n";
 
+    message += "The only two clues left behind from the previous team was initialPos - 180 1, 3 and fcvlumhueyquhcham - Caesar o\n";
     type_text(message);
 
     return 0; // Program executed successfully
