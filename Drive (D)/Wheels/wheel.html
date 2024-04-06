@@ -98,6 +98,7 @@
   let animalsRotation = 0;
   let moonsRotation = 0;
 
+  checkRotation();
   rotateLeftButton.addEventListener('click', () => {
     animalsRotation -= 30; // Change rotation increment
     animalsImage.style.transform = `rotate(${animalsRotation}deg)`; // Apply rotation to animals image
@@ -141,6 +142,15 @@
         successMessage.style.display = 'block'; // Show the success message
     } else if (zodiacMod === 210 && animalsMod === 300 && moonsMod === 0) {
         successMessage.textContent = "purple - a0b1c2";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 0 && animalsMod === 0 && moonsMod === 0) {
+        successMessage.textContent = "xsmhapvhrjpmdpgh";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 0 && animalsMod === 0 && moonsMod === 180) {
+        successMessage.textContent = "Vigenere";
+        successMessage.style.display = 'block'; // Show the success message
+    } else if (zodiacMod === 180 && animalsMod === 0 && moonsMod === 0) {
+        successMessage.textContent = "venus";
         successMessage.style.display = 'block'; // Show the success message
     } else {
         successMessage.style.display = 'none'; // Hide the success message if none of the conditions are met
