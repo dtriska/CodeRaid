@@ -22,25 +22,25 @@ Welcome to CodeRaid! An interactive terminal-based game where you and your team 
    
    ### Navigation Commands
 
-- `cd directory_name`: Change directory to the specified directory.
-- `ls`: List files and directories in the current directory.
+   - `cd directory_name`: Change directory to the specified directory.
+   - `ls`: List files and directories in the current directory.
 
 ### File Manipulation Commands
 
-- `cat filename`: View text files (use only on .txt files)
-- `chrome filename`: Open HTML files in a web browser (use only on .html files)
-- `./filename`: Execute executable files
-- `start filename`: View JPEG images or view .html files on Windows
+   - `cat filename`: View text files (use only on .txt files)
+   - `chrome filename`: Open HTML files in a web browser (use only on .html files)
+   - `./filename`: Execute executable files
+   - `start filename`: View JPEG images or view .html files on Windows
      
-   - **Level Progression**: Start with Level 1 in the Start Folder. Once completed, proceed to Level 2 in the Vault Folder. Note that Level 2 requires information obtained from Level 1.
+- **Level Progression**: Start with Level 1 in the Start Folder. Once completed, proceed to Level 2 in the Vault Folder. Note that Level 2 requires information obtained from Level 1.
    
-   - **Wheels Folder**: In the Wheels Folder, only access the wheels.html file. Do not view the other images.
+- **Wheels Folder**: In the Wheels Folder, only access the wheels.html file. Do not view the other images.
    
-   - **Unused Directory**: Avoid accessing the Unused Directory.
+- **Unused Directory**: Avoid accessing the Unused Directory.
    
-   - **Internet Usage**: While it's open to using the internet, try to minimize external references for a more immersive experience.
+- **Internet Usage**: While it's open to using the internet, try to minimize external references for a more immersive experience.
    
-   - **Save Progress**: Be cautious when ending the executable prematurely, as all progress will be lost. Only exit if you're sure you'd like to end the game.
+- **Save Progress**: Be cautious when ending the executable prematurely, as all progress will be lost. Only exit if you're sure you'd like to end the game.
    
 5. **Enjoy the Adventure**: Immerse yourself in the challenges, work together with your team, and enjoy the thrilling adventure of CodeRaid!
 
