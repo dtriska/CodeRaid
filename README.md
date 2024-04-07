@@ -20,12 +20,17 @@ Welcome to CodeRaid! An interactive terminal-based game where you and your team 
    
    - **No Peeking**: Avoid looking at source code files (ending with .cpp or .py) or files within the src folder. This ensures a fair and challenging experience.
    
-   - **Commands to Know**: Familiarize yourself with the following commands for interacting with various file types:
-   
-     - `cat filename`: View text files (use only on .txt files)
-     - `chrome filename`: Open HTML files in a web browser (use only on .html files)
-     - `./filename`: Execute executable files
-     - `start filename`: View JPEG images
+   ### Navigation Commands
+
+- `cd directory_name`: Change directory to the specified directory.
+- `ls`: List files and directories in the current directory.
+
+### File Manipulation Commands
+
+- `cat filename`: View text files (use only on .txt files)
+  - `chrome filename`: Open HTML files in a web browser (use only on .html files)
+  - `./filename`: Execute executable files
+  - `start filename`: View JPEG images or view .html files on Windows
      
    - **Level Progression**: Start with Level 1 in the Start Folder. Once completed, proceed to Level 2 in the Vault Folder. Note that Level 2 requires information obtained from Level 1.
    
